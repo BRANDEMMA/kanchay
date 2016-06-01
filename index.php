@@ -117,7 +117,7 @@
 			</div>
 			<div class="clear"></div>
 		</div>
-	</div>
+	</div>	
 
 	<div class="contenedor-paquetes">
 		<div class="titulo-paquetes"><img src="img/paquetes-kanchay-peru.png"><h2>PAQUETES</h2></div>

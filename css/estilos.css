@@ -33,10 +33,13 @@ body{
 	margin: 0 auto;
 	width: 100%;
 }
-.menu-principal img{
-	height: 100%;
+.menu-principal .logo{
 	margin-right: 3%;
 	width: 20%;
+}
+.menu-principal img{
+	height: 100%;
+	width: 100%;
 }
 .menu-principal ul{
 	list-style: none;
@@ -901,7 +904,7 @@ footer img{
 
 /*===========  ESTILOS DE LA SECCION GASTRONOMIA =============*/
 .fondo-azulclaro{
-	background-color: #46B2AF;
+	background-color: #4CBAE5;
 	width: 100%;
 }
 .titulo-gastronomia{
@@ -961,4 +964,254 @@ footer img{
 	margin-left: 28%;
 	margin-top: 2%;
 	width: 80%;
+}
+
+
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION SERVICIOS =============*/
+.titulo-servicios2{
+	display: flex;
+	margin-bottom: 3%;
+    padding-left: 20%;
+    padding-top: 3%;
+}
+.titulo-servicios2 h2{
+	color: #1F5698;
+	font-family: "arcena";
+	margin-top: 31.5px;
+}
+.titulo-servicios2 img{
+	height: 92px;
+	margin-right: 2%;
+	width: 92px;
+}
+.opciones-servicios{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5%;
+}
+.hoteles{
+	text-align: center;
+}
+.transporte{
+	text-align: center;
+}
+.hoteles a, .transporte a{
+	color: #363636;
+	font-family: "arcena";
+	font-size: 1.8em;
+	text-decoration: none;
+}
+.hoteles img, .transporte img{
+	width: 80%;
+}
+#hoteles-todos{
+	background-color: rgba(255,255,255,0.6);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    padding: 2% 6%;
+    text-align: justify;
+    width: 68%;
+}
+#hoteles-todos h3{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 1.8em;
+	margin-bottom: 0;
+}
+#hoteles-todos h4{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 1.5em; 
+	margin-top: 0;
+}
+#hoteles-todos h4 span{
+	color: #FFED00;
+}
+.contenedor-hotel{
+	float: left;
+	margin-bottom: 5%;
+	width: 415px;
+}
+.img-hotel{
+	float: left;
+	width: 38%;
+}
+.img-hotel img{
+	border-radius: 15px;
+	width: 100%;
+}
+.miniaturas-hotel{
+	float: left;
+	margin: 0 3%;
+	width: 16%;
+}
+.miniaturas-hotel img{
+	border-radius: 5px;
+	margin-bottom: 5%;
+	width: 100%;
+}
+.detalle-hotel{
+	float: left;
+	width: 40%;
+}
+.detalle-hotel h5{
+	color: #385794;
+	font-family: "arcena";
+	font-size: 1.5em;
+	margin: 0;
+}
+.detalle-hotel a{
+	color: #385794;
+	text-decoration: none;
+}
+.detalle-hotel p{
+	color: #363636;
+	font-family: "my_riad_pro_cond";
+	font-size: 0.8em;
+}
+.espacio-opciones{
+	margin-right: 6%;
+}
+
+
+#transporte-todos{
+	background-color: rgba(255,255,255,0.6);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    padding: 2% 6%;
+    text-align: center;
+    width: 68%;
+}
+#transporte-todos h3{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 1.8em;
+	margin-bottom: 0;
+	text-align: left;
+}
+.opcion-transporte{
+	margin: 10% 0;
+}
+.opcion-transporte img{
+	width: 40%;
+}
+.opcion-transporte a{
+	color: #363636;
+	font-family: "arcena";
+	font-size: 1.8em;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION HOTEL1 =============*/
+.hoteles-descripcion{
+	background-color: rgba(255,255,255,0.6);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    padding: 2% 6%;
+    text-align: justify;
+    width: 68%;
+}
+.hoteles-descripcion h3{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 1.8em;
+	margin-bottom: 21.28px;
+}
+.izquierda-descripcion{
+	border-top: 2px solid #385794;
+	color: #363636;
+	float: left;
+	font-family: "my_riad_pro_cond";
+	margin-right: 4%;
+	padding-top: 25.53px;
+	width: 48%;
+}
+.izquierda-descripcion img{
+	border-radius: 5px;
+	width: 100%;
+}
+.derecha-descripcion{
+	color: #363636;
+	float: left;
+	font-family: "my_riad_pro_cond";
+	width: 48%;
+}
+.derecha-descripcion h4{
+	font-size: 1.2em;
+}
+.derecha-descripcion p{
+	margin-bottom: 15%;
+}
+.derecha-descripcion a{
+	background-color: #385794;
+	border-radius: 5px;
+	color: white;
+	float: right;
+	font-family: "arcena";
+	padding: 2px 10px;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION TRASNPORTE AEREO =============*/
+.contenedor-aereo{
+	background-color: rgba(255,255,255,0.6);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    padding: 2% 6%;
+    width: 68%;
+}
+.contenedor-aereo h3{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 1.8em;
+	margin-bottom: 0;
+}
+.izquierda-aereo{
+	border-right: 2px solid #5C5C5C;
+	float: left;
+	margin-right: 5%;
+	width: 40%;
+}
+.izquierda-aereo img{
+	padding-top: 10%;
+	width: 100%;
+}
+.derecha-aereo{
+	float: left;
+	width: 50%;
+}
+.opcion-aereo{
+	margin: 3% 0;
+}
+.derecha-aereo .aereo1{
+	margin: 0 1%;
+	width: 46%;
+}
+.derecha-aereo .aereo2{
+	margin: 3% 2% 0 2%;
+	width: 28%;
 }
