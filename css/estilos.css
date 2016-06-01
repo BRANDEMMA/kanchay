@@ -1,0 +1,964 @@
+/*--==================== FUENTES ========================--*/
+@font-face {
+	font-family: "arcena";
+	src: url(../font/ARCENA.ttf) format("truetype");
+}
+@font-face {
+	font-family: "my_riad_pro_regular";
+	src: url(../font/MyriadPro-Regular.otf) format("opentype");
+}
+@font-face {
+	font-family: "my_riad_pro_cond";
+	src: url(../font/MyriadPro-Cond.otf) format("opentype");
+}
+@font-face {
+	font-family: "my_riad_pro_semibold";
+	src: url(../font/MyriadPro-Semibold.otf) format("opentype");
+}
+
+/*--==================== ESTILOS GENERALES ========================--*/
+body{
+	margin: 0;
+	width: 100%;
+}
+.clear{
+	clear: both;
+}
+
+/*===========  ESTILOS DEL MENU  =============*/
+.menu-principal{
+	display: flex;
+	font-family: "my_riad_pro_semibold";
+	justify-content: center;
+	margin: 0 auto;
+	width: 100%;
+}
+.menu-principal img{
+	height: 100%;
+	margin-right: 3%;
+	width: 20%;
+}
+.menu-principal ul{
+	list-style: none;
+	padding: 0;
+}
+.nave{	
+	margin: 0;
+}
+.nave li a{
+	border-right: 1.5px solid black;
+	color: black;
+	display: block;
+	font-size: 1em;
+	padding: 30px 10px;
+	text-decoration: none;
+}
+.nave li a:hover{
+	background-color: blue;
+	color: white;
+}
+.nave > li{
+	float: left;
+}
+.nave li ul{
+	display: none;
+	position: absolute;
+	z-index: 100;
+}
+.nave li:hover > ul{
+	display: block;
+}
+.nave li ul li a{
+	background-color: blue;
+	border-right: none;
+	border-top: 1px solid white;
+	color: white;
+}
+
+
+
+
+
+/*===========  ESTILOS DEL SLIDER  =============*/
+#contenedor-slider{
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+#slider{
+	display: flex;
+	width: 300%;
+}
+#slider section{
+	width: 100%;
+}
+#slider img{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+#btn-next, #btn-prev{
+	cursor: pointer;
+	height: 10%;
+	position: absolute;
+	top: 50%;
+	width: 2.5%;
+	transform: translateY(-50%);
+}
+#btn-prev{
+	left: 10px;
+}
+#btn-next{
+	right: 10px;
+}
+#btn-next img, #btn-prev img{
+	width: 100%;
+}
+
+
+
+
+
+
+
+/*===========  ESTILOS DE INFORMACION DE CONTACTO =============*/
+.informacion-contacto{
+	border-top: 1px dotted black;
+	color: #616160;
+	font-family: "arcena";
+	margin: 0 auto;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	width: 60%;
+}
+.informacion-contacto img{
+	margin-right: 1%;
+	width: 3%;
+}
+.informacion-contacto h2{
+	font-size: 1.5em;
+	font-weight: lighter;
+}
+.informacion-contacto h2 span{
+	font-size: 1em;
+	font-weight: lighter;
+}
+.informacion-contacto .datos{
+	display: flex;
+	float: left;
+	font-family: "my_riad_pro_cond";
+	width: 33%;
+}
+.datos img{
+	height: 40px;
+	margin-right: 10px;
+	width: 40px;
+}
+.datos p{
+	font-size: 0.8em;
+	margin: 0;
+}
+.datos p span{
+	font-family: "my_riad_pro_semibold";
+	font-size: 1.2em;
+}
+.datos p a{
+	color: #616160;
+	text-decoration: none;
+}
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION NOSOTROS =============*/
+.nosotros{
+	border-top: 2px dotted black;
+	margin: 0 auto;
+	padding-bottom: 10%;
+	width: 90%;
+
+	background: lightblue;
+}
+.izquierda-nosotros{
+	float: left;
+	padding-top: 10%;
+	text-align: center;
+	width: 60%;
+}
+.derecha-nosotros{
+	float: left;
+	padding-top: 10%;
+	width: 30%;
+}
+.derecha-nosotros img{
+	width: 100%;
+}
+.derecha-nosotros h3{
+	color: #1F5698;
+	font-family: "my_riad_pro_semibold";
+}
+.derecha-nosotros p{
+	font-family: "my_riad_pro_cond";
+	text-align: justify;
+}
+.boton-ver-mas{
+	background-color: rgba(255,255,255,0.5);	
+	border-radius: 2px;
+	float: right;
+	height: 21.5px;	
+	padding: 5px 10px;
+	width: 86px;
+}
+.boton-ver-mas a{
+	color: #1F5698;
+	display: flex;
+	text-decoration: none;
+}
+.boton-ver-mas img{
+	height: 21.5px;
+	margin-right: 8.6px;
+	width: 21.5px;
+}
+.boton-ver-mas p{
+	font-family: "my_riad_pro_semibold";
+	margin: 0;
+	padding-top: 2%;
+}
+
+
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION SERVICIOS =============*/
+.contenedor-servicios{
+	border-top: 2px dotted black;
+	margin: 0 auto;
+	width: 90%;
+
+	background-color: lightblue;
+}
+.servicios{
+	margin: 0 auto;
+	padding-bottom: 5%;
+	width: 75%;
+}
+.izquierda-servicios{
+	float: left;
+	width: 40%;	
+}
+.izquierda-servicios .titulo-servicios{
+	display: flex;
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+.izquierda-servicios .titulo-servicios h2{
+	color: #1F5698;
+	font-family: "arcena";
+	margin-top: 31.5px;
+}
+.izquierda-servicios .titulo-servicios img{
+	height: 92px;
+	margin-right: 3%;
+	padding-left: 0;
+	width: 92px;
+}
+.izquierda-servicios img{
+	padding-left: 5%;
+	width: 90%;
+}
+.izquierda-servicios h3{
+	font-family: "arcena";
+	font-size: 1.5em;
+	margin-top: 5px;
+	padding-left: 5%;
+	text-align: center;
+	width: 90%;
+}
+.izquierda-servicios a{	
+	color: white;
+	text-decoration: none;
+}
+.derecha-servicios{
+	float: left;
+	width: 60%;
+}
+.derecha-servicios img{
+	padding-top: 8%;
+	width: 100%;
+}
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION PAQUETES =============*/
+.contenedor-paquetes{
+	border-top: 2px dotted black;
+	margin: 0 auto;
+	padding-bottom: 5%;
+	width: 90%;
+
+	background-color: lightblue;
+}
+.titulo-paquetes{
+	display: flex;
+	margin: 0 auto;
+	padding-bottom: 5%;
+	padding-top: 2%;
+	width: 75%;
+}
+.titulo-paquetes h2{
+	color: #1F5698;
+	font-family: "arcena";
+	margin-top: 31.5px;
+}
+.titulo-paquetes img{
+	height: 92px;
+	margin-right: 1%;
+	padding-left: 0;
+	width: 92px;
+}
+.contenedor-slider-flechas{
+	margin: 0 auto;
+	position: relative;
+	width: 80%
+}
+#contenedor-slider-paquetes{
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+	width: 90%;
+}
+#slider-paquetes{
+	display: flex;
+	width: 300%;
+}
+#slider-paquetes section{
+	width: 100%;
+}
+#slider-paquetes img{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+#btn-next-paquetes, #btn-prev-paquetes{
+	cursor: pointer;
+	height: 10%;
+	position: absolute;
+	top: 50%;
+	width: 2.5%;
+	transform: translateY(-50%);
+}
+#btn-prev-paquetes{
+	left: 0;
+}
+#btn-next-paquetes{
+	right: 0;
+}
+#btn-next-paquetes img, #btn-prev-paquetes img{
+	width: 100%;
+}
+
+
+
+
+/*===========  ESTILOS DE LA SECCION INFO  =============*/
+.contenedor-info{
+	border-top: 2px dotted white;
+	margin: 0 auto;
+	padding-bottom: 5%;	
+	width: 90%;
+
+	background-color: lightblue;
+}
+.info{
+	margin: 0 auto;
+	width: 75%;
+}
+.titulo-info{
+	display: flex;
+	margin: 0 auto;
+	padding-top: 2%;
+}
+.titulo-info h2{
+	color: #1F5698;
+	font-family: "arcena";
+	margin-top: 31.5px;
+}
+.titulo-info img{
+	height: 92px;
+	margin-right: 1%;
+	padding-left: 0;
+	width: 92px;
+}
+.izquierda-info{
+	float: left;
+	text-align: justify;
+	width: 50%;
+}
+.izquierda-info p{
+	color: white;
+	font-family: "my_riad_pro_cond";
+	font-size: 1.5em;
+	margin-top: 20%;
+	padding-left: 20%;
+}
+.izquierda-info p i{
+	margin-right: 20px;
+}
+.derecha-info{
+	float: left;
+	width: 50%;
+}
+.derecha-info img{
+	width: 80%;
+}
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION GALERIA  =============*/
+.contenedor-galeria{
+	border-top: 2px dotted white;
+	margin: 0 auto;
+	width: 90%;
+
+	background-color: lightblue;
+}
+.titulo-galeria{
+	display: flex;
+	margin: 0 auto;
+	padding-bottom: 2%;
+	padding-top: 2%;
+	width: 75%;
+}
+.titulo-galeria h2{
+	color: #1F5698;
+	font-family: "arcena";
+	margin-top: 31.5px;
+}
+.titulo-galeria img{
+	height: 92px;
+	margin-right: 1%;
+	padding-left: 0;
+	width: 92px;
+}
+.izquierda-galeria{
+	float: left;
+	text-align: center;
+	width: 50%;
+}
+.izquierda-galeria p{
+	color: white;
+	font-family: "my_riad_pro_cond";
+	padding-left: 26%;
+	text-align: justify;
+	width: 60%;
+}
+.izquierda-galeria img{
+	transform: rotate(10deg);
+    -webkit-transform: rotate(10deg);
+    margin: 3% 0;
+}
+.derecha-galeria{
+	float: left;
+	width: 50%;
+}
+.derecha-galeria a:nth-child(1) img{	 
+    transform: rotate(-10deg);
+    -webkit-transform: rotate(-10deg);
+    margin-bottom: 10%;
+	width: 25%;
+}
+.derecha-galeria a:nth-child(2) img{
+	margin-bottom: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+	transform: rotate(7deg);
+    -webkit-transform: rotate(7deg);
+	width: 25%;
+}
+.derecha-galeria a:nth-child(3) img{
+	margin-bottom: 10%;
+	transform: rotate(-3deg);
+    -webkit-transform: rotate(-3deg);
+	width: 25%;
+}
+.derecha-galeria a:nth-child(4) img{
+	margin-bottom: 10%;
+	transform: rotate(7deg);
+    -webkit-transform: rotate(7deg);
+	width: 25%;
+}
+.derecha-galeria a:nth-child(5) img{
+	margin-bottom: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+	transform: rotate(5deg);
+    -webkit-transform: rotate(5deg);
+	width: 25%;
+}
+.derecha-galeria a:nth-child(6) img{
+	margin-bottom: 10%;
+	transform: rotate(-7deg);
+    -webkit-transform: rotate(-7deg);
+	width: 25%;
+}
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION TESTIMONIOS  =============*/
+.contenedor-testimonios{
+	border-top: 2px dotted white;
+	margin: 0 auto;
+	width: 90%;
+
+	background-color: lightblue;
+}
+.titulo-testimonios{
+	display: flex;
+	margin: 0 auto;
+	padding-bottom: 5%;
+	padding-top: 2%;
+	width: 75%;
+}
+.titulo-testimonios h2{
+	color: #1F5698;
+	font-family: "arcena";
+	margin-top: 31.5px;
+}
+.titulo-testimonios img{
+	height: 92px;
+	margin-right: 1%;
+	padding-left: 0;
+	width: 92px;
+}
+.testimonios{
+	margin: 0 auto;
+	width: 90%;
+}
+.testimonio-persona{
+	float: left;
+	margin-bottom: 8%;
+	width: 48%;
+}
+.foto{
+	float: left;
+	margin-right: 5%;
+	width: 25%;
+}
+.foto img{
+	border-radius: 50%;
+	width: 100%;
+}
+.texto{
+	float: left;
+	width: 70%;
+}
+.texto h3{
+	color: white;
+	font-family: "arcena";
+	margin-top: 0;
+}
+.texto p{
+	color: white;
+	font-family: "my_riad_pro_cond";
+	text-align: justify;
+}
+.testimonio-personas-espacio{
+	margin-right: 4%;
+}
+
+
+
+
+/*===========  ESTILOS DE LA SECCION PROMOCIONES =============*/
+.contenedor-promociones{
+	border-top: 2px dotted white;
+	margin: 0 auto;
+	width: 90%;
+
+	background-color: lightblue;
+}
+.titulo-promociones{
+	display: flex;
+	margin: 0 auto;
+	padding-bottom: 2%;
+	padding-top: 2%;
+	width: 75%;
+}
+.titulo-promociones h2{
+	color: #1F5698;
+	font-family: "arcena";
+	margin-top: 31.5px;
+}
+.titulo-promociones img{
+	height: 92px;
+	margin-right: 1%;
+	padding-left: 0;
+	width: 92px;
+}
+.promociones{
+	margin: 0 auto;
+	width: 90%;
+}
+.izquierda-promociones{
+	float: left;
+	padding-bottom: 5%;
+	padding-left: 5%;
+	width: 45%;
+}
+.izquierda-promociones p{
+	border-bottom: 1px solid black;
+	color: white;
+	font-family: "my_riad_pro_cond";
+	padding-bottom: 5%;
+	text-align: justify;
+}
+.destinos{
+	margin-top: 5%;
+}
+.destinos h2{
+	color: white;
+	font-family: "arcena";
+}
+.imagen-destinos{
+	float: left;
+	margin-right: 5%;
+	width: 30%;
+}
+.imagen-destinos img{
+	width: 100%;
+}
+.texto-destinos{
+	float: left;
+	width: 65%;
+}
+.texto-destinos p{
+	border: none;
+	color: white;
+	font-family: "my_riad_pro_cond";
+	padding-bottom: 0;
+	text-align: justify;
+}
+.texto-destinos p:nth-child(1){
+	margin-top: 0;
+}
+.texto-destinos a{
+	color: white;
+	float: right;
+	font-family: "my_riad_pro_cond";
+	text-decoration: none;
+}
+.derecha-promociones{
+	float: left;
+	padding-top: 20%;
+	text-align: center;
+	width: 50%;
+}
+
+
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION GUIAS OFICIALES =============*/
+.contenedor-guias{
+	margin: 0 auto;
+	width: 90%;
+}
+.titulo-guias{
+	display: flex;
+	margin: 0 auto;
+	padding-bottom: 2%;
+	padding-top: 2%;
+	width: 75%;
+}
+.titulo-guias h2{
+	color: #1F5698;
+	font-family: "arcena";
+	margin-top: 31.5px;
+}
+.titulo-guias img{
+	height: 92px;
+	margin-right: 1%;
+	padding-left: 0;
+	width: 92px;
+}
+.centrado-guias{
+	margin: 0 auto;
+	width: 85%;
+}
+.guia{
+	display: flex;
+	margin-bottom: 5%;
+	width: 365px;
+}
+.guia img{
+	height: 100%;
+	width: 150px;
+}
+.texto-guia{
+	margin-left: 3%;
+}
+.guia h3{
+	color: white;
+	font-family:"arcena";
+	margin: 0;
+}
+.guia h5{
+	color: #EEC52F;
+	font-family: "my_riad_pro_cond";
+	margin: 0;
+}
+.guia p{
+	color: white;
+	font-family: "my_riad_pro_semibold";
+}
+.guia span{
+	color: #EEC52F;
+	font-family: "my_riad_pro_cond";
+}
+.izq{
+	float: left;
+}
+.der{
+	float: right;
+}
+/*===========  ESTILOS DE LA SECCION CONTACTENOS =============*/
+.contenedor-contactenos{
+	border-top: 2px dotted white;
+	margin: 0 auto;
+	width: 90%;
+}
+.contactenos{
+	margin: 0 auto;
+	padding-top: 8%;
+	width: 60%;
+}
+.titulo-contactenos{
+	display: flex;
+	margin-bottom: 8px;
+	padding-left: 10%;
+}
+.titulo-contactenos h2{
+	color: white;
+	font-family: "arcena";
+	font-size: 1.8em;
+	font-weight: lighter;
+	margin-bottom: 0;
+	margin-top: 40px;
+}
+.titulo-contactenos img{
+	height: 75px;
+	margin-right: 1%;
+	width: 75px;
+}
+.contactenos .form-main{
+	border-bottom: 1px dotted white;
+	border-top: 1px dotted white;
+	color: white;
+	font-family: "arcena";
+	padding-top: 2%;
+}
+.izquierda-contactenos{
+	float: left;
+	margin-left: 10%;
+	margin-right: 2%;
+	width: 45%;
+}
+.izquierda-contactenos input{
+	background-color: #B5B5B4;
+	border: none;
+	border-radius: 2px;
+	float: right;
+	height: 20px;
+}
+.derecha-contactenos{
+	float: left;
+	text-align: center;
+	width: 40%;
+}
+.derecha-contactenos label{
+	float: left;
+}
+.derecha-contactenos textarea{
+	background-color: #B5B5B4;
+	border: none;
+	border-radius: 2px;
+	float: right;
+}
+.derecha-contactenos button{
+	background-color: #B5B5B4;
+	border: none;
+	border-radius: 2px;
+	color: white;
+	cursor: pointer;
+	font-family: "arcena";
+	height: 25px;
+	width: 100px;
+}
+.derecha-contactenos button:hover{
+	background-color: white;
+	color:#B5B5B4;
+}
+/* --------------------------------------------------------	*/
+/*  Forms  */
+/* --------------------------------------------------------	*/
+.error {
+	color: red;
+	display: none;
+	font-family: "arcena";
+	text-align: center;
+}
+
+#ajaxsuccess {
+	clear:both;
+	color: red;
+	display: none;
+	font-family: "arcena";
+	font-size:18px;
+	font-weight:bold;
+	text-align: center;
+	width: 100%;
+}
+
+.datos-contacto-final{
+	display: flex;	
+	width: 100%;
+}
+.datos-final{
+	display: flex;
+	justify-content: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	width: 33%;
+}
+.datos-final a{
+	color: white;
+	font-family: "my_riad_pro_cond";
+	text-decoration: none;
+}
+.datos-final a:hover{
+	color: red;
+}
+.datos-final p{
+	color: white;
+	font-family: "my_riad_pro_cond";
+	margin-top: 15px;
+}
+.datos-final img{
+	height: 40px;
+    margin-right: 10px;
+    width: 40px;
+}
+
+
+
+
+
+
+
+/*===========  ESTILOS DEL FOOTER =============*/
+footer{
+	background-color: black;
+	text-align: center;
+	width: 100%
+}
+footer p{
+	color: white;
+	font-family: "my_riad_pro_cond";
+	margin: 0;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+footer img{
+	height: 100%;
+	margin-bottom: -2px;
+	margin-left: 5px;
+	width: 100px;
+}
+
+
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION GASTRONOMIA =============*/
+.fondo-azulclaro{
+	background-color: #46B2AF;
+	width: 100%;
+}
+.titulo-gastronomia{
+	display: flex;
+	margin: 0 auto;
+	padding-bottom: 2%;
+	padding-top: 2%;
+	width: 65%;
+}
+.titulo-gastronomia h2{
+	color: #1F5698;
+	font-family: "arcena";
+	margin-top: 31.5px;
+}
+.titulo-gastronomia img{
+	height: 92px;
+	margin-right: 1%;
+	padding-left: 0;
+	width: 92px;
+}
+.portada-gastronomia{
+	margin-bottom: 2%;
+	width: 100%;
+}
+.gastronomia-peru{
+	background-color: rgba(255,255,255,0.6);
+	border-radius: 20px;
+	color: #5E5E5E;
+	margin: 0 auto;
+    margin-bottom: 3%;
+	padding: 2% 6%;
+	text-align: justify;
+	width: 68%;
+}
+.gastronomia-peru h3{
+	color: #385794;
+	font-family: "arcena";
+	font-size: 2em;
+	margin: 0;
+}
+.gastronomia-peru span{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+}
+.izquierda-gastronomia{
+	float: left;
+	font-family: "my_riad_pro_regular";
+	margin-right: 8%;
+	width: 46%;
+}
+.derecha-gastronomia{
+	float: left;
+	font-family: "my_riad_pro_regular";
+	width: 46%;
+}
+.derecha-gastronomia img{
+	margin-left: 28%;
+	margin-top: 2%;
+	width: 80%;
+}
