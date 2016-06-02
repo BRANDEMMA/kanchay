@@ -1127,6 +1127,7 @@ footer img{
 	width: 100%;
 }
 .miniaturas-hotel{
+	cursor: pointer;
 	float: left;
 	margin: 0 3%;
 	width: 16%;
