@@ -48,25 +48,30 @@
 			</div>
 			
 			<div class="transporte">
-				<h3><a href="servicios-transporte.php">Transporte Aereo</a></h3>
-				<a href="servicios-transporte.php"><img src="img/transporte2.png"></a>
+				<h3><a href="servicios-transporte.php">Lacustre</a></h3>
+				<a href="servicios-transporte.php"><img src="img/transporte3.png"></a>
 			</div>
 		</div>
 		
 
-		<div class="contenedor-aereo">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> AVIÓN DS10 BOEING</h3>
+		<div class="contenedor-lacustre">
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> CATAMARAN</h3>
 			
-			<div class="opcion-aereo">
-				<div class="izquierda-aereo">
-					<img src="img/transporte-aereo.png">
+			<div class="opcion-lacustre">
+				<div class="izquierda-lacustre">
+					<img src="img/transporte-lacustre.png">
 				</div>
-				<div class="derecha-aereo">
-					<img class="aereo1" src="img/lan.png">
-					<img class="aereo1" src="img/avianca.png">
-					<img class="aereo2" src="img/lcperu.png">
-					<img class="aereo2" src="img/star-peru.png">
-					<img class="aereo2" src="img/peruvian.png">
+				<div class="derecha-lacustre">
+					<h5>CATAMARAN</h5>
+					<p>• Servicio a bordo<br>
+					• Equipo salvavidas<br>
+					• GPS<br>
+					• Lorem ipsum<br>
+					• Video TV<br>
+					• Lorem ipsum<br>
+					• Ipsum lorem<br>
+					• AUDIO<br>
+					• Velocidad controlada</p>
 				</div>
 
 				<div class="clear"></div>

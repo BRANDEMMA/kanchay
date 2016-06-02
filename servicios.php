@@ -28,6 +28,28 @@
 
 	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
 
+	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR UN DIV (INICIA)  =====================-->
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mostrar-transporte').on('click', function(){
+				$('#transporte-todos').slideDown('slow');
+				$('#hoteles-todos').css("display","none");
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mostrar-hoteles').on('click', function(){
+				$('#transporte-todos').css("display","none");
+				$('#hoteles-todos').slideDown('slow');				
+			});
+		});
+	</script>
+
+<!--================== 	SCRIPT PARA LLAMAR A DIV OCULTO (TERMINA)  =====================-->
+
 </head>
 
 <body>
@@ -44,12 +66,12 @@
 		<div class="opciones-servicios">
 			<div class="hoteles">
 				<h3><a href="">Hoteles</a></h3>
-				<a href=""><img src="img/hoteles-kanchay-peru.png"></a>
+				<img id="mostrar-hoteles" src="img/hoteles-kanchay-peru.png">
 			</div>
 			
 			<div class="transporte">
 				<h3><a href="">Transporte</a></h3>
-				<a href=""><img src="img/transporte-kanchay-peru.png"></a>
+				<img id="mostrar-transporte" src="img/transporte-kanchay-peru.png">
 			</div>
 		</div>
 		
@@ -80,6 +102,26 @@
 			<?php
 				include 'hoteles-3-estrellas.php';
 			?>
+		</div>
+
+		<div id="transporte-todos" style="display:none;">
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> TRANSPORTES</h3>
+			
+			<div class="opcion-transporte">
+				<a href="transporte-terrestre.php"><img src="img/transporte1.png"></a>
+				<h4><a href="transporte-terrestre.php">Terrestre</a></h4>
+			</div>
+
+			<div class="opcion-transporte">
+				<a href="transporte-aereo.php"><img src="img/transporte2.png"></a>
+				<h4><a href="transporte-aereo.php">Aereo</a></h4>
+			</div>
+
+			<div class="opcion-transporte">
+				<a href="transporte-lacustre.php"><img src="img/transporte3.png"></a>
+				<h4><a href="transporte-lacustre.php">Lacustre</a></h4>
+			</div>
+
 		</div>
 
 		<?php

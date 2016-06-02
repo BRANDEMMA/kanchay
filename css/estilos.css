@@ -346,6 +346,80 @@ body{
 #slider-paquetes section{
 	width: 100%;
 }
+.opcion-slider-tour{
+	background: url(../img/fondo-slider-tours.png);
+	background-size: 100% 100%;
+	padding: 6%;
+	position: relative;
+}
+.imagen-slider-tour{
+	float: left;
+	margin-right: 3%;
+	width: 42%;
+}
+.imagen-slider-tour img{
+	border-radius: 20px;
+	width: 100%;
+}
+.texto-slider-tour{
+	float: left;
+	margin-bottom: 2%;
+	width: 55%;
+}
+.texto-slider-tour h4{	
+	color: #385794;
+    font-family: "arcena";
+    font-size: 2.5em;
+    font-weight: lighter;
+    margin-bottom: 10%;
+    margin-top: 0;
+    text-align: center;
+}
+.texto-slider-tour h5{
+    color: #385794;
+    font-family: "my_riad_pro_semibold";
+    font-size: 1em;
+    margin-bottom: 2%;
+    margin-top: 0;
+}
+.texto-slider-tour p{
+	color: #5E5E5E;
+	font-family: "my_riad_pro_regular";
+	font-size: 0.8em;
+}
+.texto-slider-tour span{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+}
+.texto-slider-tour a{
+	background-color: #EEC52F;
+	border-radius: 2px;
+	color: #385794;
+	float: right;
+	font-family: "arcena";
+	font-size: 0.8em;
+	padding: 2px 10px;
+	text-decoration: none;
+}
+.boton-ver-todos{
+	background-color: #EEC52F;
+	border-radius: 50%;
+	bottom: -60px;
+	height: 150px;
+	left: 40%;
+	position: absolute;	
+	width: 150px;
+}
+.opcion-slider-tour a{
+	text-decoration: none;
+}
+.boton-ver-todos p{
+	color: #385794;
+	font-family: "arcena";
+	font-size: 1.5em;
+	line-height: 3;
+	text-align: center;
+}
 #slider-paquetes img{
 	display: block;
 	height: 100%;
@@ -405,6 +479,10 @@ body{
 	float: left;
 	text-align: justify;
 	width: 50%;
+}
+.izquierda-info a{
+	color: white;
+	text-decoration: none;
 }
 .izquierda-info p{
 	color: white;
@@ -1008,6 +1086,7 @@ footer img{
 	text-decoration: none;
 }
 .hoteles img, .transporte img{
+	cursor: pointer;
 	width: 80%;
 }
 #hoteles-todos{
@@ -1214,4 +1293,192 @@ footer img{
 .derecha-aereo .aereo2{
 	margin: 3% 2% 0 2%;
 	width: 28%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION TRASNPORTE LACUSTRE =============*/
+.contenedor-lacustre{
+	background-color: rgba(255,255,255,0.6);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    padding: 2% 6%;
+    width: 68%;
+}
+.contenedor-lacustre h3{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 1.8em;
+	margin-bottom: 0;
+}
+.izquierda-lacustre{
+	border-right: 2px solid #5C5C5C;
+	float: left;
+	margin-right: 5%;
+	width: 55%;
+}
+.izquierda-lacustre img{
+	padding-bottom: 5%;
+	padding-top: 10%;
+	width: 95%;
+}
+.derecha-lacustre{
+	float: left;
+	width: 39.5%;
+}
+.opcion-lacustre{
+	margin: 3% 0;
+}
+.derecha-lacustre h5{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 1.1em;
+	margin-bottom: 5%;
+}
+.derecha-lacustre p{
+	color: #222220;
+	font-family: "my_riad_pro_regular";
+}
+
+
+
+
+
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION TRASNPORTE TERRESTRE =============*/
+.contenedor-terrestre{
+	background-color: rgba(255,255,255,0.6);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    padding: 2% 6%;
+    width: 68%;
+}
+.contenedor-terrestre h3{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 1.8em;
+	margin-bottom: 0;
+}
+.opcion-terrestre{
+	float: left;
+	margin: 3%;
+	width: 26%;
+}
+.opcion-terrestre img{
+	width: 100%;
+}
+.opcion-terrestre a{
+	color: #385794;
+	text-decoration: none;
+}
+.opcion-terrestre h4{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 1em;
+	margin: 0 auto;
+	margin-bottom: 5%;
+    margin-top: 15%;
+	width: 175px;   
+}
+.opcion-terrestre p{
+	color: #222220;
+	font-family: "my_riad_pro_regular";
+	font-size: 0.8em;
+    margin: 0 auto;
+    width: 175px;
+}
+.empresas{
+	margin: 5% 2%;
+	width: 20%;
+}
+
+
+
+
+
+
+
+
+
+/*===========  ESTILOS DE LA SECCION TRASNPORTE TERRESTRE =============*/
+.contenedor-tours{
+	background-color: rgba(255,255,255,0.6);
+    border-radius: 20px;
+    color: #5E5E5E;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    padding: 2% 3%;
+    text-align: justify;
+    width: 75%;
+}
+.texto-tour{
+	border-bottom: 2px dotted #000102;
+	font-family: "my_riad_pro_regular";
+	margin-bottom: 1%;
+    padding-bottom: 2%;
+	width: 50%;
+}
+.detalle-tour{
+	float: left;
+	margin-bottom: 6%;
+	width: 46%;
+}
+.detalle-tour h3{
+	color: #385794;
+	font-family: "arcena";
+	font-size: 1.5em;
+}
+.izquierda-tour{
+	float: left;
+	margin-right: 3%;
+	width: 32%;
+}
+.izquierda-tour img{
+	border-radius: 2px;
+	width: 100%;
+}
+.derecha-tour{
+	float: left;
+	width: 65%;
+}
+.derecha-tour h4{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+	font-size: 0.9em;
+	margin-bottom: 3%;
+    margin-top: 0;   
+}
+.derecha-tour span{
+	color: #385794;
+	font-family: "my_riad_pro_semibold";
+}
+.derecha-tour p{
+	font-family: "my_riad_pro_regular";
+	font-size: 0.7em;
+	margin-bottom: 5%;
+}
+.derecha-tour a{
+	color: #385794;
+	float: right;
+	font-family: "arcena";
+	text-decoration: none;
+}
+.espacio-tour{
+	margin-right: 8%;
 }

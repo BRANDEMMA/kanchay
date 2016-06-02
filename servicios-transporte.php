@@ -28,6 +28,28 @@
 
 	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
 
+	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR UN DIV (INICIA)  =====================-->
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mostrar-transporte').on('click', function(){
+				$('#transporte-todos').slideDown('slow');
+				$('#hoteles-todos').css("display","none");
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mostrar-hoteles').on('click', function(){
+				$('#transporte-todos').css("display","none");
+				$('#hoteles-todos').slideDown('slow');				
+			});
+		});
+	</script>
+
+<!--================== 	SCRIPT PARA LLAMAR A DIV OCULTO (TERMINA)  =====================-->
+
 </head>
 
 <body>
@@ -44,15 +66,42 @@
 		<div class="opciones-servicios">
 			<div class="hoteles">
 				<h3><a href="">Hoteles</a></h3>
-				<a href=""><img src="img/hoteles-kanchay-peru.png"></a>
+				<img id="mostrar-hoteles" src="img/hoteles-kanchay-peru.png">
 			</div>
 			
 			<div class="transporte">
 				<h3><a href="">Transporte</a></h3>
-				<a href=""><img src="img/transporte-kanchay-peru.png"></a>
+				<img id="mostrar-transporte" src="img/transporte-kanchay-peru.png">
 			</div>
 		</div>
 		
+		<div id="hoteles-todos" style="display:none;">
+			<h3>LISTA DE HOTELES</h3>
+			
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i></span></h4>
+
+			<?php
+				include 'hoteles-5-estrellas.php';
+			?>
+
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i></span> SUPERIOR</h4>
+
+			<?php
+				include 'hoteles-4-estrellas+.php';
+			?>
+
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i></span></h4>
+
+			<?php
+				include 'hoteles-4-estrellas.php';
+			?>
+
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i></span></h4>
+
+			<?php
+				include 'hoteles-3-estrellas.php';
+			?>
+		</div>
 
 		<div id="transporte-todos">
 			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> TRANSPORTES</h3>

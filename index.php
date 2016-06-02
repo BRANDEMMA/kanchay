@@ -85,7 +85,7 @@
 		<div class="clear"></div>
 	</div>
 
-	<div class="nosotros">
+	<div class="nosotros" id="nosotros">
 		<div class="izquierda-nosotros">
 			<img src="img/maleta-kanchay-peru.png">
 		</div>
@@ -96,9 +96,9 @@
 			<h3>Nuestra gente</h3>
 			<p>
 			La unión de dos profesionales de ramas diferentes del servicio al cliente originó K´anchay Peru: José Fernando Benaducci Otayza, Guía Oficial de Turismo, Gerente General de la empresa, teniendo 27 años de experiencia, en el trato directo al público usuario y visitante, en Turismo receptivo y local. Además, tuvo una participación muy importante en el entrenamiento docente a otros guías de turismo del mercado local Lima, al igual que numerosos contactos del medio turístico para la atención y distribución de su carrera. Jerry Rolando Lolandes Arbayza, Consultor Financiero, con sede en la ciudad de Miami, quien con el interés de nuestro patrimonio es el principal promotor de nuestro país y de la empresa en el extranjero.</p>
-			<div class="boton-ver-mas">
+			<!-- <div class="boton-ver-mas">
 				<a href=""><img src="img/flecha-ver-mas.png"><p><strong>Ver más</strong></p></a>
-			</div>
+			</div> -->
 		</div>
 		<div class="clear"></div>		
 	</div>
@@ -107,10 +107,10 @@
 		<div class="servicios">			
 			<div class="izquierda-servicios">
 				<div class="titulo-servicios"><img src="img/servicios-kanchay-peru.png"><h2>SERVICIOS</h2></div>
-				<a href=""><img src="img/hoteles-kanchay-peru.png"></a>
-				<h3><a href="">Hoteles</a></h3>
-				<a href=""><img src="img/transporte-kanchay-peru.png"></a>
-				<h3><a href="">Transporte</a></h3>
+				<a href="servicios.php"><img src="img/hoteles-kanchay-peru.png"></a>
+				<h3><a href="servicios.php">Hoteles</a></h3>
+				<a href="servicios-transporte.php"><img src="img/transporte-kanchay-peru.png"></a>
+				<h3><a href="servicios-transporte.php">Transporte</a></h3>
 			</div>
 			<div class="derecha-servicios">
 				<img src="img/servicios-baile.png">
@@ -119,19 +119,130 @@
 		</div>
 	</div>	
 
-	<div class="contenedor-paquetes">
-		<div class="titulo-paquetes"><img src="img/paquetes-kanchay-peru.png"><h2>PAQUETES</h2></div>
+	<div class="contenedor-paquetes" id="tours">
+		<div class="titulo-paquetes"><img src="img/paquetes-kanchay-peru.png"><h2>TOURS</h2></div>
 		<div class="contenedor-slider-flechas">
 			<div id="contenedor-slider-paquetes">
 				<div id="slider-paquetes">
 					<section>
-						<img src="img/slider-paquetes.png">
+						<div class="opcion-slider-tour">
+							<div class="imagen-slider-tour">
+								<img src="img/imagen-slider-tour.jpg">
+							</div>
+							<div class="texto-slider-tour">
+								<h4>Machu Pichu</h4>
+								<h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5>
+								<p><span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
+								<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
+								<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
+								<span>DÍA 04:</span> CUSCO – SALIDA (D)<br><br>
+
+								<span>IMPORTANTE:</span><br><br>
+
+								•  Programas a machu picchu incluyen tren expediition, si desean viajar en tren vistadome agregar $ 35.00.<br>
+								•  Sugerimos tomar el almuerzo en machu picchu sanctuary lodge para tener más tiempo. se debera agregar usd$ 35.00.<br> 
+								•  Tarifas en dolares americanos, para pagar en soles aplicar el tipo de cambio del día (bcr).<br>
+								•  No incluyen los tickets aéreos. <br> 
+								•  No incluyen propinas , ni tickets adicionales a visitas que no figuran en este programa.<br><br>
+
+
+								<span>Para cualquier información comunicarse a :<br> 
+								K´anchay Peru S.A.C.<br>
+								Cel : 976-348-191<br>
+								Correo: fboperu@hotmail.com</span></p>
+
+								<a href="cusco-inolvidable.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+
+							<a href="tours.php">
+							<div class="boton-ver-todos">
+								<p>Ver Todos</p>
+							</div>
+							</a>
+						</div>
 					</section>
 					<section>
-						<img src="img/slider-paquetes2.png">
+						<div class="opcion-slider-tour">
+							<div class="imagen-slider-tour">
+								<img src="img/imagen-slider-tour.jpg">
+							</div>
+							<div class="texto-slider-tour">
+								<h4>Machu Pichu</h4>
+								<h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5>
+								<p><span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
+								<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
+								<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
+								<span>DÍA 04:</span> CUSCO – SALIDA (D)<br><br>
+
+								<span>IMPORTANTE:</span><br><br>
+
+								•  Programas a machu picchu incluyen tren expediition, si desean viajar en tren vistadome agregar $ 35.00.<br>
+								•  Sugerimos tomar el almuerzo en machu picchu sanctuary lodge para tener más tiempo. se debera agregar usd$ 35.00.<br> 
+								•  Tarifas en dolares americanos, para pagar en soles aplicar el tipo de cambio del día (bcr).<br>
+								•  No incluyen los tickets aéreos. <br> 
+								•  No incluyen propinas , ni tickets adicionales a visitas que no figuran en este programa.<br><br>
+
+
+								<span>Para cualquier información comunicarse a :<br> 
+								K´anchay Peru S.A.C.<br>
+								Cel : 976-348-191<br>
+								Correo: fboperu@hotmail.com</span></p>
+
+								<a href="cusco-inolvidable.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+
+							<a href="tours.php">
+							<div class="boton-ver-todos">
+								<p>Ver Todos</p>
+							</div>
+							</a>
+						</div>
 					</section>
 					<section>
-						<img src="img/slider-paquetes3.png">
+						<div class="opcion-slider-tour">
+							<div class="imagen-slider-tour">
+								<img src="img/imagen-slider-tour.jpg">
+							</div>
+							<div class="texto-slider-tour">
+								<h4>Machu Pichu</h4>
+								<h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5>
+								<p><span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
+								<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
+								<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
+								<span>DÍA 04:</span> CUSCO – SALIDA (D)<br><br>
+
+								<span>IMPORTANTE:</span><br><br>
+
+								•  Programas a machu picchu incluyen tren expediition, si desean viajar en tren vistadome agregar $ 35.00.<br>
+								•  Sugerimos tomar el almuerzo en machu picchu sanctuary lodge para tener más tiempo. se debera agregar usd$ 35.00.<br> 
+								•  Tarifas en dolares americanos, para pagar en soles aplicar el tipo de cambio del día (bcr).<br>
+								•  No incluyen los tickets aéreos. <br> 
+								•  No incluyen propinas , ni tickets adicionales a visitas que no figuran en este programa.<br><br>
+
+
+								<span>Para cualquier información comunicarse a :<br> 
+								K´anchay Peru S.A.C.<br>
+								Cel : 976-348-191<br>
+								Correo: fboperu@hotmail.com</span></p>
+
+								<a href="cusco-inolvidable.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+
+							<a href="tours.php">
+							<div class="boton-ver-todos">
+								<p>Ver Todos</p>
+							</div>
+							</a>
+						</div>
 					</section>
 				</div>
 			</div>
@@ -145,16 +256,16 @@
 		</div>
 	</div>
 
-	<div class="contenedor-info">
+	<div class="contenedor-info" id="peru-info">
 		<div class="info">
 			<div class="titulo-info"><img src="img/info-kanchay-peru.png"><h2>PERÚ INFO</h2></div>
 			<div class="izquierda-info">
 				<p>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> Cultura<br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> Costumbres<br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> Fiesta Perú<br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> Gastronomía<br>
-					<i class="fa fa-caret-right" aria-hidden="true"></i> Danzas<br>
+					<a href=""><i class="fa fa-caret-right" aria-hidden="true"></i> Cultura</a><br>
+					<a href=""><i class="fa fa-caret-right" aria-hidden="true"></i> Costumbres</a><br>
+					<a href=""><i class="fa fa-caret-right" aria-hidden="true"></i> Fiesta Perú</a><br>
+					<a href="gastronomia.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Gastronomía</a><br>
+					<a href=""><i class="fa fa-caret-right" aria-hidden="true"></i> Danzas</a><br>
 				</p>
 			</div>
 			<div class="derecha-info">
@@ -164,7 +275,7 @@
 		</div>
 	</div>
 
-	<div class="contenedor-galeria">
+	<div class="contenedor-galeria" id="galeria">
 		<div class="titulo-galeria"><img src="img/galeria-kanchay-peru.png"><h2>GALERÍA</h2></div>
 		<div class="izquierda-galeria">
 			<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, esencialmente igual al original.</p>
@@ -181,7 +292,7 @@
 		<div class="clear"></div>
 	</div>
 
-	<div class="contenedor-testimonios">
+	<div class="contenedor-testimonios" id="testimonios">
 		<div class="titulo-testimonios"><img src="img/testimonios-kanchay-peru.png"><h2>TESTIMONIOS</h2></div>
 		<div class="testimonios">
 			<div class="testimonio-persona testimonio-personas-espacio">
@@ -228,7 +339,7 @@
 		</div>
 	</div>
 
-	<div class="contenedor-promociones">
+	<div class="contenedor-promociones" id="promociones">
 		<div class="titulo-promociones"><img src="img/promociones-kanchay-peru.png"><h2>PROMOCIONES</h2></div>
 		<div class="promociones">
 			<div class="izquierda-promociones">

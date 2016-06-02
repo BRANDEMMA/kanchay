@@ -55,17 +55,17 @@
 		
 
 		<div class="hoteles-descripcion">
-			<h3>MARRIOT CUSCO</h3>
+			<h3>VANS TURISTICA</h3>
 			<div class="izquierda-descripcion">
-				<img src="img/hotel-detalle.jpg"> 
+				<img src="img/carro-detalle.jpg"> 
 				<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor.</p>
 			</div>
 			<div class="derecha-descripcion">
-				<h4>INCLUYE</h4>
+				<h4>ACTIVIDADES</h4>
 				<p>
 				Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, esencialmente igual al original.<br><br>
 
-				Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, esencialmente igual al original.
+				Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, esencialmente igual al original. 
 				</p>			
 
 				<a href="">Reservar</a>	
