@@ -28,6 +28,37 @@
 
 	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
 
+	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "HOTELES" (INICIA)  =====================-->
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1a').on('click', function(){
+				$('#grande-hotel-1a').show();
+				$('#grande-hotel-2a').hide();1
+				$('#grande-hotel-3a').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2a').on('click', function(){
+				$('#grande-hotel-2a').show();
+				$('#grande-hotel-1a').hide();
+				$('#grande-hotel-3a').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3a').on('click', function(){
+				$('#grande-hotel-3a').show();
+				$('#grande-hotel-1a').hide();
+				$('#grande-hotel-2a').hide();
+			});
+		});
+	</script>
+	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "HOTELES" (TERMINA)  =====================-->
+
 </head>
 
 <body>
@@ -57,18 +88,25 @@
 		<div class="hoteles-descripcion">
 			<h3>HOTEL WESTIN</h3>
 			<div class="izquierda-descripcion">
-				<img src="img/hoteles/westin/westin.jpg"> 
-				<p>Situado en el vibrante distrito financiero y de compras de Lima, el hotel se encuentra a tan solo 15 kilómetros el Aeropuerto Internacional Jorge Chávez (LIM) y a unos minutos de una espléndida selección de restaurantes, galerías y parques, así como de bancos y oficinas corporativas centrales.</p>
+				<img id="grande-hotel-1a" src="img/hoteles/westin/westin-4.jpg">
+				<img id="grande-hotel-2a" style="display:none;" src="img/hoteles/westin/westin-5.jpg">
+				<img id="grande-hotel-3a" style="display:none;" src="img/hoteles/westin/westin-2.jpg">
+
+				<img id="mini-hotel-1a" class="img-mini" src="img/hoteles/westin/westin-4.1.jpg">
+				<img id="mini-hotel-2a" class="img-mini" src="img/hoteles/westin/westin-5.1.jpg">
+				<img id="mini-hotel-3a" class="img-mini" src="img/hoteles/westin/westin-2.1.jpg">
 			</div>
 			<div class="derecha-descripcion">
 				<h4>INCLUYE</h4>
 				<p>
+				Situado en el vibrante distrito financiero y de compras de Lima, el hotel se encuentra a tan solo 15 kilómetros el Aeropuerto Internacional Jorge Chávez (LIM) y a unos minutos de una espléndida selección de restaurantes, galerías y parques, así como de bancos y oficinas corporativas centrales.<br><br>
+
 				Saboree la innovadora cocina peruana a manos del chef Rafael en Maras, nuestro elegante restaurante. Explore las suntuosas posibilidades de temporada y los saludables menús de SuperFoodsRx™ en Market 770, un entorno más informal para el desayuno, almuerzo o cena.<br><br>
 
 				Westin Lima Hotel and convention center es el espacio para convenciones y reuniones más grande en Perú. Además de un tamaño y ámbito excepcional, las 17 salas de reuniones del hotel, y sus 2.529 metros cuadrados de espacio funcional ofrecen instalaciones para presentaciones de vanguardia y un experto personal de apoyo.
 				</p>			
 
-				<a href="">Reservar</a>	
+				<a href="#contacto">Reservar</a>	
 
 				<div class="clear"></div>		
 			</div>

@@ -28,6 +28,37 @@
 
 	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
 
+	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "HOTELES" (INICIA)  =====================-->
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1a').on('click', function(){
+				$('#grande-hotel-1a').show();
+				$('#grande-hotel-2a').hide();1
+				$('#grande-hotel-3a').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2a').on('click', function(){
+				$('#grande-hotel-2a').show();
+				$('#grande-hotel-1a').hide();
+				$('#grande-hotel-3a').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3a').on('click', function(){
+				$('#grande-hotel-3a').show();
+				$('#grande-hotel-1a').hide();
+				$('#grande-hotel-2a').hide();
+			});
+		});
+	</script>
+	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "HOTELES" (TERMINA)  =====================-->
+
 </head>
 
 <body>
@@ -57,16 +88,24 @@
 		<div class="hoteles-descripcion">
 			<h3>HOTEL BELMOND</h3>
 			<div class="izquierda-descripcion">
-				<img src="img/hoteles/belmond/belmond.jpg"> 
-				<p>Situado en una de las zonas más de moda de Lima, el Belmond Miraflores Park le lleva directo al corazón de lo mejor de esta gran ciudad. Conocido por su ubicación junto al Océano Pacífico, este hotel de lujo goza de vistas espectaculares hacia el mar.</p>
+				<img id="grande-hotel-1a" src="img/hoteles/belmond/beldmon-5.jpg">
+				<img id="grande-hotel-2a" style="display:none;" src="img/hoteles/belmond/beldmon-3.jpg">
+				<img id="grande-hotel-3a" style="display:none;" src="img/hoteles/belmond/beldmon-2.jpg">
+
+				<img id="mini-hotel-1a" class="img-mini" src="img/hoteles/belmond/beldmon-5.1.jpg">
+				<img id="mini-hotel-2a" class="img-mini" src="img/hoteles/belmond/beldmon-3.1.jpg">
+				<img id="mini-hotel-3a" class="img-mini" src="img/hoteles/belmond/beldmon-2.1.jpg">
+				<p></p>
 			</div>
 			<div class="derecha-descripcion">
 				<h4>INCLUYE</h4>
 				<p>
+				Situado en una de las zonas más de moda de Lima, el Belmond Miraflores Park le lleva directo al corazón de lo mejor de esta gran ciudad. Conocido por su ubicación junto al Océano Pacífico, este hotel de lujo goza de vistas espectaculares hacia el mar.<br><br>
+
 				Belmond Miraflores Park combina un servicio personalizado, restaurantes excepcionales e instalaciones de lujo para crear la base perfecta desde donde podrá salir a explorar. Arquitectura colonial, magníficos museos exhibiendo oro inca y antigüedades pre-colombinas, y las glamurosas tiendas, bares y restaurantes están a sólo pasos del hotel.Además cuenta con una piscina climatizada de la terraza del hotel, donde podrá deleitarse con unas vistas impresionantes de Lima y el Océano Pacífico. La piscina ofrece unas medidas de 17 x 5 m y tiene 1,6 m de profundidad en la zona más baja y 2,2 m en la más profunda, por lo que es ideal para adultos y niños.El horario de apertura de 6:00 a. m. a 10:00 p. M y en verano de 10:00 a. m. a 6:00 p. m. Tambien posee un Lounge Ejecutivo situado en la planta 10 del edificio.Este salón está abierto todo el día y cuenta con una desayuno de cortesía, té de la tarde, aperitivos, tapas, refrescos y bebidas alcoholicas.Otros servicios incluyen periodicos diarios, el embalaje y desembalaje de su maleta, internet inalámbrico y un conserje privado.
 				</p>			
 
-				<a href="">Reservar</a>	
+				<a href="#contacto">Reservar</a>	
 
 				<div class="clear"></div>		
 			</div>

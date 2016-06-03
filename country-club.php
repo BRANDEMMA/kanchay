@@ -28,6 +28,37 @@
 
 	<!--================== 	ENLACE ICONO (TERMINA)  =====================-->
 
+	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "HOTELES" (INICIA)  =====================-->
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1a').on('click', function(){
+				$('#grande-hotel-1a').show();
+				$('#grande-hotel-2a').hide();1
+				$('#grande-hotel-3a').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2a').on('click', function(){
+				$('#grande-hotel-2a').show();
+				$('#grande-hotel-1a').hide();
+				$('#grande-hotel-3a').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3a').on('click', function(){
+				$('#grande-hotel-3a').show();
+				$('#grande-hotel-1a').hide();
+				$('#grande-hotel-2a').hide();
+			});
+		});
+	</script>
+	<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "HOTELES" (TERMINA)  =====================-->
+
 </head>
 
 <body>
@@ -57,13 +88,21 @@
 		<div class="hoteles-descripcion">
 			<h3>COUNTRY CLUB</h3>
 			<div class="izquierda-descripcion">
-				<img src="img/hoteles/country-club/country-club.jpg"> 
-				<p>Ubicado en el prestigioso distrito de San Isidro en Lima y rodeado de elegantes embajadas, el Country Club Lima Hotel es un hotel de lujo que personifica la sofisticación y uno de los pocos hoteles reconocidos como Patrimonio Cultural del Perú.</p>
+				<img id="grande-hotel-1a" src="img/hoteles/country-club/country-club-1.jpg">
+				<img id="grande-hotel-2a" style="display:none;" src="img/hoteles/country-club/country-club-4.jpg">
+				<img id="grande-hotel-3a" style="display:none;" src="img/hoteles/country-club/country-club-5.jpg"> 
+
+				<img id="mini-hotel-1a" class="img-mini" src="img/hoteles/country-club/country-club-1.1.jpg">
+				<img id="mini-hotel-2a" class="img-mini" src="img/hoteles/country-club/country-club-4.1.jpg">
+				<img id="mini-hotel-3a" class="img-mini" src="img/hoteles/country-club/country-club-5.1.jpg">
 			</div>
 			<div class="derecha-descripcion">
 				<h4>INCLUYE</h4>
 				<p>
+				Ubicado en el prestigioso distrito de San Isidro en Lima y rodeado de elegantes embajadas, el Country Club Lima Hotel es un hotel de lujo que personifica la sofisticación y uno de los pocos hoteles reconocidos como Patrimonio Cultural del Perú.<br><br>
+
 				Cada detalle ha sido concebido con el lujo en mente; candelabros adornados complementan unos techos altos con vigas de madera y 300 piezas de arte originales - cedidas por el Museo Pedro de Osma - adornan las paredes. Cada una de las 83 privadas habitaciones y suites de lujo son opulentas y acogedoras, y muchas de ellas disponen de delicados baños de mármol y relajantes jacuzzis. Disfrute de unas instalaciones de primera clase, de un restaurante premiado   como el mejor restaurante de hotel por cinco años consecutivos - Premios SUMMUM y poder disfrutar del exclusivo Lima Golf Club, todo en un ambiente de calidez e intimidad. El Country Club Lima Hotel invita al viajero de gustos exigentes a disfrutar de lo mejor que Lima tiene para ofrecer.<br><br>
+
 				El country club cuenta: con Business Center 24 horas<br><br>
 				Equipado con modernas computadoras, fotocopiadora, fax y servicios de mensajería, acceso a Internet Wi-Fi, gimnasio, golf y cambio de moneda.<br><br>
 				En recepción cambiamos dólares o euros a dinero peruano (nuevos soles). Todas las habitaciones disponen de una caja de seguridad que se encuentra dentro del armario (con manual de instrucciones), y que permite almacenar de manera segura sus objetos de valor.<br><br>
@@ -71,7 +110,7 @@
 				Periódicos:	El "International Times Digest" está disponible en recepción, Servicio de lavandería y planchado, Cunas y sillas para niños y bebés, Yaku SpaDeje Remisse.
 				</p>			
 
-				<a href="">Reservar</a>	
+				<a href="#contacto">Reservar</a>	
 
 				<div class="clear"></div>		
 			</div>
