@@ -2,14 +2,14 @@
 ?>
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
-					<img id="grande-hotel-1a" src="img/hotel1.jpg">
-					<img id="grande-hotel-2a" style="display:none;" src="img/hotel1.4.jpg">
-					<img id="grande-hotel-3a" style="display:none;" src="img/hotel1.3.jpg">
+					<img id="grande-hotel-1a" src="img/hoteles/belmond/beldmon-5.jpg">
+					<img id="grande-hotel-2a" style="display:none;" src="img/hoteles/belmond/beldmon-3.jpg">
+					<img id="grande-hotel-3a" style="display:none;" src="img/hoteles/belmond/beldmon-2.jpg">
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1a" src="img/hotel1.2.jpg">
-					<img id="mini-hotel-2a" src="img/hotel1.3.jpg">
-					<img id="mini-hotel-3a" src="img/hotel1.4.jpg">
+					<img id="mini-hotel-1a" src="img/hoteles/belmond/beldmon-5.1.jpg">
+					<img id="mini-hotel-2a" src="img/hoteles/belmond/beldmon-3.1.jpg">
+					<img id="mini-hotel-3a" src="img/hoteles/belmond/beldmon-2.1.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="hotel-belmond.php">Hotel Belmond</a></h5>
@@ -24,14 +24,14 @@
 
 			<div class="contenedor-hotel">
 				<div class="img-hotel">
-					<img id="grande-hotel-1b" src="img/hotel2.jpg">
-					<img id="grande-hotel-2b" style="display:none;" src="img/hotel1.4.jpg">
-					<img id="grande-hotel-3b" style="display:none;" src="img/hotel1.3.jpg">
+					<img id="grande-hotel-1b" src="img/hoteles/country-club/country-club-1.jpg">
+					<img id="grande-hotel-2b" style="display:none;" src="img/hoteles/country-club/country-club-4.jpg">
+					<img id="grande-hotel-3b" style="display:none;" src="img/hoteles/country-club/country-club-5.jpg">
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1b" src="img/hotel2.2.jpg">
-					<img id="mini-hotel-2b" src="img/hotel1.3.jpg">
-					<img id="mini-hotel-3b" src="img/hotel1.4.jpg">
+					<img id="mini-hotel-1b" src="img/hoteles/country-club/country-club-1.1.jpg">
+					<img id="mini-hotel-2b" src="img/hoteles/country-club/country-club-4.1.jpg">
+					<img id="mini-hotel-3b" src="img/hoteles/country-club/country-club-5.1.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="country-club.php">Country Club</a></h5>
@@ -46,14 +46,14 @@
 
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
-					<img id="grande-hotel-1c" src="img/hotel3.jpg">
-					<img id="grande-hotel-2c" style="display:none;" src="img/hotel1.4.jpg">
-					<img id="grande-hotel-3c" style="display:none;" src="img/hotel1.3.jpg">
+					<img id="grande-hotel-1c" src="img/hoteles/marriot/marriot-3.jpg">
+					<img id="grande-hotel-2c" style="display:none;" src="img/hoteles/marriot/marriot-4.jpg">
+					<img id="grande-hotel-3c" style="display:none;" src="img/hoteles/marriot/marriot-2.jpg">
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1c" src="img/hotel3.2.jpg">
-					<img id="mini-hotel-2c" src="img/hotel1.3.jpg">
-					<img id="mini-hotel-3c" src="img/hotel1.4.jpg">
+					<img id="mini-hotel-1c" src="img/hoteles/marriot/marriot-3.1.jpg">
+					<img id="mini-hotel-2c" src="img/hoteles/marriot/marriot-4.1.jpg">
+					<img id="mini-hotel-3c" src="img/hoteles/marriot/marriot-2.1.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="hotel-marriot.php">J.W Marriot Hotel</a></h5>
@@ -68,14 +68,14 @@
 
 			<div class="contenedor-hotel">
 				<div class="img-hotel">
-					<img id="grande-hotel-1d" src="img/hotel4.jpg">
-					<img id="grande-hotel-2d" style="display:none;" src="img/hotel1.4.jpg">
-					<img id="grande-hotel-3d" style="display:none;" src="img/hotel1.3.jpg">
+					<img id="grande-hotel-1d" src="img/hoteles/westin/westin-4.jpg">
+					<img id="grande-hotel-2d" style="display:none;" src="img/hoteles/westin/westin-5.jpg">
+					<img id="grande-hotel-3d" style="display:none;" src="img/hoteles/westin/westin-2.jpg">
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1d" src="img/hotel4.2.jpg">
-					<img id="mini-hotel-2d" src="img/hotel1.3.jpg">
-					<img id="mini-hotel-3d" src="img/hotel1.4.jpg">
+					<img id="mini-hotel-1d" src="img/hoteles/westin/westin-4.1.jpg">
+					<img id="mini-hotel-2d" src="img/hoteles/westin/westin-5.1.jpg">
+					<img id="mini-hotel-3d" src="img/hoteles/westin/westin-2.1.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="hotel-westin.php">Hotel Westin</a></h5>

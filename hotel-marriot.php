@@ -57,7 +57,7 @@
 		<div class="hoteles-descripcion">
 			<h3>J.W MARRIOT HOTEL</h3>
 			<div class="izquierda-descripcion">
-				<img src="img/hotel-detalle.jpg"> 
+				<img src="img/hoteles/marriot/marriot.jpg"> 
 				<p>Disfrute de unas maravillosas vistas al mar desde nuestro hotel en Miraflores. Situado frente a los imponentes acantilados del distrito de Miraflores, el JW Marriott Hotel Lima ofrece 300 habitaciones con una vista panorámica del Océano Pacífico.</p>
 			</div>
 			<div class="derecha-descripcion">

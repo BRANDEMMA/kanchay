@@ -15,7 +15,7 @@
 				<li><a href="index.php#galeria">Galeria</a></li>
 				<li><a href="index.php#testimonios">Testimonios</a></li>
 				<li><a href="index.php#promociones">Promociones</a></li>
-				<li><a href="">Contacto</a></li>
+				<li><a href="#contacto">Contacto</a></li>
 			</ul>	
 		</div>
 <?php

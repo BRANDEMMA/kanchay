@@ -1,6 +1,6 @@
 <?php
 ?>
-	<div class="contenedor-contactenos">
+	<div class="contenedor-contactenos" id="contacto">
 		<div class="contactenos">
 			<div class="titulo-contactenos"><img src="img/contactenos-kanchay-peru.png"><h2>CONTÁCTENOS</h2></div>
 			<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/contacto.php">

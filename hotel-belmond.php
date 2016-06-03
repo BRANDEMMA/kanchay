@@ -57,7 +57,7 @@
 		<div class="hoteles-descripcion">
 			<h3>HOTEL BELMOND</h3>
 			<div class="izquierda-descripcion">
-				<img src="img/hotel-detalle.jpg"> 
+				<img src="img/hoteles/belmond/belmond.jpg"> 
 				<p>Situado en una de las zonas más de moda de Lima, el Belmond Miraflores Park le lleva directo al corazón de lo mejor de esta gran ciudad. Conocido por su ubicación junto al Océano Pacífico, este hotel de lujo goza de vistas espectaculares hacia el mar.</p>
 			</div>
 			<div class="derecha-descripcion">

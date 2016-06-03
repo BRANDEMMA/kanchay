@@ -57,7 +57,7 @@
 		<div class="hoteles-descripcion">
 			<h3>COUNTRY CLUB</h3>
 			<div class="izquierda-descripcion">
-				<img src="img/hotel-detalle.jpg"> 
+				<img src="img/hoteles/country-club/country-club.jpg"> 
 				<p>Ubicado en el prestigioso distrito de San Isidro en Lima y rodeado de elegantes embajadas, el Country Club Lima Hotel es un hotel de lujo que personifica la sofisticación y uno de los pocos hoteles reconocidos como Patrimonio Cultural del Perú.</p>
 			</div>
 			<div class="derecha-descripcion">

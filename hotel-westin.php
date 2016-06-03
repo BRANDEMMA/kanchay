@@ -57,7 +57,7 @@
 		<div class="hoteles-descripcion">
 			<h3>HOTEL WESTIN</h3>
 			<div class="izquierda-descripcion">
-				<img src="img/hotel-detalle.jpg"> 
+				<img src="img/hoteles/westin/westin.jpg"> 
 				<p>Situado en el vibrante distrito financiero y de compras de Lima, el hotel se encuentra a tan solo 15 kilómetros el Aeropuerto Internacional Jorge Chávez (LIM) y a unos minutos de una espléndida selección de restaurantes, galerías y parques, así como de bancos y oficinas corporativas centrales.</p>
 			</div>
 			<div class="derecha-descripcion">

@@ -18,6 +18,16 @@
 
 /*--==================== ESTILOS GENERALES ========================--*/
 body{
+	background: rgba(255,255,255,1);
+	background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 9%, rgba(51,170,185,1) 33%, rgba(17,94,149,1) 62%, rgba(10,64,102,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(9%, rgba(255,255,255,1)), color-stop(33%, rgba(51,170,185,1)), color-stop(62%, rgba(17,94,149,1)), color-stop(100%, rgba(10,64,102,1)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 9%, rgba(51,170,185,1) 33%, rgba(17,94,149,1) 62%, rgba(10,64,102,1) 100%);
+	background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 9%, rgba(51,170,185,1) 33%, rgba(17,94,149,1) 62%, rgba(10,64,102,1) 100%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 9%, rgba(51,170,185,1) 33%, rgba(17,94,149,1) 62%, rgba(10,64,102,1) 100%);
+	background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 9%, rgba(51,170,185,1) 33%, rgba(17,94,149,1) 62%, rgba(10,64,102,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#0a4066', GradientType=0 );
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	margin: 0;
 	width: 100%;
 }
@@ -57,7 +67,7 @@ body{
 	text-decoration: none;
 }
 .nave li a:hover{
-	background-color: blue;
+	background-color: #385794;
 	color: white;
 }
 .nave > li{
@@ -72,7 +82,7 @@ body{
 	display: block;
 }
 .nave li ul li a{
-	background-color: blue;
+	background-color: #385794;
 	border-right: none;
 	border-top: 1px solid white;
 	color: white;
@@ -182,8 +192,6 @@ body{
 	margin: 0 auto;
 	padding-bottom: 10%;
 	width: 90%;
-
-	background: lightblue;
 }
 .izquierda-nosotros{
 	float: left;
@@ -243,8 +251,6 @@ body{
 	border-top: 2px dotted black;
 	margin: 0 auto;
 	width: 90%;
-
-	background-color: lightblue;
 }
 .servicios{
 	margin: 0 auto;
@@ -307,8 +313,6 @@ body{
 	margin: 0 auto;
 	padding-bottom: 5%;
 	width: 90%;
-
-	background-color: lightblue;
 }
 .titulo-paquetes{
 	display: flex;
@@ -452,8 +456,6 @@ body{
 	margin: 0 auto;
 	padding-bottom: 5%;	
 	width: 90%;
-
-	background-color: lightblue;
 }
 .info{
 	margin: 0 auto;
@@ -512,8 +514,6 @@ body{
 	border-top: 2px dotted white;
 	margin: 0 auto;
 	width: 90%;
-
-	background-color: lightblue;
 }
 .titulo-galeria{
 	display: flex;
@@ -523,7 +523,7 @@ body{
 	width: 75%;
 }
 .titulo-galeria h2{
-	color: #1F5698;
+	color: white;
 	font-family: "arcena";
 	margin-top: 31.5px;
 }
@@ -604,8 +604,6 @@ body{
 	border-top: 2px dotted white;
 	margin: 0 auto;
 	width: 90%;
-
-	background-color: lightblue;
 }
 .titulo-testimonios{
 	display: flex;
@@ -615,7 +613,7 @@ body{
 	width: 75%;
 }
 .titulo-testimonios h2{
-	color: #1F5698;
+	color: white;
 	font-family: "arcena";
 	margin-top: 31.5px;
 }
@@ -669,8 +667,6 @@ body{
 	border-top: 2px dotted white;
 	margin: 0 auto;
 	width: 90%;
-
-	background-color: lightblue;
 }
 .titulo-promociones{
 	display: flex;
@@ -680,7 +676,7 @@ body{
 	width: 75%;
 }
 .titulo-promociones h2{
-	color: #1F5698;
+	color: white;
 	font-family: "arcena";
 	margin-top: 31.5px;
 }
@@ -758,6 +754,7 @@ body{
 
 /*===========  ESTILOS DE LA SECCION GUIAS OFICIALES =============*/
 .contenedor-guias{
+	border-top: 2px dotted white;
 	margin: 0 auto;
 	width: 90%;
 }
@@ -769,7 +766,7 @@ body{
 	width: 75%;
 }
 .titulo-guias h2{
-	color: #1F5698;
+	color: white;
 	font-family: "arcena";
 	margin-top: 31.5px;
 }
@@ -982,7 +979,6 @@ footer img{
 
 /*===========  ESTILOS DE LA SECCION GASTRONOMIA =============*/
 .fondo-azulclaro{
-	background-color: #4CBAE5;
 	width: 100%;
 }
 .titulo-gastronomia{
