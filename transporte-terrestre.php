@@ -55,84 +55,84 @@
 		
 
 		<div class="contenedor-terrestre">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> BUSES / H1 / SPRINTER / AUTOS/</h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> TRANSPORTES PARA NUESTROS PASAJEROS</h3>
 			
 			<div class="opcion-terrestre">
 				<a href="carro1.php"><img src="img/carro1.png"></a>
-				<a href="carro1.php"><h4>Nissan H1 (12 pasajeros):</h4></a>
-				<p>• Asientos reclinables a 140 °<br>
-				• GPS<br>
-				• Acondicionador de aire<br>
-				• Cine / Video TV<br>
-				• Servicio de WiFi<br>
-				• AUDIO<br>
-				• Puntos de venta<br>
-				• Velocidad controlada</p>
+					<!-- <a href="carro1.php"><h4>Nissan H1 (12 pasajeros):</h4></a>
+					<p>• Asientos reclinables a 140 °<br>
+					• GPS<br>
+					• Acondicionador de aire<br>
+					• Cine / Video TV<br>
+					• Servicio de WiFi<br>
+					• AUDIO<br>
+					• Puntos de venta<br>
+					• Velocidad controlada</p> -->
 			</div>
 
 			<div class="opcion-terrestre">
 				<img src="img/carro2.png">
-				<h4>Nissan H1 (12 pasajeros):</h4>
-				<p>• Asientos reclinables a 140 °<br>
-				• GPS<br>
-				• Acondicionador de aire<br>
-				• Cine / Video TV<br>
-				• Servicio de WiFi<br>
-				• AUDIO<br>
-				• Puntos de venta<br>
-				• Velocidad controlada</p>
+					<!-- <h4>Nissan H1 (12 pasajeros):</h4>
+					<p>• Asientos reclinables a 140 °<br>
+					• GPS<br>
+					• Acondicionador de aire<br>
+					• Cine / Video TV<br>
+					• Servicio de WiFi<br>
+					• AUDIO<br>
+					• Puntos de venta<br>
+					• Velocidad controlada</p> -->
 			</div>
 
 			<div class="opcion-terrestre">
 				<img src="img/carro3.png">
-				<h4>Nissan H1 (12 pasajeros):</h4>
-				<p>• Asientos reclinables a 140 °<br>
-				• GPS<br>
-				• Acondicionador de aire<br>
-				• Cine / Video TV<br>
-				• Servicio de WiFi<br>
-				• AUDIO<br>
-				• Puntos de venta<br>
-				• Velocidad controlada</p>
+					<!-- <h4>Nissan H1 (12 pasajeros):</h4>
+					<p>• Asientos reclinables a 140 °<br>
+					• GPS<br>
+					• Acondicionador de aire<br>
+					• Cine / Video TV<br>
+					• Servicio de WiFi<br>
+					• AUDIO<br>
+					• Puntos de venta<br>
+					• Velocidad controlada</p> -->
 			</div>
 
 			<div class="opcion-terrestre">
 				<img src="img/carro4.png">
-				<h4>Nissan H1 (12 pasajeros):</h4>
-				<p>• Asientos reclinables a 140 °<br>
-				• GPS<br>
-				• Acondicionador de aire<br>
-				• Cine / Video TV<br>
-				• Servicio de WiFi<br>
-				• AUDIO<br>
-				• Puntos de venta<br>
-				• Velocidad controlada</p>
+					<!-- <h4>Nissan H1 (12 pasajeros):</h4>
+					<p>• Asientos reclinables a 140 °<br>
+					• GPS<br>
+					• Acondicionador de aire<br>
+					• Cine / Video TV<br>
+					• Servicio de WiFi<br>
+					• AUDIO<br>
+					• Puntos de venta<br>
+					• Velocidad controlada</p> -->
 			</div>
 
 			<div class="opcion-terrestre">
 				<img src="img/carro5.png">
-				<h4>Nissan H1 (12 pasajeros):</h4>
-				<p>• Asientos reclinables a 140 °<br>
-				• GPS<br>
-				• Acondicionador de aire<br>
-				• Cine / Video TV<br>
-				• Servicio de WiFi<br>
-				• AUDIO<br>
-				• Puntos de venta<br>
-				• Velocidad controlada</p>
+					<!-- <h4>Nissan H1 (12 pasajeros):</h4>
+					<p>• Asientos reclinables a 140 °<br>
+					• GPS<br>
+					• Acondicionador de aire<br>
+					• Cine / Video TV<br>
+					• Servicio de WiFi<br>
+					• AUDIO<br>
+					• Puntos de venta<br>
+					• Velocidad controlada</p> -->
 			</div>
 
 			<div class="opcion-terrestre">
 				<img src="img/carro6.png">
-				<h4>Nissan H1 (12 pasajeros):</h4>
-				<p>• Asientos reclinables a 140 °<br>
-				• GPS<br>
-				• Acondicionador de aire<br>
-				• Cine / Video TV<br>
-				• Servicio de WiFi<br>
-				• AUDIO<br>
-				• Puntos de venta<br>
-				• Velocidad controlada</p>
+					<!-- <h4>Nissan H1 (12 pasajeros):</h4>
+					<p>• Asientos reclinables a 140 °<br>
+					• GPS<br>
+					• Acondicionador de aire<br>
+					• Cine / Video TV<br>
+					• Servicio de WiFi<br>
+					• AUDIO<br>
+					• Puntos de venta<br>
+					• Velocidad controlada</p> -->
 			</div>
 
 			<div class="clear"></div>

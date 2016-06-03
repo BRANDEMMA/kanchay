@@ -194,25 +194,25 @@
 		<div id="hoteles-todos">
 			<h3>LISTA DE HOTELES</h3>
 			
-			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i></span></h4>
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA</h4>
 
 			<?php
 				include 'hoteles-5-estrellas.php';
 			?>
 
-			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i></span> SUPERIOR</h4>
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> CUSCO</h4>
 
 			<?php
 				include 'hoteles-4-estrellas+.php';
 			?>
 
-			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i></span></h4>
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> OTRA CIUDAD</h4>
 
 			<?php
 				include 'hoteles-4-estrellas.php';
 			?>
 
-			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA <span><i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i></span></h4>
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> OTRA CIUDAD</h4>
 
 			<?php
 				include 'hoteles-3-estrellas.php';

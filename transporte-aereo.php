@@ -55,7 +55,7 @@
 		
 
 		<div class="contenedor-aereo">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> AVIÓN DS10 BOEING</h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> AVIÓN</h3>
 			
 			<div class="opcion-aereo">
 				<div class="izquierda-aereo">

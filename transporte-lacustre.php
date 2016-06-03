@@ -55,13 +55,13 @@
 		
 
 		<div class="contenedor-lacustre">
-			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> CATAMARAN</h3>
+			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> TRANSPORTE EN EL LAGO TITICACA</h3>
 			
 			<div class="opcion-lacustre">
 				<div class="izquierda-lacustre">
 					<img src="img/transporte-lacustre.png">
 				</div>
-				<div class="derecha-lacustre">
+				<!-- <div class="derecha-lacustre">
 					<h5>CATAMARAN</h5>
 					<p>• Servicio a bordo<br>
 					• Equipo salvavidas<br>
@@ -72,7 +72,7 @@
 					• Ipsum lorem<br>
 					• AUDIO<br>
 					• Velocidad controlada</p>
-				</div>
+				</div> -->
 
 				<div class="clear"></div>
 			</div>

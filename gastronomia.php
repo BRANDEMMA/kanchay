@@ -39,14 +39,11 @@
 
 
 	<div class="fondo-azulclaro">
-		<div class="titulo-gastronomia"><img src="img/paquetes-kanchay-peru.png"><h2>TOURS</h2></div>
 		<img class="portada-gastronomia" src="img/portada-tours.jpg">
 
 		<div class="gastronomia-peru">
 			<h3>Gastronomía del Perú</h3>
 			<div class="izquierda-gastronomia">
-				<p><span>DÍA 04:</span> CUSCO - SALIDA (D)<br><br>
-				<span>IMPORTANTE:</span><br><br>
 				La gastronomía del Perú es muy diversa, tanto que el libro 357 listas para entender cómo somos los peruanos llega a contar hasta 491 platos típicos.1<br><br>
 
 				La cocina peruana es el resultado de la fusión inicial de la tradición culinaria del antiguo Perú —con sus propias técnicas y potajes— con la cocina española en su variante más fuertemente influenciada por 762 años de presencia morisca en la Península Ibérica y con importante aporte de las costumbres culinarias traídas de la costa atlántica del África subsahariana por los esclavos.<br><br>
@@ -59,8 +56,6 @@
 			</div>
 
 			<div class="derecha-gastronomia">
-				<p><span>DÍA 04:</span> CUSCO - SALIDA (D)<br><br>
-				<span>IMPORTANTE:</span><br><br>
 				<span>•</span>  Programas a machu picchu incluyen tren expediition, si desean viajar en tren vistadome agregar $ 35.00<br>
 				<span>•</span>  Sugerimos tomar el almuerzo en machu picchu sanctuary lodge para tener más tiempo. se debera agregar usd$ 35.00. <br>
 				<span>•</span>  Tarifas en dolares americanos, para pagar en soles aplicar el tipo de cambio del    día (bcr).<br>

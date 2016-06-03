@@ -64,7 +64,8 @@
 			<img src="img/ubicacion.gif">
 			<p>			
 			<span>Dirección:</span><br>
-			lorem ipsum<br>
+			Edificio las Moreras 810 Residencial<br>
+			San Felipe Jesús María<br>
 			Lima, Perú
 			</p>
 		</div>
@@ -72,14 +73,14 @@
 			<img src="img/mensaje.gif">
 			<p>
 			<span>E-Mail:</span><br>
-			<a href="">email@servidor.com</a><br>
+			<a href="">informes@kanchay.com</a><br>
 			</p>
 		</div>
 		<div class="datos">
 			<img src="img/telefono.gif">
 			<p>
 			<span>Teléfono:</span><br>
-			<a href="">987 654 321</a><br>
+			<a href="">051 976 348 191</a><br>
 			</p>
 		</div>
 		<div class="clear"></div>
@@ -390,6 +391,7 @@
 					<span>Paracas - Nazca</span>
 					</p>
 				</div>
+				<div class="clear"></div>
 			</div>
 
 			<div class="guia der">
@@ -404,6 +406,7 @@
 					<span>Paracas - Nazca - Arequipa - Cuzco</span>
 					</p>
 				</div>
+				<div class="clear"></div>
 			</div>
 
 			<div class="guia izq">
@@ -418,6 +421,7 @@
 				<span>Paracas - Nazca</span>
 				</p>
 				</div>
+				<div class="clear"></div>
 			</div>
 
 			<div class="guia der">
@@ -432,6 +436,7 @@
 				<span>Paracas - Nazca - Arequipa - Puno - Cuzco</span>
 				</p>
 				</div>
+				<div class="clear"></div>
 			</div>
 
 			<div class="guia izq">
@@ -446,6 +451,7 @@
 				<span>Paracas - Nazca - Arequipa - Puno - Cuzco</span>
 				</p>
 				</div>
+				<div class="clear"></div>
 			</div>
 
 			<div class="guia der">
@@ -460,6 +466,7 @@
 				<span>Paracas - Nazca -Arequipa - Puno - Cuzco</span>
 				</p>
 				</div>
+				<div class="clear"></div>
 			</div>
 
 			<div class="clear"></div>

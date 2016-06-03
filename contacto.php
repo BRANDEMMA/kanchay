@@ -46,13 +46,13 @@
 
 		  	<div class="datos-contacto-final">
 		  		<div class="datos-final">
-		  			<img src="img/ubicacion-blanco.png"><p>Lima, Perú</p>
+		  			<img src="img/ubicacion-blanco.png"><p>Edificio las Moreras 810 Residencial<br>	San Felipe Jesús María<br> Lima, Perú</p>
 		  		</div>
 		  		<div class="datos-final">
-		  			<img src="img/mensaje-blanco.png"><p><a href="">correo@dominio.com</p></a>
+		  			<img src="img/mensaje-blanco.png"><p><a href="">informes@kanchay.com</p></a>
 		  		</div>
 		  		<div class="datos-final">
-		  			<img src="img/telefono-blanco.png"><p><a href="">987 654 321</a></p>
+		  			<img src="img/telefono-blanco.png"><p><a href="">051 976 348 191</a></p>
 		  		</div>
 		  	</div>
 		</div>

@@ -781,15 +781,16 @@ body{
 	width: 70%;
 }
 .guia{
-	display: flex;
 	margin-bottom: 5%;
 	width: 365px;
 }
 .guia img{
+	float: left;
 	height: 100%;
 	width: 150px;
 }
 .texto-guia{
+	float: left;
 	margin-left: 3%;
 }
 .guia h3{
@@ -1017,6 +1018,7 @@ footer img{
 	font-family: "arcena";
 	font-size: 2em;
 	margin: 0;
+	margin-bottom: 5%;
 }
 .gastronomia-peru span{
 	color: #385794;
@@ -1338,15 +1340,13 @@ footer img{
 	margin-bottom: 0;
 }
 .izquierda-lacustre{
-	border-right: 2px solid #5C5C5C;
-	float: left;
-	margin-right: 5%;
-	width: 55%;
+	margin: 0 auto;
+	width: 95%;
 }
 .izquierda-lacustre img{
 	padding-bottom: 5%;
 	padding-top: 10%;
-	width: 95%;
+	width: 100%;
 }
 .derecha-lacustre{
 	float: left;
