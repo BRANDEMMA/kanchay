@@ -39,23 +39,31 @@
 
 
 	<div class="fondo-azulclaro">
-		<img class="portada-gastronomia" src="img/portada-tours.jpg">
+		<div class="titulo-gastronomia"><img src="img/paquetes-kanchay-peru.png"><h2>TOURS</h2></div>
+		<img class="portada-gastronomia" src="img/portada-tours2.jpg">
 
 		<div class="gastronomia-peru">
-			<h3>Gastronomía del Perú</h3>
+			<h3>CITY TOUR LIMA</h3>
 			<div class="izquierda-gastronomia">
-			<p>
-				El Perú es altamente reconocido por su gastronomía debido a que esta es el resultado de la fusión de las técnicas culinarias el antiguo Perú con las técnicas traidas por los españoles, los asiaticos, los africanos y todas las culturas con las que la civilización peruana tuvo contacto. <br><br>
-				Esta fusión revolucionó el sabor de cada plato haciendo que degustar comida peruana se convirtiera en un deleite para el paladar por su intenso sabor. Además, el degustar diversas comidas el comensal no siente monotonía, debido a la existencia de sabores de los 4 continentes en una sola cocina.<br><br>
-				Entre los platos representativos de esta gastronomía tenemos: el ceviche, la carapulcra, el lomo saltado, el cuy colorado, los anticuchos, etc.</p>
+				<p><span>Disfruta conocer la ciudad de nuestros ancestros, la ciudad de Virreyes : Lima.</span><br><br>
+				<span>HORARIOS:</span><br>
+				9:00 AM<br>
+				2:00 PM<br><br>
+
+				<span>RECORRIDO:</span><br><br>
+				Recojo del Hotel o lugar donde se encuentran los pasajeros<br><br>
+				Recorrido por las zonas residenciales y comerciales más importantes de la ciudad contemporánea como: Miraflores, Parque del Amor, Huaca Pucllana, Olivar de San isidro, Lince, Jesús María.<br><br>
+				Arribando a la parte antigua de la ciudad visitaremos, Plaza Grau y sus bellos monumentos de alrededores: Palacio de Justicia, Palacio Francés, Hotel Sheraton; Plaza San Martín.</p>
 			</div>
 
 			<div class="derecha-gastronomia">
+				<p>Plaza de Armas, donde se encuentran los poderes del estado español a la fundación de la ciudad en 1535: Catedral, Municipio y Palacio de Gobierno.<br><br>
+				Visita Catedral de Lima <br><br>
+				Programable visitas a: Convento de San Francisco y sus criptas subterráneas, Convento de Santo Domingo, Casa de Aliaga , Iglesia San Pedro.</p>
 				<p>
-				Entre los postres representativos tenemos al arroz zambito, el suspiro a la limeña, la mazamorra morada, los alfajores, etc.<br><br> 
-				Entre las bebidas tradicionales están presentes la chica de jora, la chicha morada, el pisco,la cachina, etc.</p>
-				<img src="img/comida.png">
-			</div>
+				<span>Duración:</span> 03 a 3 1/2 Horas<br>
+				<span>Incluye:</span> Transporte Turístico, Guía Oficial de Turismo y Tickets de ingreso a los atractivos en mención.</p>
+			</div> 
 
 			<div class="clear"></div>
 		</div>

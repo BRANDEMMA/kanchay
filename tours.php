@@ -42,23 +42,22 @@
 		<div class="titulo-gastronomia"><img src="img/paquetes-kanchay-peru.png"><h2>TOURS</h2></div>
 
 		<div class="contenedor-tours">
-			<p class="texto-tour">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta).</p>
+			<p class="texto-tour">Perú de miles de imágenes, gente y tradiciones ; ciudades milenarias que te invitan a compartir la experiencia inolvidable de tu vida . Te invitamos a conocer nuestro hermoso país  y su vasta riqueza; viaja con nosotros y elije la ciudad que más te guste.</p>
 
 			<div class="detalle-tour espacio-tour">
-				<h3>MACHU PICHU CUSCO</h3>
+				<h3>CITY TOUR LIMA</h3>
 				<div class="izquierda-tour">
 					<img src="img/tour1.jpg">
 				</div>
 
 				<div class="derecha-tour">
-					<h4>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h4>
+					<h4>CIUDAD DE VIRREYES &nbsp;&nbsp;&nbsp; 01 Día</h4>
 					<p>
-					<span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
-					<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
-					<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
-					<span>DÍA 04:</span> CUSCO – SALIDA (D) </p>
+					<span>SALIDA 01:</span> LIMA- 9:00 AM<br>
+					<span>SALIDA 02:</span> LIMA – 2:00 PM<br>
+					<span>DURACIÓN:</span> 3 A 3 1/2 HORAS<br></p>
 
-					<a href="cusco-inolvidable.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+					<a href="city-tour-lima.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
 
 					<div class="clear"></div>
 				</div>
@@ -67,7 +66,7 @@
 			</div>
 
 			<div class="detalle-tour">
-				<h3>MACHU PICHU CUSCO</h3>
+				<h3>MUSEO LARCO HERRERA</h3>
 				<div class="izquierda-tour">
 					<img src="img/tour2.jpg">
 				</div>
@@ -89,7 +88,7 @@
 			</div>
 
 			<div class="detalle-tour espacio-tour">
-				<h3>MACHU PICHU CUSCO</h3>
+				<h3>MUSEO DE ORO Y ARMAS DEL PERÚ</h3>
 				<div class="izquierda-tour">
 					<img src="img/tour2.jpg">
 				</div>
@@ -111,7 +110,7 @@
 			</div>
 
 			<div class="detalle-tour">
-				<h3>MACHU PICHU CUSCO</h3>
+				<h3>COMPLEJO ARQUEOLOGICO DE PACHACAMAC</h3>
 				<div class="izquierda-tour">
 					<img src="img/tour1.jpg">
 				</div>
@@ -133,7 +132,7 @@
 			</div>
 
 			<div class="detalle-tour espacio-tour">
-				<h3>MACHU PICHU CUSCO</h3>
+				<h3>SHOW DE CABALLO PERUANO DE PASO</h3>
 				<div class="izquierda-tour">
 					<img src="img/tour1.jpg">
 				</div>
@@ -155,7 +154,7 @@
 			</div>
 
 			<div class="detalle-tour">
-				<h3>MACHU PICHU CUSCO</h3>
+				<h3>CIUDAD SAGRADA DE CARAL</h3>
 				<div class="izquierda-tour">
 					<img src="img/tour2.jpg">
 				</div>
@@ -177,7 +176,7 @@
 			</div>
 
 			<div class="detalle-tour espacio-tour">
-				<h3>MACHU PICHU CUSCO</h3>
+				<h3>CITY BY NIGHT</h3>
 				<div class="izquierda-tour">
 					<img src="img/tour2.jpg">
 				</div>
@@ -198,71 +197,6 @@
 				<div class="clear"></div>
 			</div>
 
-			<div class="detalle-tour">
-				<h3>MACHU PICHU CUSCO</h3>
-				<div class="izquierda-tour">
-					<img src="img/tour1.jpg">
-				</div>
-
-				<div class="derecha-tour">
-					<h4>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h4>
-					<p>
-					<span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
-					<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
-					<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
-					<span>DÍA 04:</span> CUSCO – SALIDA (D) </p>
-
-					<a href=""><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
-
-					<div class="clear"></div>
-				</div>
-
-				<div class="clear"></div>
-			</div>
-
-			<div class="detalle-tour espacio-tour">
-				<h3>MACHU PICHU CUSCO</h3>
-				<div class="izquierda-tour">
-					<img src="img/tour1.jpg">
-				</div>
-
-				<div class="derecha-tour">
-					<h4>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h4>
-					<p>
-					<span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
-					<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
-					<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
-					<span>DÍA 04:</span> CUSCO – SALIDA (D) </p>
-
-					<a href=""><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
-
-					<div class="clear"></div>
-				</div>
-
-				<div class="clear"></div>
-			</div>
-
-			<div class="detalle-tour">
-				<h3>MACHU PICHU CUSCO</h3>
-				<div class="izquierda-tour">
-					<img src="img/tour2.jpg">
-				</div>
-
-				<div class="derecha-tour">
-					<h4>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h4>
-					<p>
-					<span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
-					<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
-					<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
-					<span>DÍA 04:</span> CUSCO – SALIDA (D) </p>
-
-					<a href=""><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
-
-					<div class="clear"></div>
-				</div>
-
-				<div class="clear"></div>
-			</div>
 
 			<div class="clear"></div>
 			

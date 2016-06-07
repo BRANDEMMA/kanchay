@@ -42,18 +42,18 @@
 		<img class="portada-gastronomia" src="img/portada-tours.jpg">
 
 		<div class="gastronomia-peru">
-			<h3>Gastronomía del Perú</h3>
+			<h3>Cultura</h3>
 			<div class="izquierda-gastronomia">
 			<p>
-				El Perú es altamente reconocido por su gastronomía debido a que esta es el resultado de la fusión de las técnicas culinarias el antiguo Perú con las técnicas traidas por los españoles, los asiaticos, los africanos y todas las culturas con las que la civilización peruana tuvo contacto. <br><br>
-				Esta fusión revolucionó el sabor de cada plato haciendo que degustar comida peruana se convirtiera en un deleite para el paladar por su intenso sabor. Además, el degustar diversas comidas el comensal no siente monotonía, debido a la existencia de sabores de los 4 continentes en una sola cocina.<br><br>
-				Entre los platos representativos de esta gastronomía tenemos: el ceviche, la carapulcra, el lomo saltado, el cuy colorado, los anticuchos, etc.</p>
+				La cultura peruana es una mezcla de razas de diferentes lugatres del mundo, en especial cuando arribaron todas ellas entre los siglos XVI al  XIX y habitan en el territorio peruano. Esta mezcla de culturas  y la oriunda del Perú le dan la denominación de mestiza a la cultura peruana.<br><br>
+ 
+				En el Perú encontramos vestigios culturales del inicio de la civilización en el Perú como la Cueva del Guitarrero en Yungay, Ancash,( desde las épocas primigenias de la aparición del hombre)  cual contiene restos de los primitivos de agricultores peruanos, también el inicio de las primeras culturas como CARAL, Bandurria,  Chavín, Paracas Moche, Chimu , siendo el compendio y resumén de todas ellas la cultura Incas en Cuzco.<br><br>
+				También encontramos en Perú restos de los conquistadores españoles, los cuales dejaron marcada su influencia en el país con la manera de hablar, la inserción de especies animales y alimentos. </p>
 			</div>
 
 			<div class="derecha-gastronomia">
-				<p>
-				Entre los postres representativos tenemos al arroz zambito, el suspiro a la limeña, la mazamorra morada, los alfajores, etc.<br><br> 
-				Entre las bebidas tradicionales están presentes la chica de jora, la chicha morada, el pisco,la cachina, etc.</p>
+				<p>Esta influencia es más notoria en Lima, donde podemos apreciar las construcciones de estilo español como la Igliesia Catedral de Lima.<br><br>
+				Ya entrada la parte moderna el Perú fue caracterizándose por su literatura, siendo esta de gran calidad, entre los mayores exponentes literarios se encuentran Alfredo Bryce Echenique, Cesar Vallejo y Mario Vargas Llosa ( Premio nobel de literatura 2010).</p>
 				<img src="img/comida.png">
 			</div>
 

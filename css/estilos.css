@@ -86,6 +86,7 @@ body{
 	border-right: none;
 	border-top: 1px solid white;
 	color: white;
+	padding: 15px 5px;
 }
 
 
@@ -1018,7 +1019,7 @@ footer img{
 	font-family: "arcena";
 	font-size: 2em;
 	margin: 0;
-	margin-bottom: 5%;
+	margin-bottom: 3%;
 }
 .gastronomia-peru span{
 	color: #385794;

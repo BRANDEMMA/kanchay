@@ -42,18 +42,24 @@
 		<img class="portada-gastronomia" src="img/portada-tours.jpg">
 
 		<div class="gastronomia-peru">
-			<h3>Gastronomía del Perú</h3>
+			<h3>Fiesta Perú</h3>
 			<div class="izquierda-gastronomia">
 			<p>
-				El Perú es altamente reconocido por su gastronomía debido a que esta es el resultado de la fusión de las técnicas culinarias el antiguo Perú con las técnicas traidas por los españoles, los asiaticos, los africanos y todas las culturas con las que la civilización peruana tuvo contacto. <br><br>
-				Esta fusión revolucionó el sabor de cada plato haciendo que degustar comida peruana se convirtiera en un deleite para el paladar por su intenso sabor. Además, el degustar diversas comidas el comensal no siente monotonía, debido a la existencia de sabores de los 4 continentes en una sola cocina.<br><br>
-				Entre los platos representativos de esta gastronomía tenemos: el ceviche, la carapulcra, el lomo saltado, el cuy colorado, los anticuchos, etc.</p>
+				El Perú debido a la multiculturalidad que poseé presenta a lo largo de su territorio distintas fiestas, diferentes entre si, las cuales muestran la fervosidad del pueblo peruano.<br><br>
+				Muchas veces estas fiestas estan ligadas a un origen religioso y por la combinacion autoctona de la cultura aborigen con la española dada por la convivencia de estas.<br><br>
+				 
+				Algunas fiestas son:<br><br>
+				 
+				- La circuncision del señor (1 de enero en Ayacucho).<br>
+				- El aniversario de Lima (18 de enero en Lima).<br>
+				- Festival nacional de marinera (todo enero, Trujillo,La libertad).<br>
+				- Fiesta de la Virgen de la Candelaria (todo febrero en Puno).</p>
 			</div>
 
 			<div class="derecha-gastronomia">
-				<p>
-				Entre los postres representativos tenemos al arroz zambito, el suspiro a la limeña, la mazamorra morada, los alfajores, etc.<br><br> 
-				Entre las bebidas tradicionales están presentes la chica de jora, la chicha morada, el pisco,la cachina, etc.</p>
+			<p>	- Carnaval de Cajamarca (inicia dias antes del miercoles de ceniza y finaliza el domingo posterior en Cajamarca).<br>
+				- Aniversario de la Fundación de Trujillo (5 de marzo, Trujillo).<br>
+				- Señor de los temblores (2° quincena de marzo y 2° quincena de abril en Cuzco).</p>
 				<img src="img/comida.png">
 			</div>
 

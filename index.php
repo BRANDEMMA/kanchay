@@ -262,11 +262,10 @@
 			<div class="titulo-info"><img src="img/info-kanchay-peru.png"><h2>PERÚ INFO</h2></div>
 			<div class="izquierda-info">
 				<p>
-					<a href=""><i class="fa fa-caret-right" aria-hidden="true"></i> Cultura</a><br>
-					<a href=""><i class="fa fa-caret-right" aria-hidden="true"></i> Costumbres</a><br>
-					<a href=""><i class="fa fa-caret-right" aria-hidden="true"></i> Fiesta Perú</a><br>
+					<a href="cultura.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Cultura</a><br>
+					<a href="fiesta-peru.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Fiesta Perú</a><br>
 					<a href="gastronomia.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Gastronomía</a><br>
-					<a href=""><i class="fa fa-caret-right" aria-hidden="true"></i> Danzas</a><br>
+					<a href="danzas.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Danzas</a><br>
 				</p>
 			</div>
 			<div class="derecha-info">

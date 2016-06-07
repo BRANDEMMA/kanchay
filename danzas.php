@@ -42,18 +42,29 @@
 		<img class="portada-gastronomia" src="img/portada-tours.jpg">
 
 		<div class="gastronomia-peru">
-			<h3>Gastronomía del Perú</h3>
+			<h3>Danzas</h3>
 			<div class="izquierda-gastronomia">
 			<p>
-				El Perú es altamente reconocido por su gastronomía debido a que esta es el resultado de la fusión de las técnicas culinarias el antiguo Perú con las técnicas traidas por los españoles, los asiaticos, los africanos y todas las culturas con las que la civilización peruana tuvo contacto. <br><br>
-				Esta fusión revolucionó el sabor de cada plato haciendo que degustar comida peruana se convirtiera en un deleite para el paladar por su intenso sabor. Además, el degustar diversas comidas el comensal no siente monotonía, debido a la existencia de sabores de los 4 continentes en una sola cocina.<br><br>
-				Entre los platos representativos de esta gastronomía tenemos: el ceviche, la carapulcra, el lomo saltado, el cuy colorado, los anticuchos, etc.</p>
+				Las danzas peruanas actuales son producto de la fusion de las danzas tradicionales con los elementos de las culturas africanas y europeas (instrumentos,ritmo y pasos). <br><br>
+ 
+				Las danzas en el Perú se dividen en:<br><br>
+				 
+				<strong>Danzas agrícolas</strong>, son aquellas que expresan la relacion hombre-tierra,  hombre-producción.
+				Como ejemplo tenemos el Mamá Rayguana.<br><br>
+				 
+				<strong>Danzas carnavalescas</strong>, aquellas que se bailan durante los carnavales. Por lo general adoptan el nombre del lugar donde se bailan, por ejemplo, carnaval de cajamarca.<br><br>
+				
+				<strong>Danzas ceremoniales</strong>, ligadas a ceremonias o rituales y a las actividades comunales como la cosecha, por ejemplo, La danza de las tijeras.
+				</p>
 			</div>
 
 			<div class="derecha-gastronomia">
-				<p>
-				Entre los postres representativos tenemos al arroz zambito, el suspiro a la limeña, la mazamorra morada, los alfajores, etc.<br><br> 
-				Entre las bebidas tradicionales están presentes la chica de jora, la chicha morada, el pisco,la cachina, etc.</p>
+			<p> 				 
+				<strong>Danzas religiosas</strong>, ligadas al culto religioso y ejecutadas en fiestas patronales, por ejemplo, el pacasito.<br><br>
+
+				<strong>Danzas de salón</strong>, son las que se bailan en pareja y en todo tipo de festividades, por ejemplo la Polka Peruana.<br><br>
+				 
+				<strong>Danzas de caza</strong>, representan el acto de la cacería, por ejemplo Llipi Puli.</p>
 				<img src="img/comida.png">
 			</div>
 
