@@ -92,6 +92,52 @@
 				<div class="clear"></div>
 			</div>
 
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1c" src="img/hoteles/hilton-hotel/hilton-hotel-1-(4).jpg">
+					<img id="grande-hotel-2c" style="display:none;" src="img/hoteles/hilton-hotel/hilton-hotel-1-(1).jpg">
+					<img id="grande-hotel-3c" style="display:none;" src="img/hoteles/hilton-hotel/hilton-hotel-1-(3).jpg">
+					<a href="hotel-marriot.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1c" src="img/hoteles/hilton-hotel/hilton-hotel-2(4).jpg">
+					<img id="mini-hotel-2c" src="img/hoteles/hilton-hotel/hilton-hotel-2(1).jpg">
+					<img id="mini-hotel-3c" src="img/hoteles/hilton-hotel/hilton-hotel-2(3).jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="hotel-marriot.php">Hilton Hotel</a></h5>
+					<p>Disfrute de unas maravillosas vistas al mar desde nuestro hotel en Miraflores.<br>
+
+					Situado frente a los imponentes acantilados del distrito de Miraflores<br>
+
+					Ofrece 300 habitaciones con una vista panorámica del Océano Pacífico...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel">
+				<div class="img-hotel">
+					<img id="grande-hotel-1d" src="img/hoteles/westin/westin-4.jpg">
+					<img id="grande-hotel-2d" style="display:none;" src="img/hoteles/westin/westin-5.jpg">
+					<img id="grande-hotel-3d" style="display:none;" src="img/hoteles/westin/westin-2.jpg">
+					<a href="hotel-westin.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1d" src="img/hoteles/westin/westin-4.1.jpg">
+					<img id="mini-hotel-2d" src="img/hoteles/westin/westin-5.1.jpg">
+					<img id="mini-hotel-3d" src="img/hoteles/westin/westin-2.1.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="hotel-westin.php">Hotel Westin</a></h5>
+					<p>Situado en el vibrante distrito financiero y de compras de Lima.<br>
+
+					Saboree la innovadora cocina peruana a manos del chef Rafael en Maras<br> 
+
+					Explore las suntuosas posibilidades de temporada y los saludables...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
 			<div class="clear"></div>
 
 <?php
