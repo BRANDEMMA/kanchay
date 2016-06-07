@@ -50,6 +50,12 @@
 
 <!--================== 	SCRIPT PARA LLAMAR A DIV OCULTO (TERMINA)  =====================-->
 
+<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "HOTELES" (INICIA)  =====================-->
+	<?php
+		include 'cambiar-imagenes.php';
+	?>
+<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "HOTELES" (TERMINA)  =====================-->
+
 </head>
 
 <body>

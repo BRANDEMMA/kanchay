@@ -1,4 +1,4 @@
-<?php
+n<?php
 ?>
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
@@ -301,15 +301,15 @@
 
 			<div class="contenedor-hotel">
 				<div class="img-hotel">
-					<img id="grande-hotel-1l" src="img/hoteles/dazzler/dazzler-1.1.jpg">
-					<img id="grande-hotel-2l" style="display:none;" src="img/hoteles/dazzler/dazzler-1.2.jpg">
-					<img id="grande-hotel-3l" style="display:none;" src="img/hoteles/dazzler/dazzler-1.3.jpg">
+					<img id="grande-hotel-1n" src="img/hoteles/dazzler/dazzler-1.1.jpg">
+					<img id="grande-hotel-2n" style="display:none;" src="img/hoteles/dazzler/dazzler-1.2.jpg">
+					<img id="grande-hotel-3n" style="display:none;" src="img/hoteles/dazzler/dazzler-1.3.jpg">
 					<a href="dazzler.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1l" src="img/hoteles/dazzler/dazzler-2.1.jpg">
-					<img id="mini-hotel-2l" src="img/hoteles/dazzler/dazzler-2.2.jpg">
-					<img id="mini-hotel-3l" src="img/hoteles/dazzler/dazzler-2.3.jpg">
+					<img id="mini-hotel-1n" src="img/hoteles/dazzler/dazzler-2.1.jpg">
+					<img id="mini-hotel-2n" src="img/hoteles/dazzler/dazzler-2.2.jpg">
+					<img id="mini-hotel-3n" src="img/hoteles/dazzler/dazzler-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="dazzler.php">Dazzler</a></h5>
@@ -324,15 +324,15 @@
 
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
-					<img id="grande-hotel-1m" src="img/hoteles/costa-del-sol/costa-del-sol-1.1.jpg">
-					<img id="grande-hotel-2m" style="display:none;" src="img/hoteles/costa-del-sol/costa-del-sol-1.2.jpg">
-					<img id="grande-hotel-3m" style="display:none;" src="img/hoteles/costa-del-sol/costa-del-sol-1.3.jpg">
+					<img id="grande-hotel-1o" src="img/hoteles/costa-del-sol/costa-del-sol-1.1.jpg">
+					<img id="grande-hotel-2o" style="display:none;" src="img/hoteles/costa-del-sol/costa-del-sol-1.2.jpg">
+					<img id="grande-hotel-3o" style="display:none;" src="img/hoteles/costa-del-sol/costa-del-sol-1.3.jpg">
 					<a href="costa-del-sol.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1m" src="img/hoteles/costa-del-sol/costa-del-sol-2.1.jpg">
-					<img id="mini-hotel-2m" src="img/hoteles/costa-del-sol/costa-del-sol-2.2.jpg">
-					<img id="mini-hotel-3m" src="img/hoteles/costa-del-sol/costa-del-sol-2.3.jpg">
+					<img id="mini-hotel-1o" src="img/hoteles/costa-del-sol/costa-del-sol-2.1.jpg">
+					<img id="mini-hotel-2o" src="img/hoteles/costa-del-sol/costa-del-sol-2.2.jpg">
+					<img id="mini-hotel-3o" src="img/hoteles/costa-del-sol/costa-del-sol-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="costa-del-sol.php">Costa del Sol Wyndham</a></h5>
@@ -347,15 +347,15 @@
 
 			<div class="contenedor-hotel">
 				<div class="img-hotel">
-					<img id="grande-hotel-1l" src="img/hoteles/la-hacienda/la-hacienda-1.1.jpg">
-					<img id="grande-hotel-2l" style="display:none;" src="img/hoteles/la-hacienda/la-hacienda-1.2.jpg">
-					<img id="grande-hotel-3l" style="display:none;" src="img/hoteles/la-hacienda/la-hacienda-1.3.jpg">
+					<img id="grande-hotel-1p" src="img/hoteles/la-hacienda/la-hacienda-1.1.jpg">
+					<img id="grande-hotel-2p" style="display:none;" src="img/hoteles/la-hacienda/la-hacienda-1.2.jpg">
+					<img id="grande-hotel-3p" style="display:none;" src="img/hoteles/la-hacienda/la-hacienda-1.3.jpg">
 					<a href="la-hacienda.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1l" src="img/hoteles/la-hacienda/la-hacienda-2.1.jpg">
-					<img id="mini-hotel-2l" src="img/hoteles/la-hacienda/la-hacienda-2.2.jpg">
-					<img id="mini-hotel-3l" src="img/hoteles/la-hacienda/la-hacienda-2.3.jpg">
+					<img id="mini-hotel-1p" src="img/hoteles/la-hacienda/la-hacienda-2.1.jpg">
+					<img id="mini-hotel-2p" src="img/hoteles/la-hacienda/la-hacienda-2.2.jpg">
+					<img id="mini-hotel-3p" src="img/hoteles/la-hacienda/la-hacienda-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="la-hacienda.php">La Hacienda</a></h5>
@@ -370,15 +370,15 @@
 
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
-					<img id="grande-hotel-1m" src="img/hoteles/jose-antonio/jose-antonio-1.1.jpg">
-					<img id="grande-hotel-2m" style="display:none;" src="img/hoteles/jose-antonio/jose-antonio-1.2.jpg">
-					<img id="grande-hotel-3m" style="display:none;" src="img/hoteles/jose-antonio/jose-antonio-1.3.jpg">
+					<img id="grande-hotel-1q" src="img/hoteles/jose-antonio/jose-antonio-1.1.jpg">
+					<img id="grande-hotel-2q" style="display:none;" src="img/hoteles/jose-antonio/jose-antonio-1.2.jpg">
+					<img id="grande-hotel-3q" style="display:none;" src="img/hoteles/jose-antonio/jose-antonio-1.3.jpg">
 					<a href="jose-antonio.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1m" src="img/hoteles/jose-antonio/jose-antonio-2.1.jpg">
-					<img id="mini-hotel-2m" src="img/hoteles/jose-antonio/jose-antonio-2.2.jpg">
-					<img id="mini-hotel-3m" src="img/hoteles/jose-antonio/jose-antonio-2.3.jpg">
+					<img id="mini-hotel-1q" src="img/hoteles/jose-antonio/jose-antonio-2.1.jpg">
+					<img id="mini-hotel-2q" src="img/hoteles/jose-antonio/jose-antonio-2.2.jpg">
+					<img id="mini-hotel-3q" src="img/hoteles/jose-antonio/jose-antonio-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="jose-antonio.php">José Antonio Hotel</a></h5>
@@ -393,15 +393,15 @@
 
 			<div class="contenedor-hotel">
 				<div class="img-hotel">
-					<img id="grande-hotel-1l" src="img/hoteles/libertador/libertador-1.1.jpg">
-					<img id="grande-hotel-2l" style="display:none;" src="img/hoteles/libertador/libertador-1.2.jpg">
-					<img id="grande-hotel-3l" style="display:none;" src="img/hoteles/libertador/libertador-1.3.jpg">
+					<img id="grande-hotel-1r" src="img/hoteles/libertador/libertador-1.1.jpg">
+					<img id="grande-hotel-2r" style="display:none;" src="img/hoteles/libertador/libertador-1.2.jpg">
+					<img id="grande-hotel-3r" style="display:none;" src="img/hoteles/libertador/libertador-1.3.jpg">
 					<a href="libertador.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1l" src="img/hoteles/libertador/libertador-2.1.jpg">
-					<img id="mini-hotel-2l" src="img/hoteles/libertador/libertador-2.2.jpg">
-					<img id="mini-hotel-3l" src="img/hoteles/libertador/libertador-2.3.jpg">
+					<img id="mini-hotel-1r" src="img/hoteles/libertador/libertador-2.1.jpg">
+					<img id="mini-hotel-2r" src="img/hoteles/libertador/libertador-2.2.jpg">
+					<img id="mini-hotel-3r" src="img/hoteles/libertador/libertador-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="libertador.php">Hotel Libertador</a></h5>
