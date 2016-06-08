@@ -39,7 +39,7 @@
 
 
 	<div class="fondo-azulclaro">
-		<img class="portada-gastronomia" src="img/portada-tours.jpg">
+		<img class="portada-gastronomia" src="img/fiestas-peru.jpg">
 
 		<div class="gastronomia-peru">
 			<h3>Fiesta Perú</h3>
@@ -60,7 +60,7 @@
 			<p>	- Carnaval de Cajamarca (inicia dias antes del miercoles de ceniza y finaliza el domingo posterior en Cajamarca).<br>
 				- Aniversario de la Fundación de Trujillo (5 de marzo, Trujillo).<br>
 				- Señor de los temblores (2° quincena de marzo y 2° quincena de abril en Cuzco).</p>
-				<img src="img/comida.png">
+				<!-- <img src="img/comida.png"> -->
 			</div>
 
 			<div class="clear"></div>

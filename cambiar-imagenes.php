@@ -4,7 +4,7 @@
 		$(document).ready(function(){
 			$('#mini-hotel-1a').on('click', function(){
 				$('#grande-hotel-1a').show();
-				$('#grande-hotel-2a').hide();1
+				$('#grande-hotel-2a').hide();
 				$('#grande-hotel-3a').hide();
 			});
 		});

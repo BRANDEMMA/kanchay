@@ -54,6 +54,15 @@
 	<?php
 		include 'cambiar-imagenes.php';
 	?>
+	<?php
+		include 'cambiar-imagenes-cusco.php';
+	?>
+	<?php
+		include 'cambiar-imagenes-valle.php';
+	?>
+	<?php
+		include 'cambiar-imagenes-machu.php';
+	?>
 <!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "HOTELES" (TERMINA)  =====================-->
 
 </head>
@@ -88,25 +97,25 @@
 			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> LIMA</h4>
 
 			<?php
-				include 'hoteles-5-estrellas.php';
+				include 'hoteles-lima.php';
 			?>
 
-			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> CUSCO</h4>
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> CUZCO</h4>
 
 			<?php
-				include 'hoteles-4-estrellas+.php';
+				include 'hoteles-cusco.php';
 			?>
 
-			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> OTRA CIUDAD</h4>
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> VALLE SAGRADO</h4>
 
 			<?php
-				include 'hoteles-4-estrellas.php';
+				include 'hoteles-valle-sagrado.php';
 			?>
 
-			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> OTRA CIUDAD</h4>
+			<h4><i class="fa fa-caret-right" aria-hidden="true"></i> MACHU PICCHU</h4>
 
 			<?php
-				include 'hoteles-3-estrellas.php';
+				include 'hoteles-machu-picchu.php';
 			?>
 		</div>
 

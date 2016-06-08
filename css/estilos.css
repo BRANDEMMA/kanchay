@@ -49,6 +49,7 @@ body{
 }
 .menu-principal img{
 	height: 100%;
+	max-height: 75px;
 	width: 100%;
 }
 .menu-principal ul{
@@ -191,18 +192,18 @@ body{
 .nosotros{
 	border-top: 2px dotted black;
 	margin: 0 auto;
-	padding-bottom: 10%;
+	padding-bottom: 8%;
 	width: 90%;
 }
 .izquierda-nosotros{
 	float: left;
-	padding-top: 10%;
+	padding-top: 20%;
 	text-align: center;
 	width: 60%;
 }
 .derecha-nosotros{
 	float: left;
-	padding-top: 10%;
+	padding-top: 5%;
 	width: 30%;
 }
 .derecha-nosotros img{
@@ -346,7 +347,7 @@ body{
 }
 #slider-paquetes{
 	display: flex;
-	width: 300%;
+	width: 700%;
 }
 #slider-paquetes section{
 	width: 100%;
@@ -397,6 +398,10 @@ body{
 	font-family: "my_riad_pro_semibold";
 }
 .texto-slider-tour a{
+	color: #385794;
+	text-decoration: none;
+}
+.texto-slider-tour .boton-paquete{
 	background-color: #EEC52F;
 	border-radius: 2px;
 	color: #385794;
@@ -468,7 +473,7 @@ body{
 	padding-top: 2%;
 }
 .titulo-info h2{
-	color: #1F5698;
+	color: white;
 	font-family: "arcena";
 	margin-top: 31.5px;
 }

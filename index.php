@@ -13,6 +13,7 @@
 	<!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
 	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link rel="stylesheet" href="css/lightbox.min.css">
 
 	<!--================== 	ENLACE HOJA DE ESTILOS (TERMINA)  =====================-->
 
@@ -59,9 +60,9 @@
 	</div>
 
 	<div class="informacion-contacto">
-		<h2>CONTÁCTENOS <img src="img/mensaje2.gif"> <span>Peruvian Paradise</span></h2>
+		<h2>CONTÁCTENOS <img src="img/mensaje2.png"> <span>Peruvian Paradise</span></h2>
 		<div class="datos">
-			<img src="img/ubicacion.gif">
+			<img src="img/ubicacion.png">
 			<p>			
 			<span>Dirección:</span><br>
 			Edificio las Moreras 810 Residencial<br>
@@ -70,17 +71,17 @@
 			</p>
 		</div>
 		<div class="datos">
-			<img src="img/mensaje.gif">
+			<img src="img/mensaje.png">
 			<p>
 			<span>E-Mail:</span><br>
-			<a href="">informes@kanchay.com</a><br>
+			<a href="mailto:informes@kanchay.com">informes@kanchay.com</a><br>
 			</p>
 		</div>
 		<div class="datos">
-			<img src="img/telefono.gif">
+			<img src="img/telefono.png">
 			<p>
 			<span>Teléfono:</span><br>
-			<a href="">051 976 348 191</a><br>
+			<a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a><br>
 			</p>
 		</div>
 		<div class="clear"></div>
@@ -131,28 +132,23 @@
 								<img src="img/imagen-slider-tour.jpg">
 							</div>
 							<div class="texto-slider-tour">
-								<h4>Machu Pichu</h4>
-								<h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5>
-								<p><span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
-								<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
-								<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
-								<span>DÍA 04:</span> CUSCO – SALIDA (D)<br><br>
+								<h4>City Tour Lima</h4>
+								<p><span>HORARIOS:</span><br><br>
+								9:00 AM<br>
+								2:00 PM<br><br>
 
-								<span>IMPORTANTE:</span><br><br>
+								<span>DURACIÓN:</span><br><br>
+								03 a 3 1/2 horas <br><br>
 
-								•  Programas a machu picchu incluyen tren expediition, si desean viajar en tren vistadome agregar $ 35.00.<br>
-								•  Sugerimos tomar el almuerzo en machu picchu sanctuary lodge para tener más tiempo. se debera agregar usd$ 35.00.<br> 
-								•  Tarifas en dolares americanos, para pagar en soles aplicar el tipo de cambio del día (bcr).<br>
-								•  No incluyen los tickets aéreos. <br> 
-								•  No incluyen propinas , ni tickets adicionales a visitas que no figuran en este programa.<br><br>
-
+								<span>INCLUYE:</span><br><br>
+								Transporte Turístico, Guía Oficial de Turismo, Tickets de ingreso a los atractivos en mención <br><br>
 
 								<span>Para cualquier información comunicarse a :<br> 
 								K´anchay Peru S.A.C.<br>
-								Cel : 976-348-191<br>
-								Correo: fboperu@hotmail.com</span></p>
+								Tlf : <a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a><br>
+								Correo: <a href="mailto:informes@kanchay.com">informes@kanchay.com</a></span></p>
 
-								<a href="cusco-inolvidable.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+								<a class="boton-paquete" href="city-tour-lima.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
 
 								<div class="clear"></div>
 							</div>
@@ -168,31 +164,24 @@
 					<section>
 						<div class="opcion-slider-tour">
 							<div class="imagen-slider-tour">
-								<img src="img/imagen-slider-tour.jpg">
+								<img src="img/imagen-slider-tour2.jpg">
 							</div>
 							<div class="texto-slider-tour">
-								<h4>Machu Pichu</h4>
-								<h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5>
-								<p><span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
-								<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
-								<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
-								<span>DÍA 04:</span> CUSCO – SALIDA (D)<br><br>
+								<h4>Museo Larco Herrera</h4>
+								<!-- <h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5> -->
+								<p>Colección particular perteneciente a la Familia Larco Herrera- Hoyle, que incluye la más completa e impresionante colección de piezas cerámicas de arte Peruano Pre-Colombino.<br><br><br>
+								<span>DURACIÓN:</span><br><br>
+								03 horas <br><br>
 
-								<span>IMPORTANTE:</span><br><br>
-
-								•  Programas a machu picchu incluyen tren expediition, si desean viajar en tren vistadome agregar $ 35.00.<br>
-								•  Sugerimos tomar el almuerzo en machu picchu sanctuary lodge para tener más tiempo. se debera agregar usd$ 35.00.<br> 
-								•  Tarifas en dolares americanos, para pagar en soles aplicar el tipo de cambio del día (bcr).<br>
-								•  No incluyen los tickets aéreos. <br> 
-								•  No incluyen propinas , ni tickets adicionales a visitas que no figuran en este programa.<br><br>
-
+								<span>INCLUYE:</span><br><br>
+								Transporte Turístico, Guía Oficial de Turismo, Tickets de ingreso a los atractivos en mención<br><br>
 
 								<span>Para cualquier información comunicarse a :<br> 
 								K´anchay Peru S.A.C.<br>
-								Cel : 976-348-191<br>
-								Correo: fboperu@hotmail.com</span></p>
+								Tlf : <a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a><br>
+								Correo: <a href="mailto:informes@kanchay.com">informes@kanchay.com</a></span></p>
 
-								<a href="cusco-inolvidable.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+								<a class="boton-paquete" href="museo-larco-herrera.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
 
 								<div class="clear"></div>
 							</div>
@@ -208,31 +197,161 @@
 					<section>
 						<div class="opcion-slider-tour">
 							<div class="imagen-slider-tour">
-								<img src="img/imagen-slider-tour.jpg">
+								<img src="img/imagen-slider-tour3.jpg">
 							</div>
 							<div class="texto-slider-tour">
-								<h4>Machu Pichu</h4>
-								<h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5>
-								<p><span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
-								<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
-								<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
-								<span>DÍA 04:</span> CUSCO – SALIDA (D)<br><br>
+								<h4>Museo de Oro y Armas del Perú</h4>
+								<!-- <h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5> -->
+								<p>Colección particular perteneciente a la fundación Miguel Mujica Gallo<br><br>
 
-								<span>IMPORTANTE:</span><br><br>
+								<span>DURACIÓN:</span><br><br>
+								03 horas <br><br>
 
-								•  Programas a machu picchu incluyen tren expediition, si desean viajar en tren vistadome agregar $ 35.00.<br>
-								•  Sugerimos tomar el almuerzo en machu picchu sanctuary lodge para tener más tiempo. se debera agregar usd$ 35.00.<br> 
-								•  Tarifas en dolares americanos, para pagar en soles aplicar el tipo de cambio del día (bcr).<br>
-								•  No incluyen los tickets aéreos. <br> 
-								•  No incluyen propinas , ni tickets adicionales a visitas que no figuran en este programa.<br><br>
-
+								<span>INCLUYE:</span><br><br>
+								Transporte Turístico, Guía Oficial de Turismo, Tickets de ingreso a los atractivos en mención<br><br>
 
 								<span>Para cualquier información comunicarse a :<br> 
 								K´anchay Peru S.A.C.<br>
-								Cel : 976-348-191<br>
-								Correo: fboperu@hotmail.com</span></p>
+								Tlf : <a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a><br>
+								Correo: <a href="mailto:informes@kanchay.com">informes@kanchay.com</a></span></p>
 
-								<a href="cusco-inolvidable.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+								<a class="boton-paquete" href="museo-oro-armas-peru.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+
+							<a href="tours.php">
+							<div class="boton-ver-todos">
+								<p>Ver Todos</p>
+							</div>
+							</a>
+						</div>
+					</section>
+					<section>
+						<div class="opcion-slider-tour">
+							<div class="imagen-slider-tour">
+								<img src="img/imagen-slider-tour4.jpg">
+							</div>
+							<div class="texto-slider-tour">
+								<h4>Complejo Arqueológico de Pachacamac</h4>
+								<!-- <h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5> -->
+								<p>Ubicado en el distrito de Lurín – Pachacamac.<br><br>
+
+								<span>DURACIÓN:</span><br><br>
+								03 horas aproximadamente<br><br>
+
+								<span>INCLUYE:</span><br><br>
+								Transporte Turístico, Guía Oficial de Turismo, Guía Oficial de Turismo, Tickets de ingreso a los atractivos en mención<br><br>
+
+								<span>Para cualquier información comunicarse a :<br> 
+								K´anchay Peru S.A.C.<br>
+								Tlf : <a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a><br>
+								Correo: <a href="mailto:informes@kanchay.com">informes@kanchay.com</a></span></p>
+
+								<a class="boton-paquete" href="complejo-arqueologico-pachacamac.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+
+							<a href="tours.php">
+							<div class="boton-ver-todos">
+								<p>Ver Todos</p>
+							</div>
+							</a>
+						</div>
+					</section>
+					<section>
+						<div class="opcion-slider-tour">
+							<div class="imagen-slider-tour">
+								<img src="img/imagen-slider-tour5.jpg">
+							</div>
+							<div class="texto-slider-tour">
+								<h4>Show de Caballo Peruano de Paso</h4>
+								<!-- <h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5> -->
+								<p>Orgullo del Perú y tradicional paso del caballo Peruano.<br><br>
+
+								<span>DURACIÓN:</span><br><br>
+								05 horas aproximadamente<br><br>
+
+								<span>INCLUYE:</span><br><br>
+								Transporte Turístico, Guía Oficial de Turismo, Pisco sour de cortesía, Almuerzo en la hacienda, Tickets de ingreso a los atractivos en mención<br><br>
+
+								<span>Para cualquier información comunicarse a :<br> 
+								K´anchay Peru S.A.C.<br>
+								Tlf : <a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a><br>
+								Correo: <a href="mailto:informes@kanchay.com">informes@kanchay.com</a></span></p>
+
+								<a class="boton-paquete" href="show-caballo-peruano.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+
+							<a href="tours.php">
+							<div class="boton-ver-todos">
+								<p>Ver Todos</p>
+							</div>
+							</a>
+						</div>
+					</section>
+					<section>
+						<div class="opcion-slider-tour">
+							<div class="imagen-slider-tour">
+								<img src="img/imagen-slider-tour6.jpg">
+							</div>
+							<div class="texto-slider-tour">
+								<h4>Ciudad Sagrada de Caral</h4>
+								<!-- <h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5> -->
+								<p>Caral se halla situado en el distrito de Supe de la provincia de Barranca del departamento de Lima, a 184 km al norte de Lima Metropolitana, y a 23 km de la costa del Océano Pacífico, en un espacio geográfico conocido como el Norte Chico.<br><br>
+
+								<span>DURACIÓN:</span><br><br>
+								08 horas aproximadamente<br><br>
+
+								<span>INCLUYE:</span><br><br>
+								Transporte Turístico, Guía Oficial de Turismo, Guía local en Caral, Tickets de ingreso, Box lunch.<br><br>
+
+								<span>Para cualquier información comunicarse a :<br> 
+								K´anchay Peru S.A.C.<br>
+								Tlf : <a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a><br>
+								Correo: <a href="mailto:informes@kanchay.com">informes@kanchay.com</a></span></p>
+
+								<a class="boton-paquete" href="ciudad-sagrada-caral.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+
+							<a href="tours.php">
+							<div class="boton-ver-todos">
+								<p>Ver Todos</p>
+							</div>
+							</a>
+						</div>
+					</section>
+					<section>
+						<div class="opcion-slider-tour">
+							<div class="imagen-slider-tour">
+								<img src="img/imagen-slider-tour7.jpg">
+							</div>
+							<div class="texto-slider-tour">
+								<h4>City By Night</h4>
+								<!-- <h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5> -->
+								<p>Recorreremos la ciudad de noche , conociendo y admirando su belleza arquitectónica, en especial el centro histórico y sus alrededores, para a posterior ingresar al Circuito Mágico del Agua, en el Parque de la Reserva, donde podremos apreciar la gran variedad de fuentes de agua, y el espectáculo de proyección laser.<br><br>
+
+								<span>DURACIÓN:</span><br><br>
+								03 a 03 1/2 horas <br><br>
+
+								<span>INCLUYE:</span><br><br>
+								Transporte Turístico, Guía Oficial de Turismo, Tickets de ingreso.<br><br>
+
+								<span>Para cualquier información comunicarse a :<br> 
+								K´anchay Peru S.A.C.<br>
+								Tlf : <a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a><br>
+								Correo: <a href="mailto:informes@kanchay.com">informes@kanchay.com</a></span></p>
+
+								<a class="boton-paquete" href="city-by-night.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
 
 								<div class="clear"></div>
 							</div>
@@ -282,17 +401,18 @@
 			<img src="img/turistas-foto.png">
 		</div>
 		<div class="derecha-galeria">
-			<a href=""><img src="img/imagen1-kanchay-peru.jpg"></a>
-			<a href=""><img src="img/imagen2-kanchay-peru.jpg"></a>
-			<a href=""><img src="img/imagen3-kanchay-peru.jpg"></a>
-			<a href=""><img src="img/imagen4-kanchay-peru.jpg"></a>
-			<a href=""><img src="img/imagen5-kanchay-peru.jpg"></a>
-			<a href=""><img src="img/imagen6-kanchay-peru.jpg"></a>
+			<a href="img/imagen-galeria1.jpg" data-lightbox="example-set"><img src="img/imagen1-kanchay-peru.jpg"></a>
+			<a href="img/imagen-galeria2.jpg" data-lightbox="example-set"><img src="img/imagen2-kanchay-peru.jpg"></a>
+			<a href="img/imagen-galeria3.jpg" data-lightbox="example-set"><img src="img/imagen3-kanchay-peru.jpg"></a>
+			<a href="img/imagen-galeria4.jpg" data-lightbox="example-set"><img src="img/imagen4-kanchay-peru.jpg"></a>
+			<a href="img/imagen-galeria5.jpg" data-lightbox="example-set"><img src="img/imagen5-kanchay-peru.jpg"></a>
+			<a href="img/imagen-galeria6.jpg" data-lightbox="example-set"><img src="img/imagen6-kanchay-peru.jpg"></a>
+			<script src="js/lightbox-plus-jquery.min.js"></script>
 		</div>
 		<div class="clear"></div>
 	</div>
 
-	<div class="contenedor-testimonios" id="testimonios">
+	<!-- <div class="contenedor-testimonios" id="testimonios">
 		<div class="titulo-testimonios"><img src="img/testimonios-kanchay-peru.png"><h2>TESTIMONIOS</h2></div>
 		<div class="testimonios">
 			<div class="testimonio-persona testimonio-personas-espacio">
@@ -372,7 +492,7 @@
 
 			<div class="clear"></div>
 		</div>
-	</div>
+	</div> -->
 
 	<div class="contenedor-guias">
 		<div class="titulo-guias"><img src="img/guias-oficiales.png"><h2>GUIAS OFICIALES DE TURISMO</h2></div>

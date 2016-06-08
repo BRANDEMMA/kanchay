@@ -40,7 +40,7 @@
 
 	<div class="fondo-azulclaro">
 		<div class="titulo-gastronomia"><img src="img/paquetes-kanchay-peru.png"><h2>TOURS</h2></div>
-		<img class="portada-gastronomia" src="img/portada-tours2.jpg">
+		<img class="portada-gastronomia" src="img/tours/01.jpg">
 
 		<div class="gastronomia-peru">
 			<h3>CITY TOUR LIMA</h3>

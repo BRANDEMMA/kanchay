@@ -39,7 +39,7 @@
 
 
 	<div class="fondo-azulclaro">
-		<img class="portada-gastronomia" src="img/portada-tours.jpg">
+		<img class="portada-gastronomia" src="img/cultura.jpg">
 
 		<div class="gastronomia-peru">
 			<h3>Cultura</h3>
@@ -54,7 +54,7 @@
 			<div class="derecha-gastronomia">
 				<p>Esta influencia es más notoria en Lima, donde podemos apreciar las construcciones de estilo español como la Igliesia Catedral de Lima.<br><br>
 				Ya entrada la parte moderna el Perú fue caracterizándose por su literatura, siendo esta de gran calidad, entre los mayores exponentes literarios se encuentran Alfredo Bryce Echenique, Cesar Vallejo y Mario Vargas Llosa ( Premio nobel de literatura 2010).</p>
-				<img src="img/comida.png">
+				<!-- <img src="img/comida.png"> -->
 			</div>
 
 			<div class="clear"></div>

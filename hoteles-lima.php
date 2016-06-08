@@ -1,4 +1,4 @@
-n<?php
+<?php
 ?>
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
@@ -410,6 +410,268 @@ n<?php
 					Sauna, ordenadores con conexión a internet gratuita y servicio de lavandería.<br>
 
 					Ofrecen un ambiente tranquilo y disponen de baño privado...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1s" src="img/hoteles/radisson/radisson-1.1.jpg">
+					<img id="grande-hotel-2s" style="display:none;" src="img/hoteles/radisson/radisson-1.2.jpg">
+					<img id="grande-hotel-3s" style="display:none;" src="img/hoteles/radisson/radisson-1.3.jpg">
+					<a href="radisson-decapolis.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1s" src="img/hoteles/radisson/radisson-2.1.jpg">
+					<img id="mini-hotel-2s" src="img/hoteles/radisson/radisson-2.2.jpg">
+					<img id="mini-hotel-3s" src="img/hoteles/radisson/radisson-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="radisson-decapolis.php">Radisson Decapolis</a></h5>
+					<p>ubicado en un edificio impresionante con piscina, gimnasio, restaurante y 2 bares.<br>
+
+					El restaurante Miso ofrece cocina de estilo fusión en un encantador comedor.<br> 
+
+					Los bares ubicados junto al vestíbulo ofrecen...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel">
+				<div class="img-hotel">
+					<img id="grande-hotel-1t" src="img/hoteles/nobility/nobility-1.1.jpg">
+					<img id="grande-hotel-2t" style="display:none;" src="img/hoteles/nobility/nobility-1.2.jpg">
+					<img id="grande-hotel-3t" style="display:none;" src="img/hoteles/nobility/nobility-1.3.jpg">
+					<a href="nobility.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1t" src="img/hoteles/nobility/nobility-2.1.jpg">
+					<img id="mini-hotel-2t" src="img/hoteles/nobility/nobility-2.2.jpg">
+					<img id="mini-hotel-3t" src="img/hoteles/nobility/nobility-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="nobility.php">Nobility</a></h5>
+					<p>Ubicado en el distrito de Miraflores, centro empresarial y turístico de Lima.<br>
+
+					En la planta baja se encuentran el Restaurante “A la vista” y el business centre.<br>
+
+					Dispone de gimnasio equipado con...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1u" src="img/hoteles/san-agustin/san-agustin-1.1.jpg">
+					<img id="grande-hotel-2u" style="display:none;" src="img/hoteles/san-agustin/san-agustin-1.2.jpg">
+					<img id="grande-hotel-3u" style="display:none;" src="img/hoteles/san-agustin/san-agustin-1.3.jpg">
+					<a href="san-agustin-exclusive.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1u" src="img/hoteles/san-agustin/san-agustin-2.1.jpg">
+					<img id="mini-hotel-2u" src="img/hoteles/san-agustin/san-agustin-2.2.jpg">
+					<img id="mini-hotel-3u" src="img/hoteles/san-agustin/san-agustin-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="san-agustin-exclusive.php">San Agustin Exclusive</a></h5>
+					<p>Sus lujosas habitaciones están equipadas con baños de mármol y televisión por cable.<br>
+
+					Ofrece cocina regional e internacional. En el salón-bar del vestíbulo...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel">
+				<div class="img-hotel">
+					<img id="grande-hotel-1v" src="img/hoteles/tambo2/tambo2-1.1.jpg">
+					<img id="grande-hotel-2v" style="display:none;" src="img/hoteles/tambo2/tambo2-1.2.jpg">
+					<img id="grande-hotel-3v" style="display:none;" src="img/hoteles/tambo2/tambo2-1.3.jpg">
+					<a href="tambo2.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1v" src="img/hoteles/tambo2/tambo2-2.1.jpg">
+					<img id="mini-hotel-2v" src="img/hoteles/tambo2/tambo2-2.2.jpg">
+					<img id="mini-hotel-3v" src="img/hoteles/tambo2/tambo2-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="tambo2.php">Tambo 2</a></h5>
+					<p>Situado a 200 metros de la estación de autobuses y a 700 metros del centro comercial Larcomar.<br>
+
+					Las habitaciones cuentan con aire acondicionado, TV por cable y baño privado...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1w" src="img/hoteles/bth/bth-1.1.jpg">
+					<img id="grande-hotel-2w" style="display:none;" src="img/hoteles/bth/bth-1.2.jpg">
+					<img id="grande-hotel-3w" style="display:none;" src="img/hoteles/bth/bth-1.3.jpg">
+					<a href="bth.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1w" src="img/hoteles/bth/bth-2.1.jpg">
+					<img id="mini-hotel-2w" src="img/hoteles/bth/bth-2.2.jpg">
+					<img id="mini-hotel-3w" src="img/hoteles/bth/bth-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="bth.php">BTH Hotel Boutique</a></h5>
+					<p>Este hotel se encuentra a poca distancia de varios centros comerciales y centros de ocio.<br>
+
+					El restaurante Quimera del BTH Hotel sirve platos de cocina de fusión peruana/española en un ambiente relajado...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel">
+				<div class="img-hotel">
+					<img id="grande-hotel-1x" src="img/hoteles/sonesata/sonesata-1.1.jpg">
+					<img id="grande-hotel-2x" style="display:none;" src="img/hoteles/sonesata/sonesata-1.2.jpg">
+					<img id="grande-hotel-3x" style="display:none;" src="img/hoteles/sonesata/sonesata-1.3.jpg">
+					<a href="sonesta-posada-del-inca.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1x" src="img/hoteles/sonesata/sonesata-2.1.jpg">
+					<img id="mini-hotel-2x" src="img/hoteles/sonesata/sonesata-2.2.jpg">
+					<img id="mini-hotel-3x" src="img/hoteles/sonesata/sonesata-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="sonesta-posada-del-inca.php">Sonesta Posada del Inca</a></h5>
+					<p>Encuentra un oasis natural en el corazón de la ciudad.<br>
+
+					Ubicado en el atractivo distrito de San Isidro en Lima, ofrece fácil acceso a los encantos de esta ciudad...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1y" src="img/hoteles/ibis-larco/ibis-larco-1.1.jpg">
+					<img id="grande-hotel-2y" style="display:none;" src="img/hoteles/ibis-larco/ibis-larco-1.2.jpg">
+					<img id="grande-hotel-3y" style="display:none;" src="img/hoteles/ibis-larco/ibis-larco-1.3.jpg">
+					<a href="ibis-larco.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1y" src="img/hoteles/ibis-larco/ibis-larco-2.1.jpg">
+					<img id="mini-hotel-2y" src="img/hoteles/ibis-larco/ibis-larco-2.2.jpg">
+					<img id="mini-hotel-3y" src="img/hoteles/ibis-larco/ibis-larco-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="ibis-larco.php"></a>Ibis Larco</h5>
+					<p>Localizado en una de las avenidas principales de Miraflores.<br>
+
+					A 3 minutos del centro comercial LARCOMAR y a 10 minutos del circuito de playas.<br>
+					
+					Un lugar ideal para caminar, correr y hacer ejercicios...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel">
+				<div class="img-hotel">
+					<img id="grande-hotel-1z" src="img/hoteles/allpa/allpa-1.1.jpg">
+					<img id="grande-hotel-2z" style="display:none;" src="img/hoteles/allpa/allpa-1.2.jpg">
+					<img id="grande-hotel-3z" style="display:none;" src="img/hoteles/allpa/allpa-1.3.jpg">
+					<a href="allpa-hotel.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1z" src="img/hoteles/allpa/allpa-2.1.jpg">
+					<img id="mini-hotel-2z" src="img/hoteles/allpa/allpa-2.2.jpg">
+					<img id="mini-hotel-3z" src="img/hoteles/allpa/allpa-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="allpa-hotel.php">Allpa Hotel & Suites</a></h5>
+					<p>Cuenta con amplias y modernas habitaciones con lo último en tecnología y confort.<br>
+
+					Usted podrá contemplar lo mejor de Lima, como finos restaurantes...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1ab" src="img/hoteles/habitat/habitat-1.1.jpg">
+					<img id="grande-hotel-2ab" style="display:none;" src="img/hoteles/habitat/habitat-1.2.jpg">
+					<img id="grande-hotel-3ab" style="display:none;" src="img/hoteles/habitat/habitat-1.3.jpg">
+					<a href="habitat-hotel.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1ab" src="img/hoteles/habitat/habitat-2.1.jpg">
+					<img id="mini-hotel-2ab" src="img/hoteles/habitat/habitat-2.2.jpg">
+					<img id="mini-hotel-3ab" src="img/hoteles/habitat/habitat-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="habitat-hotel.php"></a>Habitat Hotel</h5>
+					<p>Moderno establecimiento de diseño contemporáneo situado en el centro de Lima.<br>
+
+					Habitaciones decoradas con hermosas telas de color marrón y alegres obras de arte.<br>
+					
+					Organiza un servicio de traslado...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel">
+				<div class="img-hotel">
+					<img id="grande-hotel-1ac" src="img/hoteles/courtyard/courtyard-1.1.jpg">
+					<img id="grande-hotel-2ac" style="display:none;" src="img/hoteles/courtyard/courtyard-1.2.jpg">
+					<img id="grande-hotel-3ac" style="display:none;" src="img/hoteles/courtyard/courtyard-1.3.jpg">
+					<a href="courtyard-lima.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1ac" src="img/hoteles/courtyard/courtyard-2.1.jpg">
+					<img id="mini-hotel-2ac" src="img/hoteles/courtyard/courtyard-2.2.jpg">
+					<img id="mini-hotel-3ac" src="img/hoteles/courtyard/courtyard-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="courtyard-lima.php">Courtyard Lima</a></h5>
+					<p>Con una ubicación privilegiada en el distrito de Miraflores, ofrece el mejor alojamiento y servicio.<br>
+
+					Cuenta con toques elegantes y excelentes instalaciones con Wi-Fi gratis y áreas separadas para leer, dormir y disfrutar...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1ad" src="img/hoteles/casa-andina-select/casa-andina-select-1.1.jpg">
+					<img id="grande-hotel-2ad" style="display:none;" src="img/hoteles/casa-andina-select/casa-andina-select-1.2.jpg">
+					<img id="grande-hotel-3ad" style="display:none;" src="img/hoteles/casa-andina-select/casa-andina-select-1.3.jpg">
+					<a href="casa-andina-select.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1ad" src="img/hoteles/casa-andina-select/casa-andina-select-2.1.jpg">
+					<img id="mini-hotel-2ad" src="img/hoteles/casa-andina-select/casa-andina-select-2.2.jpg">
+					<img id="mini-hotel-3ad" src="img/hoteles/casa-andina-select/casa-andina-select-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="casa-andina-select.php"></a>Casa Andina Select</h5>
+					<p>Ubicado a 600 metros del Parque Kennedy.<br>
+
+					Las habitaciones son muy luminosas y cuentan con suelo de moqueta, aire acondicionado y baño privado.<br>
+					
+					El establecimiento dispone de tumbonas...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel">
+				<div class="img-hotel">
+					<img id="grande-hotel-1ae" src="img/hoteles/casa-andina-centro/casa-andina-centro-1.1.jpg">
+					<img id="grande-hotel-2ae" style="display:none;" src="img/hoteles/casa-andina-centro/casa-andina-centro-1.2.jpg">
+					<img id="grande-hotel-3ae" style="display:none;" src="img/hoteles/casa-andina-centro/casa-andina-centro-1.3.jpg">
+					<a href="casa-andina-centro.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1ae" src="img/hoteles/casa-andina-centro/casa-andina-centro-2.1.jpg">
+					<img id="mini-hotel-2ae" src="img/hoteles/casa-andina-centro/casa-andina-centro-2.2.jpg">
+					<img id="mini-hotel-3ae" src="img/hoteles/casa-andina-centro/casa-andina-centro-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="casa-andina-centro.php">Casa Andina Centro</a></h5>
+					<p>Este moderno hotel está situado en el corazón de Miraflores, a solo 5 minutos a pie del parque Kennedy.<br>
+
+					Hay una amplia selección de restaurantes y bares exclusivos en los alrededores del establecimiento...</p>
 				</div>
 				<div class="clear"></div>
 			</div>

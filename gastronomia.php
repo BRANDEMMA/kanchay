@@ -54,7 +54,7 @@
 				<p>
 				Entre los postres representativos tenemos al arroz zambito, el suspiro a la limeña, la mazamorra morada, los alfajores, etc.<br><br> 
 				Entre las bebidas tradicionales están presentes la chica de jora, la chicha morada, el pisco,la cachina, etc.</p>
-				<img src="img/comida.png">
+				<!-- <img src="img/comida.png"> -->
 			</div>
 
 			<div class="clear"></div>

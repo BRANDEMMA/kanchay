@@ -39,7 +39,7 @@
 
 
 	<div class="fondo-azulclaro">
-		<img class="portada-gastronomia" src="img/portada-tours.jpg">
+		<img class="portada-gastronomia" src="img/danza.jpg">
 
 		<div class="gastronomia-peru">
 			<h3>Danzas</h3>
@@ -65,7 +65,7 @@
 				<strong>Danzas de salón</strong>, son las que se bailan en pareja y en todo tipo de festividades, por ejemplo la Polka Peruana.<br><br>
 				 
 				<strong>Danzas de caza</strong>, representan el acto de la cacería, por ejemplo Llipi Puli.</p>
-				<img src="img/comida.png">
+				<!-- <img src="img/comida.png"> -->
 			</div>
 
 			<div class="clear"></div>
