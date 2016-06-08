@@ -676,6 +676,115 @@
 				<div class="clear"></div>
 			</div>
 
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1af" src="img/hoteles/casa-andina-san-antonio/casa-andina-san-antonio-1.1.jpg">
+					<img id="grande-hotel-2af" style="display:none;" src="img/hoteles/casa-andina-san-antonio/casa-andina-san-antonio-1.2.jpg">
+					<img id="grande-hotel-3af" style="display:none;" src="img/hoteles/casa-andina-san-antonio/casa-andina-san-antonio-1.3.jpg">
+					<a href="casa-andina-san-antonio.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1af" src="img/hoteles/casa-andina-san-antonio/casa-andina-san-antonio-2.1.jpg">
+					<img id="mini-hotel-2af" src="img/hoteles/casa-andina-san-antonio/casa-andina-san-antonio-2.2.jpg">
+					<img id="mini-hotel-3af" src="img/hoteles/casa-andina-san-antonio/casa-andina-san-antonio-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="casa-andina-san-antonio.php"></a>Casa Andina San Antonio</h5>
+					<p>Se encuentra en el tranquilo barrio residencial de Miraflores.<br>
+
+					Ofrece aparcamiento gratuito y está a poca distancia de restaurantes y bares de moda...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel">
+				<div class="img-hotel">
+					<img id="grande-hotel-1ag" src="img/hoteles/lima-wasi/lima-wasi-1.1.jpg">
+					<img id="grande-hotel-2ag" style="display:none;" src="img/hoteles/lima-wasi/lima-wasi-1.2.jpg">
+					<img id="grande-hotel-3ag" style="display:none;" src="img/hoteles/lima-wasi/lima-wasi-1.3.jpg">
+					<a href="wasi-hotel.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1ag" src="img/hoteles/lima-wasi/lima-wasi-2.1.jpg">
+					<img id="mini-hotel-2ag" src="img/hoteles/lima-wasi/lima-wasi-2.2.jpg">
+					<img id="mini-hotel-3ag" src="img/hoteles/lima-wasi/lima-wasi-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="wasi-hotel.php">Lima Wasi Hotel</a></h5>
+					<p>Ofrece fácil acceso a la costa, y está situado cerca del popular barrio de Barranco.<br>
+
+					Todas las habitaciones del Lima Wasi Hotel presentan una decoración acogedora y minimalista...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1ah" src="img/hoteles/britania/britania-1.1.jpg">
+					<img id="grande-hotel-2ah" style="display:none;" src="img/hoteles/britania/britania-1.2.jpg">
+					<img id="grande-hotel-3ah" style="display:none;" src="img/hoteles/britania/britania-1.3.jpg">
+					<a href="hotel-britania.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1ah" src="img/hoteles/britania/britania-2.1.jpg">
+					<img id="mini-hotel-2ah" src="img/hoteles/britania/britania-2.2.jpg">
+					<img id="mini-hotel-3ah" src="img/hoteles/britania/britania-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="hotel-britania.php"></a>Hotel Britania</h5>
+					<p>Está situado en el distrito de Miraflores, junto a la histórica Huaca Pucllana.<br>
+
+					Servicio de camarera de pisos diario disponible.<br>
+
+					Goza de una ubicación excelente, a 2 minutos a pie del parque Kennedy...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel">
+				<div class="img-hotel">
+					<img id="grande-hotel-1ai" src="img/hoteles/novotel/novotel-1.1.jpg">
+					<img id="grande-hotel-2ai" style="display:none;" src="img/hoteles/novotel/novotel-1.2.jpg">
+					<img id="grande-hotel-3ai" style="display:none;" src="img/hoteles/novotel/novotel-1.3.jpg">
+					<a href="novotel.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1ai" src="img/hoteles/novotel/novotel-2.1.jpg">
+					<img id="mini-hotel-2ai" src="img/hoteles/novotel/novotel-2.2.jpg">
+					<img id="mini-hotel-3ai" src="img/hoteles/novotel/novotel-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="novotel.php">Novotel HTL</a></h5>
+					<p>Está convenientemente ubicado en el distrito financiero de San Isidro.<br>
+
+					Ofrece modernas habitaciones con aire acondicionado y TV vía satélite.<br>
+
+					Las instalaciones incluyen una piscina cubierta climatizada, gimnasio y una sauna...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="contenedor-hotel espacio-opciones">
+				<div class="img-hotel">
+					<img id="grande-hotel-1aj" src="img/hoteles/boulevard/boulevard-1.1.jpg">
+					<img id="grande-hotel-2aj" style="display:none;" src="img/hoteles/boulevard/boulevard-1.2.jpg">
+					<img id="grande-hotel-3aj" style="display:none;" src="img/hoteles/boulevard/boulevard-1.3.jpg">
+					<a href="hotel-boulevard.php">Ver más</a>
+				</div>
+				<div class="miniaturas-hotel">
+					<img id="mini-hotel-1aj" src="img/hoteles/boulevard/boulevard-2.1.jpg">
+					<img id="mini-hotel-2aj" src="img/hoteles/boulevard/boulevard-2.2.jpg">
+					<img id="mini-hotel-3aj" src="img/hoteles/boulevard/boulevard-2.3.jpg">
+				</div>	
+				<div class="detalle-hotel">
+					<h5><a href="hotel-boulevard.php"></a>Hotel & Casino Boulevard</h5>
+					<p>Situado en Lima, a 1,6 km de Larcomar.<br>
+
+					Está a 5 km del Museo de la Nación, mientras que la plaza de San Martín se sitúa a 8 km y el aeropuerto internacional...</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+
 			<div class="clear"></div>
 
 <?php
