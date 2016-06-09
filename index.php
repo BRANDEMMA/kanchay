@@ -448,6 +448,8 @@
 			<a href="img/imagen-galeria5.jpg" data-lightbox="example-set"><img src="img/imagen5-kanchay-peru.jpg"></a>
 			<a href="img/imagen-galeria6.jpg" data-lightbox="example-set"><img src="img/imagen6-kanchay-peru.jpg"></a>
 			<script src="js/lightbox-plus-jquery.min.js"></script>
+
+			<a class="boton-ver-mas" href="galeria.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> <strong>Ver más</strong></a>
 		</div>
 		<div class="clear"></div>
 	</div>

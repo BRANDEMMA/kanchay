@@ -46,14 +46,12 @@
 
 		<div class="contenedor-nosotros">
 			
-			<a href="img/imagen1-kanchay-peru.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/imagen1-kanchay-peru.jpg"></a>
-			<a href="img/imagen2-kanchay-peru.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/imagen2-kanchay-peru.jpg"></a>
-			<a href="img/imagen3-kanchay-peru.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/imagen3-kanchay-peru.jpg"></a>
-			<a href="img/imagen4-kanchay-peru.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/imagen4-kanchay-peru.jpg"></a>
-			<a href="img/imagen5-kanchay-peru.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/imagen5-kanchay-peru.jpg"></a>
-			<a href="img/imagen1-kanchay-peru.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/imagen1-kanchay-peru.jpg"></a>
-			<a href="img/imagen2-kanchay-peru.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/imagen2-kanchay-peru.jpg"></a>
-			<a href="img/imagen3-kanchay-peru.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/imagen3-kanchay-peru.jpg"></a>
+			<a href="img/kanchay-peru-galeria-1.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-1.2.jpg"></a>
+			<a href="img/kanchay-peru-galeria-2.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-2.2.jpg"></a>
+			<a href="img/kanchay-peru-galeria-3.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-3.2.jpg"></a>
+			<a href="img/kanchay-peru-galeria-4.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-4.2.jpg"></a>
+			<a href="img/kanchay-peru-galeria-5.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-5.2.jpg"></a>
+			<a href="img/kanchay-peru-galeria-6.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-6.2.jpg"></a>
 			<script src="js/lightbox-plus-jquery.min.js"></script>
 
 		</div>

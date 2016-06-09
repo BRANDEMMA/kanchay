@@ -575,6 +575,7 @@ body{
 .contenedor-galeria{
 	border-top: 2px dotted white;
 	margin: 0 auto;
+	padding-bottom: 2%;
 	width: 90%;
 }
 .titulo-galeria{
