@@ -88,13 +88,13 @@
 		<div class="hoteles-descripcion">
 			<h3>CROWNE PLAZA</h3>
 			<div class="izquierda-descripcion">
-				<img id="grande-hotel-1a" src="img/hoteles/hotel-b/hotel-b-1.2.jpg">
-				<img id="grande-hotel-2a" style="display:none;" src="img/hoteles/hotel-b/hotel-b-1.4.jpg">
-				<img id="grande-hotel-3a" style="display:none;" src="img/hoteles/hotel-b/hotel-b-1.3.jpg"> 
+				<img id="grande-hotel-1a" src="img/hoteles/crowne-plaza/crowne-plaza-1.1.jpg">
+				<img id="grande-hotel-2a" style="display:none;" src="img/hoteles/crowne-plaza/crowne-plaza-1.2.jpg">
+				<img id="grande-hotel-3a" style="display:none;" src="img/hoteles/crowne-plaza/crowne-plaza-1.3.jpg"> 
 
-				<img id="mini-hotel-1a" class="img-mini" src="img/hoteles/hotel-b/hotel-b-2.2.jpg">
-				<img id="mini-hotel-2a" class="img-mini" src="img/hoteles/hotel-b/hotel-b-2.4.jpg">
-				<img id="mini-hotel-3a" class="img-mini" src="img/hoteles/hotel-b/hotel-b-2.3.jpg">
+				<img id="mini-hotel-1a" class="img-mini" src="img/hoteles/crowne-plaza/crowne-plaza-2.1.jpg">
+				<img id="mini-hotel-2a" class="img-mini" src="img/hoteles/crowne-plaza/crowne-plaza-2.2.jpg">
+				<img id="mini-hotel-3a" class="img-mini" src="img/hoteles/crowne-plaza/crowne-plaza-2.3.jpg">
 			</div>
 			<div class="derecha-descripcion">
 				<p>
