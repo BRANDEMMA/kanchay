@@ -402,7 +402,7 @@ body{
 }
 #slider-paquetes{
 	display: flex;
-	width: 700%;
+	width: 800%;
 }
 #slider-paquetes section{
 	width: 100%;
@@ -410,6 +410,7 @@ body{
 .opcion-slider-tour{
 	background: url(../img/fondo-slider-tours.png);
 	background-size: 100% 100%;
+	overflow: hidden;
 	padding: 6%;
 	position: relative;
 }

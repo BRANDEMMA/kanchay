@@ -185,6 +185,28 @@
 				<div class="clear"></div>
 			</div>
 
+			<div class="detalle-tour">
+				<h3>MACHU PICHU CUSCO</h3>
+				<div class="izquierda-tour">
+					<img src="img/tours/8.jpg">
+				</div>
+
+				<div class="derecha-tour">
+					<h4>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h4>
+					<p>
+					<span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
+					<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
+					<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
+					<span>DÍA 04:</span> CUSCO – SALIDA (D) </p>
+
+					<a href="machu-picchu.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+
+					<div class="clear"></div>
+				</div>
+
+				<div class="clear"></div>
+			</div>
+
 
 			<div class="clear"></div>
 			

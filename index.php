@@ -129,6 +129,46 @@
 					<section>
 						<div class="opcion-slider-tour">
 							<div class="imagen-slider-tour">
+								<img src="img/imagen-slider-tour0.jpg">
+							</div>
+							<div class="texto-slider-tour">
+								<h4>Machu Pichu</h4>
+								<h5>CUSCO INOLVIDABLE &nbsp;&nbsp;&nbsp;&nbsp; 04 Días / 03 Noches</h5>
+								<p><span>DÍA 01:</span> CUSCO: EXCURSION CIUDAD & RUINAS CERCANAS<br>
+								<span>DÍA 02:</span> CUSCO – PISAC & OLLANTAYTAMBO – CUSCO<br>
+								<span>DÍA 03:</span> CUSCO – MACHU PICCHU – CUSCO (D, A)<br>
+								<span>DÍA 04:</span> CUSCO – SALIDA (D)<br><br>
+
+								<span>IMPORTANTE:</span><br><br>
+
+								•  Programas a machu picchu incluyen tren expediition, si desean viajar en tren vistadome agregar $ 35.00.<br>
+								•  Sugerimos tomar el almuerzo en machu picchu sanctuary lodge para tener más tiempo. se debera agregar usd$ 35.00.<br> 
+								•  Tarifas en dolares americanos, para pagar en soles aplicar el tipo de cambio del día (bcr).<br>
+								•  No incluyen los tickets aéreos. <br> 
+								•  No incluyen propinas , ni tickets adicionales a visitas que no figuran en este programa.<br><br>
+
+
+								<span>Para cualquier información comunicarse a :<br> 
+								K´anchay Peru S.A.C.<br>
+								Cel : <a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a><br>
+								Correo: <a href="mailto:informes@kanchay.com">informes@kanchay.com</a></span></p>
+
+								<a class="boton-paquete" href="machu-picchu.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>
+
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+
+							<a href="tours.php">
+							<div class="boton-ver-todos">
+								<p>Ver Todos</p>
+							</div>
+							</a>
+						</div>
+					</section>
+					<section>
+						<div class="opcion-slider-tour">
+							<div class="imagen-slider-tour">
 								<img src="img/imagen-slider-tour.jpg">
 							</div>
 							<div class="texto-slider-tour">
