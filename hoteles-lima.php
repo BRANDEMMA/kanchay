@@ -232,15 +232,15 @@
 
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
-					<img id="grande-hotel-1k" src="img/hoteles/hotel-b/hotel-b-1.2.jpg">
-					<img id="grande-hotel-2k" style="display:none;" src="img/hoteles/hotel-b/hotel-b-1.4.jpg">
-					<img id="grande-hotel-3k" style="display:none;" src="img/hoteles/hotel-b/hotel-b-1.3.jpg">
+					<img id="grande-hotel-1k" src="img/hoteles/crowne-plaza/crowne-plaza-1.1.jpg">
+					<img id="grande-hotel-2k" style="display:none;" src="img/hoteles/crowne-plaza/crowne-plaza-1.2.jpg">
+					<img id="grande-hotel-3k" style="display:none;" src="img/hoteles/crowne-plaza/crowne-plaza-1.3.jpg">
 					<a href="crowne-plaza.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1k" src="img/hoteles/hotel-b/hotel-b-2.2.jpg">
-					<img id="mini-hotel-2k" src="img/hoteles/hotel-b/hotel-b-2.4.jpg">
-					<img id="mini-hotel-3k" src="img/hoteles/hotel-b/hotel-b-2.3.jpg">
+					<img id="mini-hotel-1k" src="img/hoteles/crowne-plaza/crowne-plaza-2.1.jpg">
+					<img id="mini-hotel-2k" src="img/hoteles/crowne-plaza/crowne-plaza-2.2.jpg">
+					<img id="mini-hotel-3k" src="img/hoteles/crowne-plaza/crowne-plaza-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="crowne-plaza.php">Crowne Plaza</a></h5>
