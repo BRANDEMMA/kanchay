@@ -504,5 +504,482 @@
 		});
 	</script>
 
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1s').on('click', function(){
+				$('#grande-hotel-1s').show();
+				$('#grande-hotel-2s').hide();1
+				$('#grande-hotel-3s').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2s').on('click', function(){
+				$('#grande-hotel-2s').show();
+				$('#grande-hotel-1s').hide();
+				$('#grande-hotel-3s').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3s').on('click', function(){
+				$('#grande-hotel-3s').show();
+				$('#grande-hotel-1s').hide();
+				$('#grande-hotel-2s').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1t').on('click', function(){
+				$('#grande-hotel-1t').show();
+				$('#grande-hotel-2t').hide();
+				$('#grande-hotel-3t').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2t').on('click', function(){
+				$('#grande-hotel-2t').show();
+				$('#grande-hotel-1t').hide();
+				$('#grande-hotel-3t').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3t').on('click', function(){
+				$('#grande-hotel-3t').show();
+				$('#grande-hotel-1t').hide();
+				$('#grande-hotel-2t').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1u').on('click', function(){
+				$('#grande-hotel-1u').show();
+				$('#grande-hotel-2u').hide();
+				$('#grande-hotel-3u').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2u').on('click', function(){
+				$('#grande-hotel-2u').show();
+				$('#grande-hotel-1u').hide();
+				$('#grande-hotel-3u').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3u').on('click', function(){
+				$('#grande-hotel-3u').show();
+				$('#grande-hotel-1u').hide();
+				$('#grande-hotel-2u').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1v').on('click', function(){
+				$('#grande-hotel-1v').show();
+				$('#grande-hotel-2v').hide();
+				$('#grande-hotel-3v').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2v').on('click', function(){
+				$('#grande-hotel-2v').show();
+				$('#grande-hotel-1v').hide();
+				$('#grande-hotel-3v').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3v').on('click', function(){
+				$('#grande-hotel-3v').show();
+				$('#grande-hotel-1v').hide();
+				$('#grande-hotel-2v').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1w').on('click', function(){
+				$('#grande-hotel-1w').show();
+				$('#grande-hotel-2w').hide();
+				$('#grande-hotel-3w').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2w').on('click', function(){
+				$('#grande-hotel-2w').show();
+				$('#grande-hotel-1w').hide();
+				$('#grande-hotel-3w').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3w').on('click', function(){
+				$('#grande-hotel-3w').show();
+				$('#grande-hotel-1w').hide();
+				$('#grande-hotel-2w').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1y').on('click', function(){
+				$('#grande-hotel-1y').show();
+				$('#grande-hotel-2y').hide();
+				$('#grande-hotel-3y').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2y').on('click', function(){
+				$('#grande-hotel-2y').show();
+				$('#grande-hotel-1y').hide();
+				$('#grande-hotel-3y').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3y').on('click', function(){
+				$('#grande-hotel-3y').show();
+				$('#grande-hotel-1y').hide();
+				$('#grande-hotel-2y').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1x').on('click', function(){
+				$('#grande-hotel-1x').show();
+				$('#grande-hotel-2x').hide();
+				$('#grande-hotel-3x').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2x').on('click', function(){
+				$('#grande-hotel-2x').show();
+				$('#grande-hotel-1x').hide();
+				$('#grande-hotel-3x').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3x').on('click', function(){
+				$('#grande-hotel-3x').show();
+				$('#grande-hotel-1x').hide();
+				$('#grande-hotel-2x').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1z').on('click', function(){
+				$('#grande-hotel-1z').show();
+				$('#grande-hotel-2z').hide();
+				$('#grande-hotel-3z').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2z').on('click', function(){
+				$('#grande-hotel-2z').show();
+				$('#grande-hotel-1z').hide();
+				$('#grande-hotel-3z').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3z').on('click', function(){
+				$('#grande-hotel-3z').show();
+				$('#grande-hotel-1z').hide();
+				$('#grande-hotel-2z').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1ab').on('click', function(){
+				$('#grande-hotel-1ab').show();
+				$('#grande-hotel-2ab').hide();
+				$('#grande-hotel-3ab').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2ab').on('click', function(){
+				$('#grande-hotel-2ab').show();
+				$('#grande-hotel-1ab').hide();
+				$('#grande-hotel-3ab').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3ab').on('click', function(){
+				$('#grande-hotel-3ab').show();
+				$('#grande-hotel-1ab').hide();
+				$('#grande-hotel-2ab').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1ac').on('click', function(){
+				$('#grande-hotel-1ac').show();
+				$('#grande-hotel-2ac').hide();
+				$('#grande-hotel-3ac').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2ac').on('click', function(){
+				$('#grande-hotel-2ac').show();
+				$('#grande-hotel-1ac').hide();
+				$('#grande-hotel-3ac').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3ac').on('click', function(){
+				$('#grande-hotel-3ac').show();
+				$('#grande-hotel-1ac').hide();
+				$('#grande-hotel-2ac').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1ad').on('click', function(){
+				$('#grande-hotel-1ad').show();
+				$('#grande-hotel-2ad').hide();
+				$('#grande-hotel-3ad').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2ad').on('click', function(){
+				$('#grande-hotel-2ad').show();
+				$('#grande-hotel-1ad').hide();
+				$('#grande-hotel-3ad').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3ad').on('click', function(){
+				$('#grande-hotel-3ad').show();
+				$('#grande-hotel-1ad').hide();
+				$('#grande-hotel-2ad').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1ae').on('click', function(){
+				$('#grande-hotel-1ae').show();
+				$('#grande-hotel-2ae').hide();
+				$('#grande-hotel-3ae').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2ae').on('click', function(){
+				$('#grande-hotel-2ae').show();
+				$('#grande-hotel-1ae').hide();
+				$('#grande-hotel-3ae').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3ae').on('click', function(){
+				$('#grande-hotel-3ae').show();
+				$('#grande-hotel-1ae').hide();
+				$('#grande-hotel-2ae').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1af').on('click', function(){
+				$('#grande-hotel-1af').show();
+				$('#grande-hotel-2af').hide();
+				$('#grande-hotel-3af').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2af').on('click', function(){
+				$('#grande-hotel-2af').show();
+				$('#grande-hotel-1af').hide();
+				$('#grande-hotel-3af').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3af').on('click', function(){
+				$('#grande-hotel-3af').show();
+				$('#grande-hotel-1af').hide();
+				$('#grande-hotel-2af').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1ag').on('click', function(){
+				$('#grande-hotel-1ag').show();
+				$('#grande-hotel-2ag').hide();
+				$('#grande-hotel-3ag').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2ag').on('click', function(){
+				$('#grande-hotel-2ag').show();
+				$('#grande-hotel-1ag').hide();
+				$('#grande-hotel-3ag').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3ag').on('click', function(){
+				$('#grande-hotel-3ag').show();
+				$('#grande-hotel-1ag').hide();
+				$('#grande-hotel-2ag').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1ah').on('click', function(){
+				$('#grande-hotel-1ah').show();
+				$('#grande-hotel-2ah').hide();
+				$('#grande-hotel-3ah').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2ah').on('click', function(){
+				$('#grande-hotel-2ah').show();
+				$('#grande-hotel-1ah').hide();
+				$('#grande-hotel-3ah').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3ah').on('click', function(){
+				$('#grande-hotel-3ah').show();
+				$('#grande-hotel-1ah').hide();
+				$('#grande-hotel-2ah').hide();
+			});
+		});
+	</script>
+
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1ai').on('click', function(){
+				$('#grande-hotel-1ai').show();
+				$('#grande-hotel-2ai').hide();
+				$('#grande-hotel-3ai').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2ai').on('click', function(){
+				$('#grande-hotel-2ai').show();
+				$('#grande-hotel-1ai').hide();
+				$('#grande-hotel-3ai').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3ai').on('click', function(){
+				$('#grande-hotel-3ai').show();
+				$('#grande-hotel-1ai').hide();
+				$('#grande-hotel-2ai').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-1aj').on('click', function(){
+				$('#grande-hotel-1aj').show();
+				$('#grande-hotel-2aj').hide();
+				$('#grande-hotel-3aj').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-2aj').on('click', function(){
+				$('#grande-hotel-2aj').show();
+				$('#grande-hotel-1aj').hide();
+				$('#grande-hotel-3aj').hide();
+			});
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mini-hotel-3aj').on('click', function(){
+				$('#grande-hotel-3aj').show();
+				$('#grande-hotel-1aj').hide();
+				$('#grande-hotel-2aj').hide();
+			});
+		});
+	</script>
+
 <?php
 ?>
