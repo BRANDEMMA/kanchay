@@ -95,12 +95,12 @@
 			<img src="img/logo-kanchay-peru.png">
 			<h3>Porqué escoger K´anchay Peru?</h3>
 			<p>Porque somos una empresa especialmente creada para ti, para darte una satisfacción total en los servicios que requieras; con la satisfacción de la oferta recibida, nos comprometemos a ser los mejores del mercado local; ofreciéndote los mejores profesionales para tu atención personalizada siempre, las 24 horas del día.</p>
-			<h3>Nuestra gente</h3>
+			<!-- <h3>Nuestra gente</h3>
 			<p>
-			La unión de dos profesionales de ramas diferentes del servicio al cliente originó K´anchay Peru: José Fernando Benaducci Otayza, Guía Oficial de Turismo, Gerente General de la empresa, teniendo 27 años de experiencia, en el trato directo al público usuario y visitante, en Turismo receptivo y local. Además, tuvo una participación muy importante en el entrenamiento docente a otros guías de turismo del mercado local Lima, al igual que numerosos contactos del medio turístico para la atención y distribución de su carrera. Jerry Rolando Lolandes Arbayza, Consultor Financiero, con sede en la ciudad de Miami, quien con el interés de nuestro patrimonio es el principal promotor de nuestro país y de la empresa en el extranjero.</p>
-			<!-- <div class="boton-ver-mas">
-				<a href=""><img src="img/flecha-ver-mas.png"><p><strong>Ver más</strong></p></a>
-			</div> -->
+			La unión de dos profesionales de ramas diferentes del servicio al cliente originó K´anchay Peru: José Fernando Benaducci Otayza, Guía Oficial de Turismo, Gerente General de la empresa, teniendo 27 años de experiencia, en el trato directo al público usuario y visitante, en Turismo receptivo y local. Además, tuvo una participación muy importante en el entrenamiento docente a otros guías de turismo del mercado local Lima, al igual que numerosos contactos del medio turístico para la atención y distribución de su carrera. Jerry Rolando Lolandes Arbayza, Consultor Financiero, con sede en la ciudad de Miami, quien con el interés de nuestro patrimonio es el principal promotor de nuestro país y de la empresa en el extranjero.</p> -->
+			
+			<a class="boton-ver-mas" href="nosotros.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> <strong>Ver más</strong></a>
+		
 		</div>
 		<div class="clear"></div>		
 	</div>
