@@ -23,115 +23,111 @@
 
 			<div class="contenedor-hotel">
 				<div class="img-hotel">
-					<img id="grande-hotel-b2-1" src="img/hoteles/el-convento/el-convento-1.1.jpg">
-					<img id="grande-hotel-b2-2" style="display:none;" src="img/hoteles/el-convento/el-convento-1.2.jpg">
-					<img id="grande-hotel-b2-3" style="display:none;" src="img/hoteles/el-convento/el-convento-1.3.jpg">
-					<a href="jose-antonio.php">Ver más</a>
+					<img id="grande-hotel-b2-1" src="img/hoteles/tambo-del-inca/tambo-del-inca-1.1.jpg">
+					<img id="grande-hotel-b2-2" style="display:none;" src="img/hoteles/tambo-del-inca/tambo-del-inca-1.2.jpg">
+					<img id="grande-hotel-b2-3" style="display:none;" src="img/hoteles/tambo-del-inca/tambo-del-inca-1.3.jpg">
+					<a href="tambo-del-inka.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-b2-1" src="img/hoteles/el-convento/el-convento-2.1.jpg">
-					<img id="mini-hotel-b2-2" src="img/hoteles/el-convento/el-convento-2.2.jpg">
-					<img id="mini-hotel-b2-3" src="img/hoteles/el-convento/el-convento-2.3.jpg">
+					<img id="mini-hotel-b2-1" src="img/hoteles/tambo-del-inca/tambo-del-inca-2.1.jpg">
+					<img id="mini-hotel-b2-2" src="img/hoteles/tambo-del-inca/tambo-del-inca-2.2.jpg">
+					<img id="mini-hotel-b2-3" src="img/hoteles/tambo-del-inca/tambo-del-inca-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
-					<h5><a href="hotel1.php">Tambo Del Inka</a></h5>
-					<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. <br>
+					<h5><a href="tambo-del-inka.php">Tambo Del Inka</a></h5>
+					<p>Goza de una ubicación excelente en el valle sagrado de los Incas.<br>
 
-					Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,<br> 
+					Las habitaciones presentan tejidos autóctonos y un diseño típico local.<br> 
 
-					Cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido.</p>
+					Este hotel alberga el restaurante Hawa, donde se preparan...</p>
 				</div>
 				<div class="clear"></div>
 			</div>
 
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
-					<img id="grande-hotel-b3-1" src="img/hoteles/belmond-nazarenas/belmond-nazarenas-1.1.jpg">
-					<img id="grande-hotel-b3-2" style="display:none;" src="img/hoteles/belmond-nazarenas/belmond-nazarenas-1.2.jpg">
-					<img id="grande-hotel-b3-3" style="display:none;" src="img/hoteles/belmond-nazarenas/belmond-nazarenas-1.3.jpg">
-					<a href="jose-antonio.php">Ver más</a>
+					<img id="grande-hotel-b3-1" src="img/hoteles/casa-andina-valle-sagrado/casa-andina-valle-sagrado-1.1.jpg">
+					<img id="grande-hotel-b3-2" style="display:none;" src="img/hoteles/casa-andina-valle-sagrado/casa-andina-valle-sagrado-1.2.jpg">
+					<img id="grande-hotel-b3-3" style="display:none;" src="img/hoteles/casa-andina-valle-sagrado/casa-andina-valle-sagrado-1.3.jpg">
+					<a href="casa-andina-private-valle.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-b3-1" src="img/hoteles/belmond-nazarenas/belmond-nazarenas-2.1.jpg">
-					<img id="mini-hotel-b3-2" src="img/hoteles/belmond-nazarenas/belmond-nazarenas-2.2.jpg">
-					<img id="mini-hotel-b3-3" src="img/hoteles/belmond-nazarenas/belmond-nazarenas-2.3.jpg">
+					<img id="mini-hotel-b3-1" src="img/hoteles/casa-andina-valle-sagrado/casa-andina-valle-sagrado-2.1.jpg">
+					<img id="mini-hotel-b3-2" src="img/hoteles/casa-andina-valle-sagrado/casa-andina-valle-sagrado-2.2.jpg">
+					<img id="mini-hotel-b3-3" src="img/hoteles/casa-andina-valle-sagrado/casa-andina-valle-sagrado-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
-					<h5><a href="hotel1.php">Casa Andina Private</a></h5>
-					<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. <br>
+					<h5><a href="casa-andina-private-valle.php">Casa Andina Private</a></h5>
+					<p>Situada en el centro de Cuzco y ofrece vistas a la plaza Limacpampa.<br>
 
-					Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,<br> 
+					A pocos pasos de la Plaza de Armas y del Coricancha.<br> 
 
-					Cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido.</p>
+					El establecimiento también alberga una sala de estar y de lectura con chimenea...</p>
 				</div>
 				<div class="clear"></div>
 			</div>
 
 			<div class="contenedor-hotel">
 				<div class="img-hotel">
-					<img id="grande-hotel-b4-1" src="img/hoteles/palacio-del-inka/palacio-del-inka-1.1.jpg">
-					<img id="grande-hotel-b4-2" style="display:none;" src="img/hoteles/palacio-del-inka/palacio-del-inka-1.2.jpg">
-					<img id="grande-hotel-b4-3" style="display:none;" src="img/hoteles/palacio-del-inka/palacio-del-inka-1.3.jpg">
-					<a href="jose-antonio.php">Ver más</a>
+					<img id="grande-hotel-b4-1" src="img/hoteles/sol-luna/sol-luna-1.1.jpg">
+					<img id="grande-hotel-b4-2" style="display:none;" src="img/hoteles/sol-luna/sol-luna-1.2.jpg">
+					<img id="grande-hotel-b4-3" style="display:none;" src="img/hoteles/sol-luna/sol-luna-1.3.jpg">
+					<a href="sol-luna.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-b4-1" src="img/hoteles/palacio-del-inka/palacio-del-inka-2.1.jpg">
-					<img id="mini-hotel-b4-2" src="img/hoteles/palacio-del-inka/palacio-del-inka-2.2.jpg">
-					<img id="mini-hotel-b4-3" src="img/hoteles/palacio-del-inka/palacio-del-inka-2.3.jpg">
+					<img id="mini-hotel-b4-1" src="img/hoteles/sol-luna/sol-luna-2.1.jpg">
+					<img id="mini-hotel-b4-2" src="img/hoteles/sol-luna/sol-luna-2.2.jpg">
+					<img id="mini-hotel-b4-3" src="img/hoteles/sol-luna/sol-luna-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
-					<h5><a href="hotel1.php">Palacio Del Inka</a></h5>
-					<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. <br>
+					<h5><a href="sol-luna.php">Sol y Luna</a></h5>
+					<p>Las habitaciones están decoradas con temas tradicionales andinos y constan de muebles elegantes.<br>
 
-					Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,<br> 
+					Preciosos decorados en estilo peruano con spa, gimnasio y sauna.<br> 
 
-					Cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido.</p>
+					Propone una amplia variedad de tratamientos...</p>
 				</div>
 				<div class="clear"></div>
 			</div>
 
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
-					<img id="grande-hotel-b5-1" src="img/hoteles/aranwa/aranwa-1.1.jpg">
-					<img id="grande-hotel-b5-2" style="display:none;" src="img/hoteles/aranwa/aranwa-1.2.jpg">
-					<img id="grande-hotel-b5-3" style="display:none;" src="img/hoteles/aranwa/aranwa-1.3.jpg">
-					<a href="jose-antonio.php">Ver más</a>
+					<img id="grande-hotel-b5-1" src="img/hoteles/posada-inca-yucay/posada-inca-yucay-1.1.jpg">
+					<img id="grande-hotel-b5-2" style="display:none;" src="img/hoteles/posada-inca-yucay/posada-inca-yucay-1.2.jpg">
+					<img id="grande-hotel-b5-3" style="display:none;" src="img/hoteles/posada-inca-yucay/posada-inca-yucay-1.3.jpg">
+					<a href="sonesta-posada-inca-yucay.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-b5-1" src="img/hoteles/aranwa/aranwa-2.1.jpg">
-					<img id="mini-hotel-b5-2" src="img/hoteles/aranwa/aranwa-2.2.jpg">
-					<img id="mini-hotel-b5-3" src="img/hoteles/aranwa/aranwa-2.3.jpg">
+					<img id="mini-hotel-b5-1" src="img/hoteles/posada-inca-yucay/posada-inca-yucay-2.1.jpg">
+					<img id="mini-hotel-b5-2" src="img/hoteles/posada-inca-yucay/posada-inca-yucay-2.2.jpg">
+					<img id="mini-hotel-b5-3" src="img/hoteles/posada-inca-yucay/posada-inca-yucay-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
-					<h5><a href="hotel1.php">Aranwa Hotel</a></h5>
-					<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. <br>
+					<h5><a href="sonesta-posada-inca-yucay.php">Sonesta Posada del Inca</a></h5>
+					<p>Ubicado en un antiguo monasterio reformado de estilo colonial.<br>
 
-					Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,<br> 
-
-					Cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido.</p>
+					Combina un alojamiento contemporáneo con elementos decorativos rústicos...</p>
 				</div>
 				<div class="clear"></div>
 			</div>
 
 			<div class="contenedor-hotel">
 				<div class="img-hotel">
-					<img id="grande-hotel-b6-1" src="img/hoteles/inkaterra/inkaterra-1.1.jpg">
-					<img id="grande-hotel-b6-2" style="display:none;" src="img/hoteles/inkaterra/inkaterra-1.2.jpg">
-					<img id="grande-hotel-b6-3" style="display:none;" src="img/hoteles/inkaterra/inkaterra-1.3.jpg">
-					<a href="jose-antonio.php">Ver más</a>
+					<img id="grande-hotel-b6-1" src="img/hoteles/san-agustin-urubamba/san-agustin-urubamba-1.1.jpg">
+					<img id="grande-hotel-b6-2" style="display:none;" src="img/hoteles/san-agustin-urubamba/san-agustin-urubamba-1.2.jpg">
+					<img id="grande-hotel-b6-3" style="display:none;" src="img/hoteles/san-agustin-urubamba/san-agustin-urubamba-1.3.jpg">
+					<a href="san-agustin-urubamba.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-b6-1" src="img/hoteles/inkaterra/inkaterra-2.1.jpg">
-					<img id="mini-hotel-b6-2" src="img/hoteles/inkaterra/inkaterra-2.2.jpg">
-					<img id="mini-hotel-b6-3" src="img/hoteles/inkaterra/inkaterra-2.3.jpg">
+					<img id="mini-hotel-b6-1" src="img/hoteles/san-agustin-urubamba/san-agustin-urubamba-2.1.jpg">
+					<img id="mini-hotel-b6-2" src="img/hoteles/san-agustin-urubamba/san-agustin-urubamba-2.2.jpg">
+					<img id="mini-hotel-b6-3" src="img/hoteles/san-agustin-urubamba/san-agustin-urubamba-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
-					<h5><a href="hotel1.php">Inkaterra La Casona</a></h5>
-					<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. <br>
+					<h5><a href="san-agustin-urubamba.php">San Agustin Urubamba</a></h5>
+					<p>Ubicado en una antigua hacienda colonial rodeada de espléndidos jardines.<br>
 
-					Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,<br> 
-
-					Cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido.</p>
+					Los huéspedes podrán elegir entre una amplia oferta gastronómica, incluyendo un...</p>
 				</div>
 				<div class="clear"></div>
 			</div>
