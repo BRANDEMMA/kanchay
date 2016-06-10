@@ -525,15 +525,15 @@
 
 			<div class="contenedor-hotel">
 				<div class="img-hotel">
-					<img id="grande-hotel-1x" src="img/hoteles/sonesata/sonesata-1.1.jpg">
-					<img id="grande-hotel-2x" style="display:none;" src="img/hoteles/sonesata/sonesata-1.2.jpg">
-					<img id="grande-hotel-3x" style="display:none;" src="img/hoteles/sonesata/sonesata-1.3.jpg">
+					<img id="grande-hotel-1x" src="img/hoteles/sonesta-posada-inca/sonesta-posada-inca-1.1.jpg">
+					<img id="grande-hotel-2x" style="display:none;" src="img/hoteles/sonesta-posada-inca/sonesta-posada-inca-1.2.jpg">
+					<img id="grande-hotel-3x" style="display:none;" src="img/hoteles/sonesta-posada-inca/sonesta-posada-inca-1.3.jpg">
 					<a href="sonesta-posada-del-inca.php">Ver más</a>
 				</div>
 				<div class="miniaturas-hotel">
-					<img id="mini-hotel-1x" src="img/hoteles/sonesata/sonesata-2.1.jpg">
-					<img id="mini-hotel-2x" src="img/hoteles/sonesata/sonesata-2.2.jpg">
-					<img id="mini-hotel-3x" src="img/hoteles/sonesata/sonesata-2.3.jpg">
+					<img id="mini-hotel-1x" src="img/hoteles/sonesta-posada-inca/sonesta-posada-inca-2.1.jpg">
+					<img id="mini-hotel-2x" src="img/hoteles/sonesta-posada-inca/sonesta-posada-inca-2.2.jpg">
+					<img id="mini-hotel-3x" src="img/hoteles/sonesta-posada-inca/sonesta-posada-inca-2.3.jpg">
 				</div>	
 				<div class="detalle-hotel">
 					<h5><a href="sonesta-posada-del-inca.php">Sonesta Posada del Inca</a></h5>
