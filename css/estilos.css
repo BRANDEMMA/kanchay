@@ -45,11 +45,11 @@ body{
 }
 .menu-principal .logo{
 	margin-right: 3%;
+	max-width: 266px;
 	width: 20%;
 }
 .menu-principal img{
 	height: 100%;
-	max-height: 75px;
 	width: 100%;
 }
 .menu-principal ul{
@@ -90,6 +90,61 @@ body{
 	padding: 15px 5px;
 }
 
+
+.menu-responsive{
+	display: none;
+	position: relative;
+	width: 100%;
+}
+.menu-responsive label{
+	display: block;
+	height: 30px;
+	width: 35px;
+}
+.menu-responsive label:hover{
+	background-color: #385794;
+	cursor: pointer;
+}
+.menu-responsive img{
+	height: 30px;
+	margin: 0;
+	padding: 0;
+	width: 35px;
+}
+#btn-menu{
+	display: none;
+}
+.menu{
+	background-color: #385794;
+	left: -500px;
+	position: absolute;
+	transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	width: 40%;
+	z-index: 1000;
+}
+.menu ul{
+	display: flex;
+	flex-direction: column;
+  	list-style: none;
+  	margin: 0;
+  	padding: 0;	
+}
+.menu li a{
+	border-bottom: 1px solid white;
+	color: white;
+ 	display: block;
+ 	font-family: "my_riad_pro_semibold";
+  	font-size: 1em;
+  	padding: 15px 30px;
+  	text-align: left;
+  	text-decoration: none;  	
+}
+#btn-menu:checked ~ .menu{
+	left: 0;
+} 
 
 
 
@@ -1173,6 +1228,12 @@ footer img{
 #hoteles-todos h4 span{
 	color: #FFED00;
 }
+.ajustar-hoteles{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+}
 .contenedor-hotel{
 	float: left;
 	margin-bottom: 5%;
@@ -1574,4 +1635,50 @@ footer img{
 .img-galeria{
 	margin: 2.3%;
 	width: 20%;
+}
+
+
+
+
+
+
+
+
+/*===========  ESTILOS DEL RESPONSIVE =============*/
+/*@media(min-width: 1326px){
+	.espacio-opciones{
+		margin-right: 6%;
+	}
+	.contenedor-hotel{
+		width: 47%;
+	}
+	.detalle-hotel{
+		width: 166px;
+	}
+	.miniaturas-hotel{
+		width: 66.5px;
+	}
+
+	.img-hotel{
+		width: 158px;
+	}
+
+}*/
+@media(max-width: 1320px){
+	.menu-principal .logo{
+		width: 265px;
+	}
+}
+@media(max-width: 1000px){
+	.menu-principal .logo{
+		margin-bottom: 2%;
+		margin-right: 0;
+		margin-top: 5px;
+	}
+	.menu-principal .nave{
+		display: none;
+	}
+	.menu-responsive{
+		display: block;
+	}
 }
