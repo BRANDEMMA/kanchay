@@ -1739,7 +1739,7 @@ footer img{
 		width: 90%;
 	}
 	.opcion-slider-tour{
-		padding: 10% 6% 12% 6%;
+		padding: 12% 6% 12% 6%;
 	}
 	.derecha-info img{
 		width: 100%;
@@ -1757,6 +1757,15 @@ footer img{
 	}
 	.izquierda-galeria img{
 		width: 70%;
+	}
+	.texto-slider-tour{
+		width: 100%;
+	}
+	.imagen-slider-tour{
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 5%;
+		width: 55%;
 	}
 }
 @media(max-width: 650px){
@@ -1778,7 +1787,7 @@ footer img{
 		width: 75%;
 	}
 	.opcion-slider-tour{
-		padding: 10% 6% 15% 6%;
+		padding: 12% 6% 15% 6%;
 	}
 }
 @media(max-width: 550px){
@@ -1874,6 +1883,9 @@ footer img{
 		width: 120px;
 	}
 	.menu{
+		width: 70%;
+	}
+	.imagen-slider-tour{
 		width: 70%;
 	}
 }
