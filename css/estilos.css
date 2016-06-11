@@ -204,7 +204,7 @@ body{
 }
 .informacion-contacto img{
 	margin-right: 1%;
-	width: 3%;
+	width: 25px;
 }
 .informacion-contacto h2{
 	font-size: 1.5em;
@@ -1693,5 +1693,215 @@ footer img{
 	}
 	.menu-responsive{
 		display: block;
+	}
+	.opcion-slider-tour{
+		padding: 6% 6% 10% 6%;
+	}
+	.izquierda-contactenos{
+		margin-left: 0;
+		margin-right: 6%;
+    	width: 47%;
+	}
+	.derecha-contactenos{
+		width: 47%;
+	}
+	.derecha-servicios img{
+		padding-top: 25%;
+	}
+	.informacion-contacto{
+		width: 70%;
+	}
+	.informacion-contacto .datos{
+	    width: 200px;
+	}
+	.datos-contacto-final{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.datos-final{
+		justify-content: flex-start;
+		width: 200px;
+	}
+}
+@media(max-width: 860px){
+	.informacion-contacto .datos{
+		float: none;
+	    margin: 0 auto;
+	    margin-bottom: 5%;
+	    margin-top: 5%;
+	}
+	.contactenos{
+		width: 80%;
+	}
+}
+@media(max-width: 720px){
+	.contenedor-slider-flechas{
+		width: 90%;
+	}
+	.opcion-slider-tour{
+		padding: 10% 6% 12% 6%;
+	}
+	.derecha-info img{
+		width: 100%;
+	}
+	.izquierda-galeria p{
+		padding-left: 20%;
+	    width: 66%;
+	}
+	.derecha-servicios img{
+		padding-top: 30%;
+		width: 125%;
+	}
+	.izquierda-nosotros{
+		padding-top: 15%;
+	}
+	.izquierda-galeria img{
+		width: 70%;
+	}
+}
+@media(max-width: 650px){
+	.boton-ver-todos{
+		left: 35%;
+	}
+}
+@media(max-width: 600px){
+	.derecha-servicios img{
+		padding-top: 40%;
+	}
+	.centrado-guias{
+		width: 90%;
+	}
+	.izquierda-nosotros{
+		padding-top: 20%;
+	}
+	.izquierda-nosotros img{
+		width: 75%;
+	}
+	.opcion-slider-tour{
+		padding: 10% 6% 15% 6%;
+	}
+}
+@media(max-width: 550px){
+	.izquierda-contactenos{
+		float: none;
+		margin: 0 auto;
+		margin-top: 5%;
+		width: 75%;
+
+	}
+	.derecha-contactenos{
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 5%;
+		width: 75%;
+	}
+	.derecha-contactenos textarea{
+		width: 164px;
+	}
+}
+@media(max-width: 500px){
+	.izquierda-galeria{
+		float: none;
+		margin: 0 auto;
+	    width: 80%;
+	}
+	.izquierda-galeria p{
+		padding-left: 0;
+		width: 100%;
+	}
+	.izquierda-galeria img{
+		display: none;
+	}
+	.derecha-galeria{
+		float: none;
+		margin: 0 auto;
+	    margin-top: 5%;
+	    width: 80%;
+	}
+	.contenedor-galeria{
+		padding-bottom: 5%;
+	}
+	.boton-ver-todos{
+		height: 120px;
+		width: 120px;
+	}
+	.boton-ver-todos p{
+		font-size: 1.2em;
+    	line-height: 2;
+	}
+	.izquierda-info{
+		width: 100%;
+	}
+	.izquierda-info p{
+		margin-top: 15%;
+		padding-left: 5%;
+	}
+	.derecha-info{
+		width: 100%;
+	}
+	.opcion-slider-tour{
+		padding: 15% 6% 15% 6%;
+	}
+	.izquierda-nosotros{
+		padding-top: 8%;
+		width: 100%;
+	}
+	.izquierda-nosotros img{
+		width: 50%;
+	}
+	.derecha-nosotros{
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+		width: 80%;
+	}
+	.derecha-nosotros img{
+		width: 75%;
+	}
+	.izquierda-servicios{
+		width: 100%;
+	}
+	.derecha-servicios{
+		display: none;
+	}
+	.centrado-guias{
+		width: 100%;
+	}
+	.guia{
+		width: 335px;
+	}
+	.guia img{
+		width: 120px;
+	}
+	.menu{
+		width: 70%;
+	}
+}
+@media(max-width: 400px){
+	.izquierda-contactenos{
+		width: 100%;
+	}
+	.derecha-contactenos{
+		width: 100%;
+	}
+	.boton-ver-todos{
+		left: 30%;
+	}
+	.guia{
+		text-align: center;
+	}
+	.guia img{
+		float: none;
+	}
+	.texto-guia{
+		margin-left: 0;
+		text-align: center;
+		width: 100%;
+	}
+	.contactenos{
+		width: 85%;
+	}
+	.opcion-slider-tour{
+		padding: 20% 6% 25% 6%;
 	}
 }
