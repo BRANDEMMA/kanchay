@@ -1669,6 +1669,19 @@ footer img{
 		width: 265px;
 	}
 }
+@media(max-width: 1200px){
+	.centrado-guias{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.izq{
+		float: none;
+	}
+	.der{
+		float: none;
+	}
+}
 @media(max-width: 1000px){
 	.menu-principal .logo{
 		margin-bottom: 2%;
