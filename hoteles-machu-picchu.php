@@ -1,5 +1,6 @@
 <?php
 ?>
+		<div class="ajustar-hoteles">
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
 					<img id="grande-hotel-c1-1" src="img/hoteles/inkaterra-machu/inkaterra-machu-1.1.jpg">
@@ -217,6 +218,6 @@
 			</div>
 
 			<div class="clear"></div>
-
+		</div>
 <?php
 ?>

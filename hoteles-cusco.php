@@ -1,5 +1,6 @@
 <?php
 ?>
+		<div class="ajustar-hoteles">
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
 					<img id="grande-hotel-a1-1" src="img/hoteles/belmond-monasterio/belmond-monasterio-1.1.jpg">
@@ -260,6 +261,6 @@
 			</div>
 
 			<div class="clear"></div>
-
+		</div>
 <?php
 ?>

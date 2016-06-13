@@ -1,5 +1,6 @@
 <?php
 ?>
+		<div class="ajustar-hoteles">
 			<div class="contenedor-hotel espacio-opciones">
 				<div class="img-hotel">
 					<img id="grande-hotel-b1-1" src="img/hoteles/aranwa-sacred-vallet/aranwa-sacred-vallet-1.1.jpg">
@@ -133,6 +134,6 @@
 			</div>
 
 			<div class="clear"></div>
-
+		</div>
 <?php
 ?>
