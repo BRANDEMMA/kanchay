@@ -52,6 +52,46 @@
 			<a href="img/kanchay-peru-galeria-4.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-4.2.jpg"></a>
 			<a href="img/kanchay-peru-galeria-5.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-5.2.jpg"></a>
 			<a href="img/kanchay-peru-galeria-6.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-6.2.jpg"></a>
+			<a href="img/kanchay-peru-galeria-7.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-7.jpg"></a>
+			<a href="img/kanchay-peru-galeria-8.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-8.jpg"></a>
+			<a href="img/kanchay-peru-galeria-9.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-9.jpg"></a>
+			<a href="img/kanchay-peru-galeria-10.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-10.jpg"></a>
+			<a href="img/kanchay-peru-galeria-11.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-11.jpg"></a>
+			<a href="img/kanchay-peru-galeria-12.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-12.jpg"></a>
+			<a href="img/kanchay-peru-galeria-13.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-13.jpg"></a>
+			<a href="img/kanchay-peru-galeria-14.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-14.jpg"></a>
+			<a href="img/kanchay-peru-galeria-15.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-15.jpg"></a>
+			<a href="img/kanchay-peru-galeria-16.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-16.jpg"></a>
+			<a href="img/kanchay-peru-galeria-17.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-17.jpg"></a>
+			<a href="img/kanchay-peru-galeria-18.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-18.jpg"></a>
+			<a href="img/kanchay-peru-galeria-19.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-19.jpg"></a>
+			<a href="img/kanchay-peru-galeria-20.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-20.jpg"></a>
+			<a href="img/kanchay-peru-galeria-21.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-21.jpg"></a>
+			<a href="img/kanchay-peru-galeria-22.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-22.jpg"></a>
+			<a href="img/kanchay-peru-galeria-23.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-23.jpg"></a>
+			<a href="img/kanchay-peru-galeria-24.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-24.jpg"></a>
+			<a href="img/kanchay-peru-galeria-25.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-25.jpg"></a>
+			<a href="img/kanchay-peru-galeria-26.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-26.jpg"></a>
+			<a href="img/kanchay-peru-galeria-27.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-27.jpg"></a>
+			<a href="img/kanchay-peru-galeria-28.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-28.jpg"></a>
+			<a href="img/kanchay-peru-galeria-29.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-29.jpg"></a>
+			<a href="img/kanchay-peru-galeria-30.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-30.jpg"></a>
+			<a href="img/kanchay-peru-galeria-31.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-31.jpg"></a>
+			<a href="img/kanchay-peru-galeria-32.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-32.jpg"></a>
+			<a href="img/kanchay-peru-galeria-33.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-33.jpg"></a>
+			<a href="img/kanchay-peru-galeria-34.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-34.jpg"></a>
+			<a href="img/kanchay-peru-galeria-35.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-35.jpg"></a>
+			<a href="img/kanchay-peru-galeria-36.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-36.jpg"></a>
+			<a href="img/kanchay-peru-galeria-37.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-37.jpg"></a>
+			<a href="img/kanchay-peru-galeria-38.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-38.jpg"></a>
+			<a href="img/kanchay-peru-galeria-39.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-39.jpg"></a>
+			<a href="img/kanchay-peru-galeria-40.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-40.jpg"></a>
+			<a href="img/kanchay-peru-galeria-41.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-41.jpg"></a>
+			<a href="img/kanchay-peru-galeria-42.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-42.jpg"></a>
+			<a href="img/kanchay-peru-galeria-43.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-43.jpg"></a>
+			<a href="img/kanchay-peru-galeria-44.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-44.jpg"></a>
+			<a href="img/kanchay-peru-galeria-45.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-45.jpg"></a>
+			<a href="img/kanchay-peru-galeria-46.jpg" data-lightbox="example-set"><img class="img-galeria" src="img/kanchay-peru-galeria-46.jpg"></a>
 			<script src="js/lightbox-plus-jquery.min.js"></script>
 
 		</div>
