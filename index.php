@@ -93,8 +93,8 @@
 		</div>
 		<div class="derecha-nosotros">
 			<img src="img/logo-kanchay-peru.png">
-			<h3>Porqué escoger K´anchay Peru?</h3>
-			<p>Porque somos una empresa especialmente creada para ti, para darte una satisfacción total en los servicios que requieras; con la satisfacción de la oferta recibida, nos comprometemos a ser los mejores del mercado local; ofreciéndote los mejores profesionales para tu atención personalizada siempre, las 24 horas del día.</p>
+			<h3>Porqué preferir K´anchay Peru?</h3>
+			<p>Porqué es una empresa Turística especialmente creada con el objetivo de otorgar una satisfacción total en los servicios que requieras. Toda vez recibida la petición y con suma satisfacción, nos comprometemos en ser los mejores del mercado local; ofreciéndote expertos profesionales con una atención personalizada de primer nivel: 24 horas al día, 7 días a la semana y todo el año, siempre, siempre, siempre.</p>
 			<!-- <h3>Nuestra gente</h3>
 			<p>
 			La unión de dos profesionales de ramas diferentes del servicio al cliente originó K´anchay Peru: José Fernando Benaducci Otayza, Guía Oficial de Turismo, Gerente General de la empresa, teniendo 27 años de experiencia, en el trato directo al público usuario y visitante, en Turismo receptivo y local. Además, tuvo una participación muy importante en el entrenamiento docente a otros guías de turismo del mercado local Lima, al igual que numerosos contactos del medio turístico para la atención y distribución de su carrera. Jerry Rolando Lolandes Arbayza, Consultor Financiero, con sede en la ciudad de Miami, quien con el interés de nuestro patrimonio es el principal promotor de nuestro país y de la empresa en el extranjero.</p> -->
@@ -175,7 +175,7 @@
 								<h4>City Tour Lima</h4>
 								<p><span>HORARIOS:</span><br><br>
 								9:00 AM<br>
-								2:00 PM<br><br>
+								14:00 PM<br><br>
 
 								<span>DURACIÓN:</span><br><br>
 								03 a 3 1/2 horas <br><br>

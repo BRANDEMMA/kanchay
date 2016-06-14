@@ -48,7 +48,7 @@
 				<p><span>Disfruta conocer la ciudad de nuestros ancestros, la ciudad de Virreyes : Lima.</span><br><br>
 				<span>HORARIOS:</span><br>
 				9:00 AM<br>
-				2:00 PM<br><br>
+				14:00 PM<br><br>
 
 				<span>RECORRIDO:</span><br><br>
 				Recojo del Hotel o lugar donde se encuentran los pasajeros<br><br>
