@@ -1037,6 +1037,7 @@ body{
 	display: flex;	
 	width: 100%;
 }
+
 .datos-final{
 	display: flex;
 	justify-content: center;
@@ -1062,7 +1063,13 @@ body{
     margin-right: 10px;
     width: 40px;
 }
-
+.ruc{
+	color: white;
+	font-family: "my_riad_pro_cond";
+	font-size: 1.2em;
+	text-align: center;
+	width: 100%;
+}
 
 
 

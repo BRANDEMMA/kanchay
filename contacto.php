@@ -55,6 +55,7 @@
 		  			<img src="img/telefono-blanco.png"><p><a href="tel: 051976348191" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">051 976 348 191</a></p>
 		  		</div>
 		  	</div>
+		  	<p class="ruc">K´ANCHAY PERU S.A.C.&nbsp;&nbsp; - &nbsp;&nbsp; RUC: 20601016045</p>
 		</div>
 	</div>
 
