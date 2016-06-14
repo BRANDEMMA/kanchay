@@ -537,7 +537,7 @@
 	</div> -->
 
 	<div class="contenedor-guias">
-		<div class="titulo-guias"><img src="img/guias-oficiales.png"><h2>GUIAS OFICIALES DE TURISMO</h2></div>
+		<div class="titulo-guias"><img src="img/guias-oficiales.png"><h2>COLABORADORES DE LA EMPRESA</h2></div>
 
 		<div class="centrado-guias">
 			<div class="guia izq">
@@ -622,7 +622,7 @@
 				<h5>Guía Oficial de Turismo</h5>
 
 				<p>Idiomas:<br>
-				<span>Inglés</span><br>
+				<span>Italiano</span><br>
 				Tour Leading:<br>
 				<span>Paracas - Nazca -Arequipa - Puno - Cuzco</span>
 				</p>
