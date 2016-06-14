@@ -118,6 +118,10 @@
 		</div>
 
 		<?php
+		include 'redes-sociales-flotantes.php';
+		?>
+
+		<?php
 		include 'contacto.php';
 		?>
 

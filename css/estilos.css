@@ -1076,6 +1076,35 @@ body{
 
 
 
+
+
+
+/*===========  ESTILOS DE REDES SOCIALES FLOTANTES =============*/
+.rsflotante{
+	left: 0;
+    position: fixed;
+    top: 40%;
+    width: 40px;
+}
+.rsflotante a{
+	height: 28px;
+	width: 28px;
+}
+.rsflotante img{
+	margin-top: -5px;
+}
+.rsflotante img:hover{
+	width: 32px;
+}
+
+
+
+
+
+
+
+
+
 /*===========  ESTILOS DEL FOOTER =============*/
 footer{
 	background-color: black;
