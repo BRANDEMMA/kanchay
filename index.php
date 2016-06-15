@@ -60,7 +60,7 @@
 	</div>
 
 	<div class="informacion-contacto">
-		<h2>CONTÁCTENOS <img src="img/mensaje2.png"> <span>Peruvian Paradise</span></h2>
+		<h2>CONTÁCTENOS <img src="img/mensaje2.png"></h2>
 		<div class="datos">
 			<img src="img/ubicacion.png">
 			<p>			
@@ -174,7 +174,7 @@
 							<div class="texto-slider-tour">
 								<h4>City Tour Lima</h4>
 								<p><span>HORARIOS:</span><br><br>
-								9:00 AM<br>
+								09:00 AM<br>
 								14:00 PM<br><br>
 
 								<span>DURACIÓN:</span><br><br>
@@ -437,7 +437,8 @@
 	<div class="contenedor-galeria" id="galeria">
 		<div class="titulo-galeria"><img src="img/galeria-kanchay-peru.png"><h2>GALERÍA</h2></div>
 		<div class="izquierda-galeria">
-			<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, esencialmente igual al original.</p>
+			<p>Te invitamos a visitar nuestra galería de fotos, aquí encontrarás las más hermosas vistas del Perú; muchas de éstas tomas fotográficas han tenido un valor y sentimiento muy profundo para todos los que publicaron y vivieron, en ese momento especial una pequeña explosión de emociones dentro de un corazón que solo podría traducirse en una sola palabra : “PERU”….<br><br>
+			Disfruta y conoce nuestro país ..¡¡¡¡¡¡….</p>
 			<img src="img/turistas-foto.png">
 		</div>
 		<div class="derecha-galeria">

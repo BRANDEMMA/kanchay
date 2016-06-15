@@ -53,8 +53,8 @@
 				<div class="derecha-tour">
 					<h4>CIUDAD DE VIRREYES</h4>
 					<p>
-					<span>SALIDA 01:</span> LIMA- 9:00 AM<br>
-					<span>SALIDA 02:</span> LIMA – 2:00 PM<br><br>
+					<span>SALIDA 01:</span> LIMA- 09:00 AM<br>
+					<span>SALIDA 02:</span> LIMA – 14:00 PM<br><br>
 					<span>DURACIÓN:</span> 3 A 3 1/2 HORAS<br></p>
 
 					<a href="city-tour-lima.php"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> Ver más</a>

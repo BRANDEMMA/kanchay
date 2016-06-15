@@ -45,8 +45,8 @@ body{
 }
 .menu-principal .logo{
 	margin-right: 3%;
-	max-width: 266px;
-	width: 20%;
+	max-width: 500px;
+	width: 37%;
 }
 .menu-principal img{
 	height: 100%;
@@ -64,7 +64,7 @@ body{
 	color: black;
 	display: block;
 	font-size: 1em;
-	padding: 30px 10px;
+	padding: 64px 10px;
 	text-decoration: none;
 }
 .nave li a:hover{
