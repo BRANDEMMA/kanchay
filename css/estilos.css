@@ -1705,6 +1705,16 @@ footer img{
 		width: 265px;
 	}
 }
+@media(max-width: 1300px){
+	.espacio-opciones{
+		margin-right: 3%;
+	}
+}
+@media(max-width: 1260px){
+	.espacio-opciones, .contenedor-hotel{
+		margin: 2%;
+	}
+}
 @media(max-width: 1200px){
 	.centrado-guias{
 		display: flex;
@@ -1759,6 +1769,11 @@ footer img{
 		width: 200px;
 	}
 }
+@media(max-width: 950px){
+	#hoteles-todos h4{
+		margin-top: 35px;
+	}
+}
 @media(max-width: 860px){
 	.informacion-contacto .datos{
 		float: none;
@@ -1768,6 +1783,42 @@ footer img{
 	}
 	.contactenos{
 		width: 80%;
+	}
+}
+@media(max-width: 800px){
+	.izquierda-nosotros2{
+		padding-top: 5%;
+		text-align: center;
+    	width: 100%;
+	}
+	.izquierda-nosotros2 img{
+		width: 50%;
+	}
+	.derecha-nosotros2{
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+		width: 90%;
+	}
+	.derecha-nosotros2 img{
+		width: 70%;
+	}
+	.testimonio-personas-espacio2{
+		margin: 0 auto;
+	    margin-top: 5%;
+	}
+	.testimonio-persona2{
+		float: none;
+		margin: 0 auto;
+		margin-bottom: 5%;
+		width: 60%;
+	}
+	.opciones-servicios{
+		flex-wrap: wrap;
+		margin-bottom: 2%;
+	}
+	.hoteles{
+		margin-bottom: 5%;
 	}
 }
 @media(max-width: 720px){
@@ -1825,6 +1876,34 @@ footer img{
 	.opcion-slider-tour{
 		padding: 12% 6% 15% 6%;
 	}
+	.espacio-opciones, .contenedor-hotel{
+		margin-bottom: 10%;
+	}
+	.contenedor-hotel{
+		width: 300px;
+	}
+	.img-hotel{
+		margin-bottom: 5%;
+		width: 100%;
+	}
+	.miniaturas-hotel{
+		display: flex;
+		float: none;
+		justify-content: center;
+		margin: 5% 0;
+		width: 100%;
+	}
+	.miniaturas-hotel img{
+		height: 100%;
+		margin: 0 1%;
+		width: 25%;
+	}
+	.detalle-hotel{
+		width: 100%;
+	}
+	.detalle-hotel h5{
+		text-align: center;
+	}
 }
 @media(max-width: 550px){
 	.izquierda-contactenos{
@@ -1842,6 +1921,9 @@ footer img{
 	}
 	.derecha-contactenos textarea{
 		width: 164px;
+	}
+	.testimonio-persona2{
+		width: 90%;
 	}
 }
 @media(max-width: 500px){
@@ -1951,5 +2033,14 @@ footer img{
 	}
 	.opcion-slider-tour{
 		padding: 20% 6% 25% 6%;
+	}
+	.izquierda-nosotros2 img{
+		width: 65%;
+	}
+	.derecha-nosotros2 img{
+		width: 75%;
+	}
+	.derecha-nosotros2{
+		width: 100%;
 	}
 }
