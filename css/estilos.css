@@ -1774,6 +1774,11 @@ footer img{
 		margin-top: 35px;
 	}
 }
+@media(max-width: 900px){
+	.opcion-transporte img{
+		width: 70%;
+	}
+}
 @media(max-width: 860px){
 	.informacion-contacto .datos{
 		float: none;
@@ -1820,6 +1825,18 @@ footer img{
 	.hoteles{
 		margin-bottom: 5%;
 	}
+	.opcion-terrestre{
+		margin: 0;
+		margin-bottom: 5%;
+		width: 33%;
+	}
+	.empresas{
+		margin: 5% 1%;
+    	width: 30%;
+	}
+	.img-galeria{
+		width: 27%;
+	}
 }
 @media(max-width: 720px){
 	.contenedor-slider-flechas{
@@ -1853,6 +1870,25 @@ footer img{
 		margin: 0 auto;
 		margin-bottom: 5%;
 		width: 55%;
+	}
+}
+@media(max-width: 700px){
+	.texto-tour{
+		width: 100%;
+	}
+	.detalle-tour{
+		float: none;
+		width: 85%;
+	}
+	.detalle-tour, .espacio-tour{
+		margin: 0 auto;
+		margin-bottom: 10%;
+	}
+	.izquierda-tour{
+		width: 50%;
+	}
+	.derecha-tour{
+		width: 47%;
 	}
 }
 @media(max-width: 650px){
@@ -1903,6 +1939,37 @@ footer img{
 	}
 	.detalle-hotel h5{
 		text-align: center;
+	}
+	.izquierda-descripcion{
+		margin-right: 0;
+		width: 100%;
+	}
+	.izquierda-descripcion .img-mini{
+		width: 25%;
+	}
+	.derecha-descripcion{
+		width: 100%;
+	}
+	.derecha-descripcion p{
+		margin-bottom: 10%;
+	}
+	.izquierda-aereo{
+		border-right: none;
+		margin-right: 0;
+		width: 100%;
+	}
+	.izquierda-aereo img{
+		padding-top: 0;
+	}
+	.derecha-aereo{
+		width: 100%;
+	}
+	.izquierda-gastronomia{
+		margin-right: 0;
+		width: 100%;
+	}
+	.derecha-gastronomia{
+		width: 100%;
 	}
 }
 @media(max-width: 550px){
@@ -2006,6 +2073,9 @@ footer img{
 	.imagen-slider-tour{
 		width: 70%;
 	}
+	.opcion-terrestre{
+		width: 50%;
+	}
 }
 @media(max-width: 400px){
 	.izquierda-contactenos{
@@ -2042,5 +2112,44 @@ footer img{
 	}
 	.derecha-nosotros2{
 		width: 100%;
+	}
+	.derecha-descripcion p{
+		margin-top: 0;
+	}
+	.hoteles img, .transporte img{
+		width: 75%;
+	}
+	.opcion-transporte img{
+		width: 80%;
+	}
+	.opcion-terrestre{
+		margin-bottom: 10%;
+		width: 100%;
+	}
+	.empresas{
+		width: 47%;
+	}
+	.detalle-tour h3{
+		text-align: center;
+	}
+	.izquierda-lacustre{
+		width: 100%;
+	}
+	.izquierda-tour{
+		margin-right: 0;
+		text-align: center;
+		width: 100%;
+	}
+	.izquierda-tour img{
+		width: 80%;
+	}
+	.derecha-tour{
+		width: 100%;
+	}
+	.derecha-tour h4{
+		margin-top: 11.5px;
+	}
+	.img-galeria{
+		width: 44%;
 	}
 }
