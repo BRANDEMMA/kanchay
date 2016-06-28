@@ -44,17 +44,17 @@
 		<div class="opciones-servicios">
 			<div class="hoteles">
 				<h3><a href="servicios.php">Hoteles</a></h3>
-				<a href="servicios.php"><img src="img/hoteles-kanchay-peru.png"></a>
+				<a href="servicios.php#hoteles-todos"><img src="img/hoteles-kanchay-peru.png"></a>
 			</div>
 			
 			<div class="transporte">
 				<h3><a href="servicios-transporte.php">Transporte Aereo</a></h3>
-				<a href="servicios-transporte.php"><img src="img/transporte2.png"></a>
+				<a href="servicios-transporte.php#transporte-todos"><img src="img/transporte2.png"></a>
 			</div>
 		</div>
 		
 
-		<div class="contenedor-aereo">
+		<div class="contenedor-aereo" id="contenedor-aereo">
 			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> AVIÓN</h3>
 			
 			<div class="opcion-aereo">

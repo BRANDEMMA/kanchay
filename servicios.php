@@ -81,12 +81,12 @@
 		<div class="opciones-servicios">
 			<div class="hoteles">
 				<h3><a href="">Hoteles</a></h3>
-				<img id="mostrar-hoteles" src="img/hoteles-kanchay-peru.png">
+				<a href="#hoteles-todos"><img id="mostrar-hoteles" src="img/hoteles-kanchay-peru.png"></a>
 			</div>
 			
 			<div class="transporte">
 				<h3><a href="">Transporte</a></h3>
-				<img id="mostrar-transporte" src="img/transporte-kanchay-peru.png">
+				<a href="#transporte-todos"><img id="mostrar-transporte" src="img/transporte-kanchay-peru.png"></a>
 			</div>
 		</div>
 		
@@ -123,17 +123,17 @@
 			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> TRANSPORTES</h3>
 			
 			<div class="opcion-transporte">
-				<a href="transporte-terrestre.php"><img src="img/transporte1.png"></a>
+				<a href="transporte-terrestre.php#contenedor-terrestre"><img src="img/transporte1.png"></a>
 				<h4><a href="transporte-terrestre.php">Terrestre</a></h4>
 			</div>
 
 			<div class="opcion-transporte">
-				<a href="transporte-aereo.php"><img src="img/transporte2.png"></a>
+				<a href="transporte-aereo.php#contenedor-aereo"><img src="img/transporte2.png"></a>
 				<h4><a href="transporte-aereo.php">Aereo</a></h4>
 			</div>
 
 			<div class="opcion-transporte">
-				<a href="transporte-lacustre.php"><img src="img/transporte3.png"></a>
+				<a href="transporte-lacustre.php#contenedor-lacustre"><img src="img/transporte3.png"></a>
 				<h4><a href="transporte-lacustre.php">Lacustre</a></h4>
 			</div>
 

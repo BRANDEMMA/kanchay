@@ -44,17 +44,17 @@
 		<div class="opciones-servicios">
 			<div class="hoteles">
 				<h3><a href="servicios.php">Hoteles</a></h3>
-				<a href="servicios.php"><img src="img/hoteles-kanchay-peru.png"></a>
+				<a href="servicios.php#hoteles-todos"><img src="img/hoteles-kanchay-peru.png"></a>
 			</div>
 			
 			<div class="transporte">
 				<h3><a href="servicios-transporte.php">Lacustre</a></h3>
-				<a href="servicios-transporte.php"><img src="img/transporte3.png"></a>
+				<a href="servicios-transporte.php#transporte-todos"><img src="img/transporte3.png"></a>
 			</div>
 		</div>
 		
 
-		<div class="contenedor-lacustre">
+		<div class="contenedor-lacustre" id="contenedor-lacustre">
 			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> TRANSPORTE EN EL LAGO TITICACA</h3>
 			
 			<div class="opcion-lacustre">

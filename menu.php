@@ -6,8 +6,8 @@
 				<li><a href="index.php#nosotros">Nosotros</a></li>
 				<li><a href="servicios.php">Servicios</a>
 					<ul>
-						<li><a href="servicios.php">Hoteles</a></li>
-						<li><a href="servicios-transporte.php">Transporte</a></li>
+						<li><a href="servicios.php#hoteles-todos">Hoteles</a></li>
+						<li><a href="servicios-transporte.php#transporte-todos">Transporte</a></li>
 					</ul>
 				</li>
 				<li><a href="index.php#tours">Tours</a></li>

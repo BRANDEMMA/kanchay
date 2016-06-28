@@ -44,21 +44,21 @@
 		<div class="opciones-servicios">
 			<div class="hoteles">
 				<h3><a href="servicios.php">Hoteles</a></h3>
-				<a href="servicios.php"><img src="img/hoteles-kanchay-peru.png"></a>
+				<a href="servicios.php#hoteles-todos"><img src="img/hoteles-kanchay-peru.png"></a>
 			</div>
 			
 			<div class="transporte">
 				<h3><a href="servicios-transporte.php">Terrestre</a></h3>
-				<a href="servicios-transporte.php"><img src="img/transporte-kanchay-peru.png"></a>
+				<a href="servicios-transporte.php#transporte-todos"><img src="img/transporte-kanchay-peru.png"></a>
 			</div>
 		</div>
 		
 
-		<div class="contenedor-terrestre">
+		<div class="contenedor-terrestre" id="contenedor-terrestre">
 			<h3><i class="fa fa-caret-right" aria-hidden="true"></i> TRANSPORTES PARA NUESTROS PASAJEROS</h3>
 			
 			<div class="opcion-terrestre">
-				<a href="carro1.php"><img src="img/carro1.png"></a>
+				<img src="img/carro1.png">
 					<!-- <a href="carro1.php"><h4>Nissan H1 (12 pasajeros):</h4></a>
 					<p>• Asientos reclinables a 140 °<br>
 					• GPS<br>
