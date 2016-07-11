@@ -500,26 +500,26 @@
 
 			<div class="clear"></div>
 		</div>
-	</div>
+	</div> -->
 
 	<div class="contenedor-promociones" id="promociones">
 		<div class="titulo-promociones"><img src="img/promociones-kanchay-peru.png"><h2>PROMOCIONES</h2></div>
 		<div class="promociones">
 			<div class="izquierda-promociones">
-				<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, esencialmente igual al original. </p>
+				<p>Ven a conocer el Perú con nosotros! Te ofrecemos las mejores promociones para que vivas nuevas experiencias y crees los mejores recuerdos de tu vida.</p>
 				<div class="destinos">
-					<h2>CUZCO CIUDAD</h2>
-					<div class="imagen-destinos"><img src="img/cuzco-ciudad.jpg"></div>
+					<h2>AYACUCHO – VILCASHUAMAN</h2>
+					<div class="imagen-destinos"><img src="img/promocion1.jpg"></div>
 					<div class="texto-destinos">
 						<p>Actividades</p>
-						<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, esencialmente igual al original.</p>
-						<a href="">Ver más</a>
+						<p>Visita al mirador Acuchimay donde apreciaremos la ciudad y sus principales barrios. Recorreremos la ciudad de Huamanga visitando el Templo y Monasterio de Santa Teresa, Iglesia de San Cristóbal (primera iglesia de la ciudad), Arco San Francisco, Iglesia y convento de San Francisco, Iglesia y Convento de Santa Clara, Templo de la Compañía de Jesús, Palacio del Marquéz de Mozobamba (La Mansión), Plaza de Armas; visitaremos también la...</p>
+						<a href="promociones-ayacucho-vilcashuaman.php">Ver más</a>
 					</div>
 
 					<div class="clear"></div>
 				</div>
 
-				<div class="destinos">
+				<!-- <div class="destinos">
 					<h2>VALLE SAGRADO</h2>
 					<div class="imagen-destinos"><img src="img/valle-sagrado.jpg"></div>
 					<div class="texto-destinos">
@@ -529,13 +529,13 @@
 					</div>
 
 					<div class="clear"></div>
-				</div>
+				</div> -->
 			</div>
 			<div class="derecha-promociones"><img src="img/cartel-promociones.png"></div>
 
 			<div class="clear"></div>
 		</div>
-	</div> -->
+	</div>
 
 	<div class="contenedor-guias">
 		<div class="titulo-guias"><img src="img/guias-oficiales.png"><h2>COLABORADORES DE LA EMPRESA</h2></div>
